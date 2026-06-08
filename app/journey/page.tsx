@@ -46,7 +46,6 @@ export default function JourneyPage() {
         {VOLUME_TITLES.map(({ vol, title, sub, years }) => {
           const colors = VOLUME_COLORS[vol]
           const [start, end] = VOLUME_RANGES[vol]
-          const volumeEntries = entries.filter(e => e.volume === vol)
 
           return (
             <div key={vol} style={{ marginBottom: '3rem' }}>

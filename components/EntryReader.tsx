@@ -2,7 +2,7 @@
 
 import { Entry, VOLUME_COLORS } from '@/lib/types'
 import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 
 function Prose({ text }: { text: string }) {
@@ -17,10 +17,14 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
   const colors = VOLUME_COLORS[entry.volume]
   const [bookmarked, setBookmarked] = useState(false)
   const [justBookmarked, setJustBookmarked] = useState(false)
+  const initialized = useRef(false)
 
   useEffect(() => {
-    setBookmarked(isBookmarked(entry.day))
-    markRead(entry.day)
+    if (!initialized.current) {
+      initialized.current = true
+      setBookmarked(isBookmarked(entry.day))
+      markRead(entry.day)
+    }
   }, [entry.day])
 
   function handleBookmark() {
@@ -115,7 +119,7 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
               fontFamily: 'var(--font-serif)', fontSize: '1.15rem', fontStyle: 'italic',
               lineHeight: 1.7, color: 'var(--text-primary)', marginBottom: '0.75rem'
             }}>
-              "{entry.voiceQuote}"
+              &ldquo;{entry.voiceQuote}&rdquo;
             </p>
             <cite style={{ fontSize: '0.8rem', color: 'var(--text-muted)', fontStyle: 'normal' }}>
               — {entry.voiceAttribution}
@@ -139,7 +143,7 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
               fontFamily: 'var(--font-serif)', fontSize: '1rem', fontStyle: 'italic',
               lineHeight: 1.7, color: 'var(--text-secondary)', margin: 0
             }}>
-              "{entry.scriptureText}"
+              &ldquo;{entry.scriptureText}&rdquo;
             </p>
           </div>
         </div>
