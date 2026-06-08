@@ -1,0 +1,196 @@
+'use client'
+
+import { Entry, VOLUME_COLORS } from '@/lib/types'
+import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
+import { useState, useEffect } from 'react'
+import Link from 'next/link'
+
+function Prose({ text }: { text: string }) {
+  return (
+    <div className="entry-prose" style={{ color: 'var(--text-secondary)', fontSize: '1rem', lineHeight: '1.8' }}>
+      {text.split('\n\n').map((p, i) => <p key={i}>{p}</p>)}
+    </div>
+  )
+}
+
+export default function EntryReader({ entry, prev, next }: { entry: Entry; prev: number | null; next: number | null }) {
+  const colors = VOLUME_COLORS[entry.volume]
+  const [bookmarked, setBookmarked] = useState(false)
+  const [justBookmarked, setJustBookmarked] = useState(false)
+
+  useEffect(() => {
+    setBookmarked(isBookmarked(entry.day))
+    markRead(entry.day)
+  }, [entry.day])
+
+  function handleBookmark() {
+    const result = toggleBookmark(entry.day)
+    setBookmarked(result)
+    if (result) {
+      setJustBookmarked(true)
+      setTimeout(() => setJustBookmarked(false), 1500)
+    }
+  }
+
+  return (
+    <div style={{ background: 'var(--bg)', minHeight: '100vh' }}>
+      {/* Top nav */}
+      <nav style={{
+        position: 'sticky', top: 0, zIndex: 10,
+        background: 'var(--bg)', borderBottom: '1px solid var(--border)',
+        padding: '0 1.5rem', height: '52px',
+        display: 'flex', alignItems: 'center', justifyContent: 'space-between'
+      }}>
+        <Link href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '6px' }}>
+          <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1rem', color: 'var(--text-primary)' }}>
+            Footsteps
+          </span>
+        </Link>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+          <Link href="/journey" style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textDecoration: 'none' }}>
+            All entries
+          </Link>
+          <button onClick={handleBookmark} style={{
+            background: 'none', border: 'none', cursor: 'pointer', padding: '4px',
+            color: bookmarked ? colors.dot : 'var(--text-muted)',
+            fontSize: '1.1rem', display: 'flex', alignItems: 'center'
+          }} title={bookmarked ? 'Remove bookmark' : 'Bookmark'}>
+            {bookmarked ? '◆' : '◇'}
+          </button>
+        </div>
+      </nav>
+
+      {/* Entry */}
+      <main style={{ maxWidth: '680px', margin: '0 auto', padding: '3rem 1.5rem 6rem' }}>
+
+        {/* Volume + day badge */}
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '1.5rem' }}>
+          <span style={{
+            display: 'inline-block', fontSize: '0.7rem', fontWeight: 500,
+            background: colors.badge, color: colors.text,
+            borderRadius: '4px', padding: '3px 8px', letterSpacing: '0.03em'
+          }}>
+            Vol. {entry.volume} — {entry.volumeTitle}
+          </span>
+          <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Day {entry.day}</span>
+        </div>
+
+        {/* Era + date */}
+        <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '0.5rem' }}>
+          {entry.era} · {entry.dateLabel}
+        </div>
+
+        {/* Title */}
+        <h1 style={{
+          fontFamily: 'var(--font-serif)', fontSize: 'clamp(1.75rem, 4vw, 2.5rem)',
+          fontWeight: 500, lineHeight: 1.2, color: 'var(--text-primary)',
+          marginBottom: '0.25rem'
+        }}>
+          {entry.title}
+        </h1>
+
+        {/* Figure */}
+        <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '2.5rem', fontStyle: 'italic' }}>
+          {entry.figure}
+        </p>
+
+        {/* THE MOMENT */}
+        <div style={{ marginBottom: '2.5rem' }}>
+          <div className="section-label">The Moment</div>
+          <Prose text={entry.moment} />
+        </div>
+
+        <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
+
+        {/* THE VOICE */}
+        <div style={{ marginBottom: '2.5rem' }}>
+          <div className="section-label">The Voice</div>
+          <blockquote style={{
+            borderLeft: `3px solid ${colors.border}`,
+            paddingLeft: '1.25rem',
+            margin: 0,
+            borderRadius: 0
+          }}>
+            <p style={{
+              fontFamily: 'var(--font-serif)', fontSize: '1.15rem', fontStyle: 'italic',
+              lineHeight: 1.7, color: 'var(--text-primary)', marginBottom: '0.75rem'
+            }}>
+              "{entry.voiceQuote}"
+            </p>
+            <cite style={{ fontSize: '0.8rem', color: 'var(--text-muted)', fontStyle: 'normal' }}>
+              — {entry.voiceAttribution}
+            </cite>
+          </blockquote>
+        </div>
+
+        <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
+
+        {/* THE WORD */}
+        <div style={{ marginBottom: '2.5rem' }}>
+          <div className="section-label">The Word</div>
+          <div style={{
+            background: 'var(--bg-muted)', borderRadius: '8px',
+            padding: '1.25rem 1.5rem', border: '1px solid var(--border)'
+          }}>
+            <div style={{ fontSize: '0.75rem', fontWeight: 500, color: colors.text, marginBottom: '0.5rem' }}>
+              {entry.scriptureRef}
+            </div>
+            <p style={{
+              fontFamily: 'var(--font-serif)', fontSize: '1rem', fontStyle: 'italic',
+              lineHeight: 1.7, color: 'var(--text-secondary)', margin: 0
+            }}>
+              "{entry.scriptureText}"
+            </p>
+          </div>
+        </div>
+
+        <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
+
+        {/* THE WEIGHT */}
+        <div style={{ marginBottom: '3rem' }}>
+          <div className="section-label">The Weight</div>
+          <Prose text={entry.weight} />
+        </div>
+
+        {/* Prev / Next */}
+        <div style={{
+          display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+          paddingTop: '2rem', borderTop: '1px solid var(--border)'
+        }}>
+          {prev ? (
+            <Link href={`/entry/${prev}`} style={{
+              display: 'flex', alignItems: 'center', gap: '6px',
+              fontSize: '0.85rem', color: 'var(--text-muted)', textDecoration: 'none'
+            }}>
+              ← Day {prev}
+            </Link>
+          ) : <div />}
+          {next ? (
+            <Link href={`/entry/${next}`} style={{
+              display: 'flex', alignItems: 'center', gap: '6px',
+              fontSize: '0.85rem', color: 'var(--text-muted)', textDecoration: 'none',
+              background: 'var(--bg-muted)', padding: '8px 16px', borderRadius: '6px',
+              border: '1px solid var(--border)'
+            }}>
+              Day {next} →
+            </Link>
+          ) : (
+            <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>More coming soon</span>
+          )}
+        </div>
+
+        {/* Bookmark toast */}
+        {justBookmarked && (
+          <div style={{
+            position: 'fixed', bottom: '2rem', left: '50%', transform: 'translateX(-50%)',
+            background: 'var(--text-primary)', color: 'var(--bg)',
+            padding: '10px 20px', borderRadius: '8px', fontSize: '0.85rem',
+            pointerEvents: 'none'
+          }}>
+            Entry saved
+          </div>
+        )}
+      </main>
+    </div>
+  )
+}
