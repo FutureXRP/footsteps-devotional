@@ -1,5 +1,6 @@
 import { getAllEntries } from '@/lib/entries'
-import { VOLUME_COLORS, VOLUME_RANGES } from '@/lib/types'
+import { VOLUME_RANGES } from '@/lib/types'
+import JourneyClient from '@/components/JourneyClient'
 import Link from 'next/link'
 
 const VOLUME_TITLES = [
@@ -14,6 +15,18 @@ export default function JourneyPage() {
   const entries = getAllEntries()
   const entryMap = new Map(entries.map(e => [e.day, e]))
 
+  // Build groups for client component
+  const groups = VOLUME_TITLES.map(({ vol, title, sub, years }) => {
+    const [start, end] = VOLUME_RANGES[vol]
+    const rows = Array.from({ length: end - start + 1 }, (_, i) => {
+      const day = start + i
+      const entry = entryMap.get(day)
+      if (!entry) return null
+      return { day: entry.day, title: entry.title, dateLabel: entry.dateLabel, volume: entry.volume }
+    })
+    return { vol, title, sub, years, rows }
+  })
+
   return (
     <div style={{ background: 'var(--bg)', minHeight: '100vh' }}>
       <nav style={{
@@ -27,9 +40,14 @@ export default function JourneyPage() {
             Footsteps
           </span>
         </Link>
-        <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-          {entries.length} of 365 written
-        </span>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '1.25rem' }}>
+          <Link href="/bookmarks" style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textDecoration: 'none' }}>
+            Saved
+          </Link>
+          <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
+            {entries.length} of 365 written
+          </span>
+        </div>
       </nav>
 
       <main style={{ maxWidth: '800px', margin: '0 auto', padding: '3rem 1.5rem 6rem' }}>
@@ -43,88 +61,8 @@ export default function JourneyPage() {
           365 days. Five volumes. Two thousand years.
         </p>
 
-        {VOLUME_TITLES.map(({ vol, title, sub, years }) => {
-          const colors = VOLUME_COLORS[vol]
-          const [start, end] = VOLUME_RANGES[vol]
-
-          return (
-            <div key={vol} style={{ marginBottom: '3rem' }}>
-              {/* Volume header */}
-              <div style={{
-                display: 'flex', alignItems: 'baseline', gap: '10px',
-                marginBottom: '1rem', paddingBottom: '0.75rem',
-                borderBottom: '1px solid var(--border)'
-              }}>
-                <span style={{
-                  fontSize: '0.7rem', fontWeight: 500,
-                  background: colors.badge, color: colors.text,
-                  borderRadius: '4px', padding: '3px 8px'
-                }}>
-                  Vol. {vol}
-                </span>
-                <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1.1rem', color: 'var(--text-primary)' }}>
-                  {title}
-                </span>
-                <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-                  {sub} · {years} · Days {start}–{end}
-                </span>
-              </div>
-
-              {/* Entry list */}
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '2px' }}>
-                {Array.from({ length: end - start + 1 }, (_, i) => start + i).map(day => {
-                  const entry = entryMap.get(day)
-                  if (entry) {
-                    return (
-                      <Link key={day} href={`/entry/${day}`} style={{
-                        display: 'flex', alignItems: 'baseline', gap: '12px',
-                        padding: '8px 10px', borderRadius: '6px',
-                        textDecoration: 'none', transition: 'background 0.15s',
-                      }}
-                        className="journey-row"
-                      >
-                        <span style={{
-                          fontFamily: 'var(--font-mono)', fontSize: '0.7rem',
-                          color: 'var(--text-muted)', minWidth: '28px'
-                        }}>
-                          {day}
-                        </span>
-                        <span style={{ fontSize: '0.9rem', color: 'var(--text-primary)', flex: 1 }}>
-                          {entry.title}
-                        </span>
-                        <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-                          {entry.dateLabel}
-                        </span>
-                      </Link>
-                    )
-                  } else {
-                    return (
-                      <div key={day} style={{
-                        display: 'flex', alignItems: 'baseline', gap: '12px',
-                        padding: '8px 10px', opacity: 0.35
-                      }}>
-                        <span style={{
-                          fontFamily: 'var(--font-mono)', fontSize: '0.7rem',
-                          color: 'var(--text-muted)', minWidth: '28px'
-                        }}>
-                          {day}
-                        </span>
-                        <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>
-                          Coming soon
-                        </span>
-                      </div>
-                    )
-                  }
-                })}
-              </div>
-            </div>
-          )
-        })}
+        <JourneyClient groups={groups} />
       </main>
-
-      <style>{`
-        .journey-row:hover { background: var(--bg-muted); }
-      `}</style>
     </div>
   )
 }
