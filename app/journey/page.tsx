@@ -3,11 +3,11 @@ import { VOLUME_COLORS, VOLUME_RANGES } from '@/lib/types'
 import Link from 'next/link'
 
 const VOLUME_TITLES = [
-  { vol: 1, title: 'Blood & Fire', sub: 'The Early Church', years: '30–313 AD' },
+  { vol: 1, title: 'Blood & Fire', sub: 'The Early Church', years: '30–325 AD' },
   { vol: 2, title: 'Councils & Confessions', sub: 'The Age of Doctrine', years: '313–600 AD' },
-  { vol: 3, title: 'Darkness & Light', sub: 'The Medieval Church', years: '600–1400 AD' },
-  { vol: 4, title: 'Here I Stand', sub: 'The Reformation', years: '1400–1650 AD' },
-  { vol: 5, title: 'Fire in the World', sub: 'The Modern Church', years: '1650–Present' },
+  { vol: 3, title: 'Darkness & Light', sub: 'The Medieval Church', years: '600–1517 AD' },
+  { vol: 4, title: 'Here I Stand', sub: 'The Reformation', years: '1500–1700 AD' },
+  { vol: 5, title: 'Fire in the World', sub: 'The Modern Church', years: '1700–Present' },
 ]
 
 export default function JourneyPage() {
