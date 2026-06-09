@@ -1,6 +1,7 @@
 import { getFirstEntry, getAllEntries, getTotalDays, getWrittenDays } from '@/lib/entries'
 import { VOLUME_COLORS } from '@/lib/types'
 import Link from 'next/link'
+import ProgressBar from '@/components/ProgressBar'
 
 export default function HomePage() {
   const first = getFirstEntry()
@@ -110,7 +111,7 @@ export default function HomePage() {
             </Link>
           </div>
 
-          {/* Progress indicator */}
+          {/* Progress indicator — shows static bar before login, personal progress after */}
           <div style={{ marginTop: '4rem', display: 'flex', alignItems: 'center', gap: '12px' }}>
             <div style={{
               height: '2px', width: '200px', background: 'rgba(255,255,255,0.08)',
@@ -125,6 +126,9 @@ export default function HomePage() {
               {written} of {total} entries written
             </span>
           </div>
+
+          {/* Personal reading progress — only shows if reader has started */}
+          <ProgressBar total={total} />
         </div>
       </div>
 
