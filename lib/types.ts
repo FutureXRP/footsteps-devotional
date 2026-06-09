@@ -1,3 +1,10 @@
+export interface EntryNotes {
+  primary: string
+  tradition: string | null
+  archaeological: string | null
+  confidence: 'high' | 'medium' | 'tradition'
+}
+
 export interface Entry {
   day: number
   volume: number
@@ -14,6 +21,7 @@ export interface Entry {
   scriptureRef: string
   scriptureText: string
   weight: string
+  notes?: EntryNotes
 }
 
 export const VOLUME_COLORS: Record<number, { badge: string; text: string; border: string; dot: string }> = {
