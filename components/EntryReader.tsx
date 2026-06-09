@@ -1,6 +1,6 @@
 'use client'
 
-import { Entry, VOLUME_COLORS } from '@/lib/types'
+import { Entry, EntryNotes, VOLUME_COLORS } from '@/lib/types'
 import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
@@ -9,6 +9,88 @@ function Prose({ text }: { text: string }) {
   return (
     <div className="entry-prose" style={{ color: 'var(--text-secondary)', fontSize: '1rem', lineHeight: '1.8' }}>
       {text.split('\n\n').map((p, i) => <p key={i}>{p}</p>)}
+    </div>
+  )
+}
+
+function SourcesSection({ notes }: { notes: EntryNotes }) {
+  const [open, setOpen] = useState(false)
+
+  const confidenceLabel: Record<string, string> = {
+    high: 'Well documented',
+    medium: 'Documented with caveats',
+    tradition: 'Primarily tradition',
+  }
+  const confidenceColor: Record<string, string> = {
+    high: '#1a7a4a',
+    medium: '#b45309',
+    tradition: '#6b7280',
+  }
+
+  return (
+    <div style={{ marginTop: '2.5rem', borderTop: '1px solid var(--border)', paddingTop: '1.5rem' }}>
+      <button
+        onClick={() => setOpen(o => !o)}
+        style={{
+          background: 'none', border: 'none', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: '6px',
+          fontSize: '0.75rem', color: 'var(--text-muted)', padding: 0,
+          fontFamily: 'var(--font-sans)', letterSpacing: '0.08em', textTransform: 'uppercase', fontWeight: 500,
+        }}
+        aria-expanded={open}
+      >
+        <span style={{ fontSize: '0.65rem', transition: 'transform 0.2s', display: 'inline-block', transform: open ? 'rotate(90deg)' : 'rotate(0deg)' }}>▶</span>
+        Historical Sources
+      </button>
+
+      {open && (
+        <div style={{ marginTop: '1rem', display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+          {/* Confidence badge */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+            <span style={{
+              fontSize: '0.65rem', fontWeight: 600, letterSpacing: '0.06em',
+              color: confidenceColor[notes.confidence] || '#6b7280',
+              textTransform: 'uppercase',
+            }}>
+              ● {confidenceLabel[notes.confidence] || notes.confidence}
+            </span>
+          </div>
+
+          {/* Primary source */}
+          <div>
+            <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.25rem' }}>
+              Primary Source
+            </div>
+            <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>
+              {notes.primary}
+            </p>
+          </div>
+
+          {/* Tradition notes */}
+          {notes.tradition && (
+            <div>
+              <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.25rem' }}>
+                Historical Tradition
+              </div>
+              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>
+                {notes.tradition}
+              </p>
+            </div>
+          )}
+
+          {/* Archaeological */}
+          {notes.archaeological && (
+            <div>
+              <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.25rem' }}>
+                Archaeological & Historical
+              </div>
+              <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>
+                {notes.archaeological}
+              </p>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   )
 }
@@ -155,6 +237,11 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
           <div className="section-label">The Weight</div>
           <Prose text={entry.weight} />
         </div>
+
+        {/* Historical Sources */}
+        {entry.notes && (
+          <SourcesSection notes={entry.notes} />
+        )}
 
         {/* Prev / Next */}
         <div style={{
