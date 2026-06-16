@@ -2,6 +2,7 @@ import { getEntry, getAdjacentDays, getAllEntries } from '@/lib/entries'
 import EntryReader from '@/components/EntryReader'
 import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
+import { SITE_NAME } from '@/lib/site'
 
 export async function generateStaticParams() {
   const entries = getAllEntries()
@@ -12,9 +13,29 @@ export async function generateMetadata({ params }: { params: Promise<{ day: stri
   const { day } = await params
   const entry = getEntry(parseInt(day))
   if (!entry) return {}
+
+  // Title composes with the site-wide template ("%s · The Footsteps Devotional").
+  const title = `Day ${entry.day}: ${entry.title}`
+  const lead = entry.moment.split('\n\n')[0].replace(/\s+/g, ' ').trim()
+  const description = `${entry.figure} · ${entry.dateLabel} — ${lead}`.slice(0, 155)
+  const path = `/entry/${entry.day}`
+
   return {
-    title: `Day ${entry.day}: ${entry.title} — The Footsteps Devotional`,
-    description: `${entry.figure} · ${entry.dateLabel}`,
+    title,
+    description,
+    alternates: { canonical: path },
+    openGraph: {
+      type: 'article',
+      url: path,
+      siteName: SITE_NAME,
+      title: `${title} · ${SITE_NAME}`,
+      description,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${title} · ${SITE_NAME}`,
+      description,
+    },
   }
 }
 

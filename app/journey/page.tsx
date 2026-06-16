@@ -2,6 +2,21 @@ import { getAllEntries } from '@/lib/entries'
 import { VOLUME_RANGES } from '@/lib/types'
 import JourneyClient from '@/components/JourneyClient'
 import Link from 'next/link'
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'The Journey — All 365 Entries',
+  description:
+    'Browse the full 365-day journey through church history, from Pentecost to the present, across five volumes.',
+  alternates: { canonical: '/journey' },
+  openGraph: {
+    type: 'website',
+    url: '/journey',
+    title: 'The Journey — All 365 Entries · The Footsteps Devotional',
+    description:
+      'Browse the full 365-day journey through church history, from Pentecost to the present, across five volumes.',
+  },
+}
 
 const VOLUME_TITLES = [
   { vol: 1, title: 'Blood & Fire', sub: 'The Early Church', years: '30–325 AD' },

@@ -3,6 +3,7 @@
 A 365-day journey through two thousand years of church history. Built with Next.js, deployed on Vercel.
 
 **Status:** Complete — all 365 entries written across five volumes (~158,000 words).
+**Live at:** [footstepsdevotional.com](https://footstepsdevotional.com)
 
 ---
 
@@ -26,6 +27,14 @@ git add .
 git commit -m "Your message"
 git push
 ```
+
+### Domain & SEO
+
+The public origin lives in one place — `lib/site.ts` (`SITE_URL`). Metadata
+(`app/layout.tsx`), per-entry Open Graph/canonical tags, `app/sitemap.ts`, and
+`app/robots.ts` all read from it. If the domain ever changes, update that one
+constant. The custom domain `footstepsdevotional.com` is attached to the
+project in the Vercel dashboard (Project → Settings → Domains).
 
 ---
 
