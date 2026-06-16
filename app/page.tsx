@@ -2,6 +2,13 @@ import { getFirstEntry, getAllEntries, getTotalDays, getWrittenDays } from '@/li
 import { VOLUME_COLORS } from '@/lib/types'
 import Link from 'next/link'
 import ProgressBar from '@/components/ProgressBar'
+import type { Viewport } from 'next'
+
+// The homepage hero + nav are always dark; match the mobile browser chrome
+// and standalone status bar to it.
+export const viewport: Viewport = {
+  themeColor: '#12100E',
+}
 
 export default function HomePage() {
   const first = getFirstEntry()

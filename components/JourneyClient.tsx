@@ -44,6 +44,7 @@ export default function JourneyClient({ groups }: { groups: VolumeGroup[] }) {
             {/* Volume header */}
             <div style={{
               display: 'flex', alignItems: 'baseline', gap: '10px',
+              flexWrap: 'wrap',
               marginBottom: '1rem', paddingBottom: '0.75rem',
               borderBottom: '1px solid var(--border)'
             }}>

@@ -137,10 +137,11 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
             All entries
           </Link>
           <button onClick={handleBookmark} style={{
-            background: 'none', border: 'none', cursor: 'pointer', padding: '4px',
+            background: 'none', border: 'none', cursor: 'pointer',
+            padding: '10px', marginRight: '-10px', lineHeight: 1,
             color: bookmarked ? colors.dot : 'var(--text-muted)',
             fontSize: '1.1rem', display: 'flex', alignItems: 'center'
-          }} title={bookmarked ? 'Remove bookmark' : 'Bookmark'}>
+          }} title={bookmarked ? 'Remove bookmark' : 'Bookmark'} aria-label={bookmarked ? 'Remove bookmark' : 'Bookmark'}>
             {bookmarked ? '◆' : '◇'}
           </button>
         </div>

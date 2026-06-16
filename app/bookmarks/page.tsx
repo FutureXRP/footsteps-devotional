@@ -115,10 +115,11 @@ export default function BookmarksPage() {
                 <button
                   onClick={() => handleRemove(entry.day)}
                   title="Remove bookmark"
+                  aria-label={`Remove day ${entry.day} from saved`}
                   style={{
                     background: 'none', border: 'none', cursor: 'pointer',
-                    padding: '4px', color: colors.border,
-                    fontSize: '0.85rem', flexShrink: 0,
+                    padding: '10px', marginRight: '-6px', lineHeight: 1,
+                    color: colors.border, fontSize: '0.85rem', flexShrink: 0,
                   }}
                 >
                   ◆

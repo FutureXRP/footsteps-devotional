@@ -36,6 +36,11 @@ html {
   background: var(--bg);
   color: var(--text-primary);
   -webkit-font-smoothing: antialiased;
+  /* Mobile: keep type stable in landscape, and drop the grey tap-flash so
+     taps feel native when installed to the home screen. */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {

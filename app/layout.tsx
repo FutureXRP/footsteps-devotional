@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import './globals.css'
 import { ThemeProvider } from '@/components/ThemeProvider'
 import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/site'
@@ -25,6 +25,12 @@ export const metadata: Metadata = {
   creator: 'Matt & Georgia Blair',
   publisher: SITE_NAME,
   category: 'religion',
+  manifest: '/manifest.webmanifest',
+  appleWebApp: {
+    capable: true,
+    title: 'Footsteps',
+    statusBarStyle: 'default',
+  },
   alternates: {
     canonical: '/',
   },
@@ -55,6 +61,20 @@ export const metadata: Metadata = {
   formatDetection: {
     telephone: false,
   },
+  // Next emits the standard `mobile-web-app-capable` (honored by Android and
+  // iOS 16.4+ via the manifest). Add the legacy Apple flag so older iOS also
+  // launches the home-screen icon chromeless, like an app.
+  other: {
+    'apple-mobile-web-app-capable': 'yes',
+  },
+}
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  // Light reading UI is the default across the app; the dark homepage sets
+  // its own theme-color via its own viewport export.
+  themeColor: '#FAFAF8',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
