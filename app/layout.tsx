@@ -6,7 +6,7 @@ import { SITE_URL, SITE_NAME, SITE_DESCRIPTION } from '@/lib/site'
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: 'The Footsteps Devotional — A 365-Day Journey Through Church History',
+    default: 'The Footsteps Devotional — Daily Devotionals',
     template: '%s · The Footsteps Devotional',
   },
   description: SITE_DESCRIPTION,

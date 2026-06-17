@@ -3,8 +3,9 @@
 import { useEffect, useState } from 'react'
 import { getReadDays, getLastReadDay, getBookmarks } from '@/lib/storage'
 import Link from 'next/link'
+import { Series } from '@/lib/series'
 
-export default function ProgressBar({ total }: { total: number }) {
+export default function ProgressBar({ total, series }: { total: number; series: Series }) {
   const [readCount, setReadCount] = useState(0)
   const [lastDay, setLastDay] = useState<number | null>(null)
   const [bookmarkCount, setBookmarkCount] = useState(0)
@@ -12,11 +13,10 @@ export default function ProgressBar({ total }: { total: number }) {
 
   useEffect(() => {
     setMounted(true)
-    const read = getReadDays()
-    setReadCount(read.length)
-    setLastDay(getLastReadDay())
-    setBookmarkCount(getBookmarks().length)
-  }, [])
+    setReadCount(getReadDays(series.slug).length)
+    setLastDay(getLastReadDay(series.slug))
+    setBookmarkCount(getBookmarks(series.slug).length)
+  }, [series.slug])
 
   if (!mounted || readCount === 0) return null
 
@@ -48,7 +48,7 @@ export default function ProgressBar({ total }: { total: number }) {
       }}>
         <div style={{
           height: '100%', width: `${pct}%`,
-          background: '#D85A30', borderRadius: '2px',
+          background: series.accent, borderRadius: '2px',
           transition: 'width 0.4s ease'
         }} />
       </div>
@@ -56,8 +56,8 @@ export default function ProgressBar({ total }: { total: number }) {
       {/* Actions row */}
       <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', flexWrap: 'wrap' }}>
         {lastDay && (
-          <Link href={`/entry/${lastDay}`} style={{
-            fontSize: '0.85rem', color: '#D85A30',
+          <Link href={`/${series.slug}/entry/${lastDay}`} style={{
+            fontSize: '0.85rem', color: series.accent,
             textDecoration: 'none', fontWeight: 500,
             display: 'flex', alignItems: 'center', gap: '4px'
           }}>
@@ -65,7 +65,7 @@ export default function ProgressBar({ total }: { total: number }) {
           </Link>
         )}
         {bookmarkCount > 0 && (
-          <Link href="/bookmarks" style={{
+          <Link href={`/${series.slug}/bookmarks`} style={{
             fontSize: '0.85rem', color: 'rgba(240,239,233,0.4)',
             textDecoration: 'none',
             display: 'flex', alignItems: 'center', gap: '4px'

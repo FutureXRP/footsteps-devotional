@@ -1,8 +1,8 @@
 # The Footsteps Devotional
 
-A 365-day journey through two thousand years of church history. Built with Next.js, deployed on Vercel.
+A multi-series devotional library, built with Next.js and deployed on Vercel. The landing page is a library; each devotional series lives at its own path. The first series — **Church History** (`/footsteps`) — is a 365-day journey through two thousand years of the church.
 
-**Status:** Complete — all 365 entries written across five volumes (~158,000 words).
+**Status:** Live. Church History complete — 365 entries across five volumes (~158,000 words). Biblical Leadership in progress.
 **Live at:** [footstepsdevotional.com](https://footstepsdevotional.com)
 
 ---
@@ -38,27 +38,54 @@ project in the Vercel dashboard (Project → Settings → Domains).
 
 ---
 
+## Adding a new devotional series
+
+Series are **data, not code** — the library, routing, reader, progress, and
+sitemap all read from a registry. To add one:
+
+1. Add a `Series` entry to `lib/series.ts` (slug, title, accent, sections, hero copy, `status`).
+2. Add its content file `data/series/<slug>.json` and wire it into `ENTRIES` in `lib/series-data.ts`.
+3. Flip `status` to `live`. It now appears in the library and at `/<slug>`, `/<slug>/journey`, `/<slug>/entry/[day]`, and `/<slug>/bookmarks` automatically.
+
+`npm run validate` (also run automatically before every build) checks each
+series file — required fields present, contiguous day numbers, a source on
+every entry — so a malformed series fails the build rather than shipping.
+
+The historical series intentionally keeps its content at the original
+`data/entries.json` path, untouched.
+
+---
+
 ## Project structure
 
 ```
 data/
-  entries.json          — all 365 devotional entries (single source of truth)
+  entries.json              — Church History entries (untouched original path)
+  series/<slug>.json        — additional series' entries
 
 app/
-  page.tsx              — homepage (hero, featured entry, volume list, personal progress)
-  journey/page.tsx      — full entry browser (all 365 with read indicators)
-  entry/[day]/page.tsx  — individual devotional entry reader
-  bookmarks/page.tsx    — saved entries page
+  page.tsx                  — the library landing page (series selector)
+  [series]/page.tsx         — a series home (hero, featured entry, sections)
+  [series]/journey/page.tsx — full entry browser for a series
+  [series]/entry/[day]/     — individual entry reader
+  [series]/bookmarks/       — saved entries for a series
 
 components/
-  EntryReader.tsx       — main reading UI (moment, voice, word, weight, sources)
-  JourneyClient.tsx     — client wrapper for journey page (read dots, bookmark indicators)
-  ProgressBar.tsx       — personal progress card on homepage
+  LibraryCard.tsx           — a series card on the library page
+  EntryReader.tsx           — the four-part reading UI (shared by all series)
+  JourneyClient.tsx         — journey list (read dots, bookmark indicators)
+  BookmarksClient.tsx       — saved-entries list (shared)
+  ProgressBar.tsx           — personal progress card on a series home
 
 lib/
-  entries.ts            — data access functions
-  types.ts              — Entry type, VOLUME_COLORS, VOLUME_RANGES
-  storage.ts            — localStorage read tracking and bookmarks
+  series.ts                 — series registry (config; client-safe)
+  series-data.ts            — entry data access (server-only)
+  types.ts                  — Entry type + colour palette
+  storage.ts                — per-series localStorage progress & bookmarks
+  site.ts                   — public origin / SITE_URL
+
+scripts/
+  validate-content.mjs      — content integrity gate (runs before build)
 ```
 
 ---

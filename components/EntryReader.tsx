@@ -1,6 +1,7 @@
 'use client'
 
-import { Entry, EntryNotes, VOLUME_COLORS } from '@/lib/types'
+import { Entry, EntryNotes } from '@/lib/types'
+import { Series, sectionForDay } from '@/lib/series'
 import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
@@ -95,8 +96,11 @@ function SourcesSection({ notes }: { notes: EntryNotes }) {
   )
 }
 
-export default function EntryReader({ entry, prev, next }: { entry: Entry; prev: number | null; next: number | null }) {
-  const colors = VOLUME_COLORS[entry.volume]
+const FALLBACK_COLORS = { badge: 'var(--bg-muted)', text: 'var(--text-secondary)', border: 'var(--text-muted)', dot: 'var(--text-muted)' }
+
+export default function EntryReader({ entry, prev, next, series }: { entry: Entry; prev: number | null; next: number | null; series: Series }) {
+  const section = sectionForDay(series, entry.day)
+  const colors = section?.colors ?? FALLBACK_COLORS
   const [bookmarked, setBookmarked] = useState(false)
   const [justBookmarked, setJustBookmarked] = useState(false)
   const initialized = useRef(false)
@@ -104,13 +108,13 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
   useEffect(() => {
     if (!initialized.current) {
       initialized.current = true
-      setBookmarked(isBookmarked(entry.day))
-      markRead(entry.day)
+      setBookmarked(isBookmarked(series.slug, entry.day))
+      markRead(series.slug, entry.day)
     }
-  }, [entry.day])
+  }, [series.slug, entry.day])
 
   function handleBookmark() {
-    const result = toggleBookmark(entry.day)
+    const result = toggleBookmark(series.slug, entry.day)
     setBookmarked(result)
     if (result) {
       setJustBookmarked(true)
@@ -127,13 +131,13 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
         padding: '0 1.5rem', height: '52px',
         display: 'flex', alignItems: 'center', justifyContent: 'space-between'
       }}>
-        <Link href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '6px' }}>
+        <Link href={`/${series.slug}`} style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '6px' }}>
           <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1rem', color: 'var(--text-primary)' }}>
-            Footsteps
+            {series.shortTitle}
           </span>
         </Link>
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
-          <Link href="/journey" style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textDecoration: 'none' }}>
+          <Link href={`/${series.slug}/journey`} style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textDecoration: 'none' }}>
             All entries
           </Link>
           <button onClick={handleBookmark} style={{
@@ -150,14 +154,14 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
       {/* Entry */}
       <main style={{ maxWidth: '680px', margin: '0 auto', padding: '3rem 1.5rem 6rem' }}>
 
-        {/* Volume + day badge */}
+        {/* Section + day badge */}
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '1.5rem' }}>
           <span style={{
             display: 'inline-block', fontSize: '0.7rem', fontWeight: 500,
             background: colors.badge, color: colors.text,
             borderRadius: '4px', padding: '3px 8px', letterSpacing: '0.03em'
           }}>
-            Vol. {entry.volume} — {entry.volumeTitle}
+            {series.sectionAbbrev} {entry.volume} — {section?.title ?? entry.volumeTitle}
           </span>
           <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>Day {entry.day}</span>
         </div>
@@ -250,7 +254,7 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
           paddingTop: '2rem', borderTop: '1px solid var(--border)'
         }}>
           {prev ? (
-            <Link href={`/entry/${prev}`} style={{
+            <Link href={`/${series.slug}/entry/${prev}`} style={{
               display: 'flex', alignItems: 'center', gap: '6px',
               fontSize: '0.85rem', color: 'var(--text-muted)', textDecoration: 'none'
             }}>
@@ -258,7 +262,7 @@ export default function EntryReader({ entry, prev, next }: { entry: Entry; prev:
             </Link>
           ) : <div />}
           {next ? (
-            <Link href={`/entry/${next}`} style={{
+            <Link href={`/${series.slug}/entry/${next}`} style={{
               display: 'flex', alignItems: 'center', gap: '6px',
               fontSize: '0.85rem', color: 'var(--text-muted)', textDecoration: 'none',
               background: 'var(--bg-muted)', padding: '8px 16px', borderRadius: '6px',

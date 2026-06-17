@@ -6,4 +6,4 @@ export const SITE_URL = 'https://footstepsdevotional.com'
 export const SITE_NAME = 'The Footsteps Devotional'
 
 export const SITE_DESCRIPTION =
-  'A 365-day journey through two thousand years of church history — the people, moments, and words that carried the faith forward, from Pentecost to the present.'
+  'A library of carefully sourced daily devotionals that walk you through Scripture and the Christian story.'

@@ -2,37 +2,32 @@
 
 import { useEffect, useState } from 'react'
 import { getBookmarks, toggleBookmark } from '@/lib/storage'
-import { VOLUME_COLORS } from '@/lib/types'
+import { Series, sectionForDay } from '@/lib/series'
 import Link from 'next/link'
-import entriesData from '@/data/entries.json'
 
-interface SavedEntry {
+export interface SavedEntry {
   day: number
   title: string
   figure: string
   volume: number
-  volumeTitle: string
   dateLabel: string
   era: string
 }
 
-const allEntries = entriesData as SavedEntry[]
+const FALLBACK = { badge: 'var(--bg-muted)', text: 'var(--text-secondary)', border: 'var(--text-muted)', dot: 'var(--text-muted)' }
 
-export default function BookmarksPage() {
+export default function BookmarksClient({ series, allEntries }: { series: Series; allEntries: SavedEntry[] }) {
   const [entries, setEntries] = useState<SavedEntry[]>([])
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
     setMounted(true)
-    const bookmarks = getBookmarks()
-    const saved = allEntries
-      .filter(e => bookmarks.includes(e.day))
-      .sort((a, b) => a.day - b.day)
-    setEntries(saved)
-  }, [])
+    const bookmarks = getBookmarks(series.slug)
+    setEntries(allEntries.filter(e => bookmarks.includes(e.day)).sort((a, b) => a.day - b.day))
+  }, [series.slug, allEntries])
 
   function handleRemove(day: number) {
-    toggleBookmark(day)
+    toggleBookmark(series.slug, day)
     setEntries(prev => prev.filter(e => e.day !== day))
   }
 
@@ -44,12 +39,12 @@ export default function BookmarksPage() {
         padding: '0 1.5rem', height: '52px',
         display: 'flex', alignItems: 'center', justifyContent: 'space-between'
       }}>
-        <Link href="/" style={{ textDecoration: 'none' }}>
+        <Link href={`/${series.slug}`} style={{ textDecoration: 'none' }}>
           <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1rem', color: 'var(--text-primary)' }}>
-            Footsteps
+            {series.shortTitle}
           </span>
         </Link>
-        <Link href="/journey" style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textDecoration: 'none' }}>
+        <Link href={`/${series.slug}/journey`} style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textDecoration: 'none' }}>
           All entries
         </Link>
       </nav>
@@ -78,7 +73,7 @@ export default function BookmarksPage() {
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '2px' }}>
           {entries.map(entry => {
-            const colors = VOLUME_COLORS[entry.volume]
+            const colors = sectionForDay(series, entry.day)?.colors ?? FALLBACK
             return (
               <div key={entry.day} style={{
                 display: 'flex', alignItems: 'center', gap: '12px',
@@ -92,7 +87,7 @@ export default function BookmarksPage() {
                   background: colors.border, flexShrink: 0
                 }} />
 
-                <Link href={`/entry/${entry.day}`} style={{
+                <Link href={`/${series.slug}/entry/${entry.day}`} style={{
                   flex: 1, textDecoration: 'none',
                   display: 'flex', alignItems: 'baseline', gap: '10px', minWidth: 0
                 }}>

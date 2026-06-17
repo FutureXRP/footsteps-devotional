@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react'
 import { getReadDays, getBookmarks } from '@/lib/storage'
 import Link from 'next/link'
-import { VOLUME_COLORS, VOLUME_RANGES } from '@/lib/types'
 
 interface EntryRow {
   day: number
@@ -16,26 +15,27 @@ interface VolumeGroup {
   vol: number
   title: string
   sub: string
-  years: string
+  meta: string
+  colors: { badge: string; text: string; border: string; dot: string }
+  range: [number, number]
   rows: (EntryRow | null)[] // null = not yet written
 }
 
-export default function JourneyClient({ groups }: { groups: VolumeGroup[] }) {
+export default function JourneyClient({ groups, seriesSlug }: { groups: VolumeGroup[]; seriesSlug: string }) {
   const [readDays, setReadDays] = useState<Set<number>>(new Set())
   const [bookmarkedDays, setBookmarkedDays] = useState<Set<number>>(new Set())
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
     setMounted(true)
-    setReadDays(new Set(getReadDays()))
-    setBookmarkedDays(new Set(getBookmarks()))
-  }, [])
+    setReadDays(new Set(getReadDays(seriesSlug)))
+    setBookmarkedDays(new Set(getBookmarks(seriesSlug)))
+  }, [seriesSlug])
 
   return (
     <>
-      {groups.map(({ vol, title, sub, years, rows }) => {
-        const colors = VOLUME_COLORS[vol]
-        const [start, end] = VOLUME_RANGES[vol]
+      {groups.map(({ vol, title, sub, meta, colors, range, rows }) => {
+        const [start, end] = range
         const readInVol = mounted ? rows.filter(r => r && readDays.has(r.day)).length : 0
         const totalInVol = rows.filter(r => r !== null).length
 
@@ -59,7 +59,7 @@ export default function JourneyClient({ groups }: { groups: VolumeGroup[] }) {
                 {title}
               </span>
               <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-                {sub} · {years} · Days {start}–{end}
+                {sub} · {meta} · Days {start}–{end}
               </span>
               {mounted && readInVol > 0 && (
                 <span style={{
@@ -79,7 +79,7 @@ export default function JourneyClient({ groups }: { groups: VolumeGroup[] }) {
                   const isRead = mounted && readDays.has(day)
                   const isBookmarked = mounted && bookmarkedDays.has(day)
                   return (
-                    <Link key={day} href={`/entry/${day}`} style={{
+                    <Link key={day} href={`/${seriesSlug}/entry/${day}`} style={{
                       display: 'flex', alignItems: 'center', gap: '12px',
                       padding: '8px 10px', borderRadius: '6px',
                       textDecoration: 'none', transition: 'background 0.15s',
