@@ -5,6 +5,18 @@ export interface EntryNotes {
   confidence: 'high' | 'medium' | 'tradition'
 }
 
+// Optional leadership-development lens for series like Biblical Leadership.
+// Adapted from the PassageLab "leadership" study structure.
+export interface LeadershipLens {
+  principle: string // the distilled, carry-it-all-week thesis
+  innerLife: string // who a leader must be (character, motive, identity)
+  leadingThroughIt: string // concrete application to leading people
+  blindSpot: string // what those in authority resist or miss here
+  weeklyPractice: string // one concrete practice for the week
+  teamQuestions: string[] // discussion questions for a leadership team
+  difficultConversations?: string // what this gives you for a hard conversation
+}
+
 export interface Entry {
   day: number
   volume: number
@@ -22,6 +34,7 @@ export interface Entry {
   scriptureText: string
   weight: string
   notes?: EntryNotes
+  leadership?: LeadershipLens
 }
 
 export const VOLUME_COLORS: Record<number, { badge: string; text: string; border: string; dot: string }> = {

@@ -1,10 +1,12 @@
 'use client'
 
-import { Entry, EntryNotes } from '@/lib/types'
+import { Entry, EntryNotes, LeadershipLens } from '@/lib/types'
 import { Series, sectionForDay } from '@/lib/series'
 import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
+
+type SectionColors = { badge: string; text: string; border: string; dot: string }
 
 function Prose({ text }: { text: string }) {
   return (
@@ -14,7 +16,90 @@ function Prose({ text }: { text: string }) {
   )
 }
 
-function SourcesSection({ notes }: { notes: EntryNotes }) {
+// A labelled prose block, e.g. "The Leader's Inner Life".
+function LensField({ label, text }: { label: string; text: string }) {
+  return (
+    <div style={{ marginBottom: '2rem' }}>
+      <div className="section-label">{label}</div>
+      <p style={{ color: 'var(--text-secondary)', fontSize: '1rem', lineHeight: 1.8, margin: 0 }}>{text}</p>
+    </div>
+  )
+}
+
+// Accent-tinted callout for the Principle and the weekly Practice.
+function Callout({ label, text, colors, serif = false }: { label: string; text: string; colors: SectionColors; serif?: boolean }) {
+  return (
+    <div style={{
+      background: colors.badge, borderRadius: '10px',
+      borderLeft: `3px solid ${colors.border}`,
+      padding: '1.25rem 1.5rem', marginBottom: '2.5rem'
+    }}>
+      <div style={{ fontSize: '0.65rem', fontWeight: 600, letterSpacing: '0.12em', textTransform: 'uppercase', color: colors.text, marginBottom: '0.5rem' }}>
+        {label}
+      </div>
+      <p style={{
+        margin: 0, color: colors.text,
+        fontFamily: serif ? 'var(--font-serif)' : 'var(--font-sans)',
+        fontSize: serif ? '1.2rem' : '1rem', lineHeight: 1.6,
+        fontStyle: serif ? 'italic' : 'normal',
+      }}>
+        {text}
+      </p>
+    </div>
+  )
+}
+
+function LeadershipBlock({ lens, colors }: { lens: LeadershipLens; colors: SectionColors }) {
+  const [teamOpen, setTeamOpen] = useState(false)
+  return (
+    <>
+      <LensField label="The Leader's Inner Life" text={lens.innerLife} />
+      <LensField label="Leading Through It" text={lens.leadingThroughIt} />
+      <LensField label="The Blind Spot" text={lens.blindSpot} />
+      <Callout label="This Week's Practice" text={lens.weeklyPractice} colors={colors} />
+
+      {/* For Your Team — collapsible, for staff/leadership-group use */}
+      <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem', marginBottom: '1rem' }}>
+        <button
+          onClick={() => setTeamOpen(o => !o)}
+          aria-expanded={teamOpen}
+          style={{
+            background: 'none', border: 'none', cursor: 'pointer', padding: 0,
+            display: 'flex', alignItems: 'center', gap: '6px',
+            fontSize: '0.75rem', color: 'var(--text-muted)',
+            fontFamily: 'var(--font-sans)', letterSpacing: '0.08em', textTransform: 'uppercase', fontWeight: 500,
+          }}
+        >
+          <span style={{ fontSize: '0.65rem', transition: 'transform 0.2s', display: 'inline-block', transform: teamOpen ? 'rotate(90deg)' : 'rotate(0deg)' }}>▶</span>
+          For Your Team
+        </button>
+
+        {teamOpen && (
+          <div style={{ marginTop: '1.25rem', display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
+            {lens.difficultConversations && (
+              <div>
+                <div className="section-label">When the Conversation Is Hard</div>
+                <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: 1.7, margin: 0 }}>
+                  {lens.difficultConversations}
+                </p>
+              </div>
+            )}
+            <div>
+              <div className="section-label">Discussion Questions</div>
+              <ol style={{ margin: 0, paddingLeft: '1.1rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
+                {lens.teamQuestions.map((q, i) => (
+                  <li key={i} style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: 1.6 }}>{q}</li>
+                ))}
+              </ol>
+            </div>
+          </div>
+        )}
+      </div>
+    </>
+  )
+}
+
+function SourcesSection({ notes, label }: { notes: EntryNotes; label: string }) {
   const [open, setOpen] = useState(false)
 
   const confidenceLabel: Record<string, string> = {
@@ -41,12 +126,11 @@ function SourcesSection({ notes }: { notes: EntryNotes }) {
         aria-expanded={open}
       >
         <span style={{ fontSize: '0.65rem', transition: 'transform 0.2s', display: 'inline-block', transform: open ? 'rotate(90deg)' : 'rotate(0deg)' }}>▶</span>
-        Historical Sources
+        {label}
       </button>
 
       {open && (
         <div style={{ marginTop: '1rem', display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
-          {/* Confidence badge */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
             <span style={{
               fontSize: '0.65rem', fontWeight: 600, letterSpacing: '0.06em',
@@ -57,7 +141,6 @@ function SourcesSection({ notes }: { notes: EntryNotes }) {
             </span>
           </div>
 
-          {/* Primary source */}
           <div>
             <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.25rem' }}>
               Primary Source
@@ -67,7 +150,6 @@ function SourcesSection({ notes }: { notes: EntryNotes }) {
             </p>
           </div>
 
-          {/* Tradition notes */}
           {notes.tradition && (
             <div>
               <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.25rem' }}>
@@ -79,7 +161,6 @@ function SourcesSection({ notes }: { notes: EntryNotes }) {
             </div>
           )}
 
-          {/* Archaeological */}
           {notes.archaeological && (
             <div>
               <div style={{ fontSize: '0.7rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '0.25rem' }}>
@@ -96,7 +177,7 @@ function SourcesSection({ notes }: { notes: EntryNotes }) {
   )
 }
 
-const FALLBACK_COLORS = { badge: 'var(--bg-muted)', text: 'var(--text-secondary)', border: 'var(--text-muted)', dot: 'var(--text-muted)' }
+const FALLBACK_COLORS: SectionColors = { badge: 'var(--bg-muted)', text: 'var(--text-secondary)', border: 'var(--text-muted)', dot: 'var(--text-muted)' }
 
 export default function EntryReader({ entry, prev, next, series }: { entry: Entry; prev: number | null; next: number | null; series: Series }) {
   const section = sectionForDay(series, entry.day)
@@ -121,6 +202,8 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
       setTimeout(() => setJustBookmarked(false), 1500)
     }
   }
+
+  const hr = <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
 
   return (
     <div style={{ background: 'var(--bg)', minHeight: '100vh' }}>
@@ -191,7 +274,7 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
           <Prose text={entry.moment} />
         </div>
 
-        <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
+        {hr}
 
         {/* THE VOICE */}
         <div style={{ marginBottom: '2.5rem' }}>
@@ -214,7 +297,12 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
           </blockquote>
         </div>
 
-        <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
+        {/* THE PRINCIPLE (leadership lens) */}
+        {entry.leadership && (
+          <Callout label="The Principle" text={entry.leadership.principle} colors={colors} serif />
+        )}
+
+        {hr}
 
         {/* THE WORD */}
         <div style={{ marginBottom: '2.5rem' }}>
@@ -235,7 +323,10 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
           </div>
         </div>
 
-        <hr style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '2.5rem 0' }} />
+        {hr}
+
+        {/* LEADERSHIP LENS (post-Word) */}
+        {entry.leadership && <LeadershipBlock lens={entry.leadership} colors={colors} />}
 
         {/* THE WEIGHT */}
         <div style={{ marginBottom: '3rem' }}>
@@ -243,9 +334,9 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
           <Prose text={entry.weight} />
         </div>
 
-        {/* Historical Sources */}
+        {/* Sources */}
         {entry.notes && (
-          <SourcesSection notes={entry.notes} />
+          <SourcesSection notes={entry.notes} label={series.sourcesLabel} />
         )}
 
         {/* Prev / Next */}

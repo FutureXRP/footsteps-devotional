@@ -36,6 +36,7 @@ export interface Series {
   sectionNoun: string // e.g. "Volume"
   sectionAbbrev: string // e.g. "Vol."
   sectionsLabel: string // e.g. "Five volumes"
+  sourcesLabel: string // label for the collapsible sources panel
   hero: { eyebrow: string; headlineTop: string; headlineAccent: string; sub: string }
   journey: { title: string; subtitle: string }
   sections: SeriesSection[]
@@ -66,6 +67,7 @@ export const SERIES: Series[] = [
     sectionNoun: 'Volume',
     sectionAbbrev: 'Vol.',
     sectionsLabel: 'Five volumes',
+    sourcesLabel: 'Historical Sources',
     hero: {
       eyebrow: 'A 365-day journey through church history',
       headlineTop: 'Two thousand years.',
@@ -91,6 +93,7 @@ export const SERIES: Series[] = [
     sectionNoun: 'Part',
     sectionAbbrev: 'Pt.',
     sectionsLabel: 'Where we begin',
+    sourcesLabel: 'Scripture & Sources',
     hero: {
       eyebrow: 'Leadership, drawn from Scripture',
       headlineTop: 'The leaders God chose,',

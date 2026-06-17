@@ -46,6 +46,16 @@ for (const rel of files) {
     if (!e.notes || !CONFIDENCE.has(e.notes.confidence)) {
       errors.push(`${at}: notes.confidence must be one of ${[...CONFIDENCE].join(', ')}`)
     }
+    // Optional leadership lens — if present, every section must be filled.
+    if (e.leadership) {
+      const L = e.leadership
+      for (const k of ['principle', 'innerLife', 'leadingThroughIt', 'blindSpot', 'weeklyPractice']) {
+        if (typeof L[k] !== 'string' || L[k].trim() === '') errors.push(`${at}: leadership.${k} missing/empty`)
+      }
+      if (!Array.isArray(L.teamQuestions) || L.teamQuestions.length < 2 || !L.teamQuestions.every((q) => typeof q === 'string' && q.trim())) {
+        errors.push(`${at}: leadership.teamQuestions must be an array of at least 2 non-empty strings`)
+      }
+    }
   })
 
   // Days must be unique and contiguous from 1 (written entries fill 1..N with no gaps).
