@@ -1,5 +1,6 @@
 import { Entry } from './types'
 import footstepsData from '@/data/entries.json'
+import leadershipData from '@/data/series/leadership.json'
 
 // ---------------------------------------------------------------------------
 // Server-only entry data access.
@@ -14,7 +15,7 @@ import footstepsData from '@/data/entries.json'
 
 const ENTRIES: Record<string, Entry[]> = {
   footsteps: footstepsData as Entry[],
-  // leadership: (Phase 2) require('@/data/series/leadership.json')
+  leadership: leadershipData as Entry[],
 }
 
 export function getSeriesEntries(slug: string): Entry[] {
