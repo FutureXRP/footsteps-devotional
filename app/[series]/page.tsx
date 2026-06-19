@@ -285,7 +285,7 @@ export default async function SeriesHome({ params }: { params: Promise<{ series:
             The Footsteps Devotional
           </Link>
           <span style={{ fontSize: '0.75rem', color: 'rgba(240,239,233,0.2)' }}>
-            Matt &amp; Georgia Blair
+            Matt Blair
           </span>
         </div>
       </div>

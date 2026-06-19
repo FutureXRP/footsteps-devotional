@@ -174,4 +174,4 @@ See `CORRECTIONS.md` for the working list of content fixes. When a correction is
 
 ---
 
-*Matt & Georgia Blair · footstepsbibleapp.com*
+*Matt Blair · footstepsbibleapp.com*

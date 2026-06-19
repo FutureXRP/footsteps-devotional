@@ -76,7 +76,7 @@ export default function Library() {
             The Footsteps Devotional
           </span>
           <span style={{ fontSize: '0.75rem', color: 'rgba(240,239,233,0.2)' }}>
-            Matt &amp; Georgia Blair
+            Matt Blair
           </span>
         </div>
       </footer>
