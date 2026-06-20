@@ -166,6 +166,7 @@ See `CORRECTIONS.md` for the working list of content fixes. When a correction is
 
 ## Planned future work
 
+- [ ] **Next devotional series — _The Upheaval_** (the series to follow Spiritual Formation; supersedes the earlier "Relationships" idea)
 - [ ] Supabase auth + user accounts (cross-device sync)
 - [ ] Stripe paywall (Volumes 2–5 behind subscription)
 - [ ] Historical Notes appendix export for print edition
