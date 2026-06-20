@@ -38,21 +38,21 @@ vocation & mercy (12); Bunyan's Celestial City (13). And ultimately Scripture.
 8. Behold, he stands at the door and knocks; awakening is hearing it. — Revelation 3:20
 9. Count the cost before you set out; formation is a road, not a moment. — Luke 14:28
 10. Now is the favorable time; the awakened heart does not postpone. — 2 Corinthians 6:2
-11. The prodigal's formation begins the moment he comes to himself. — Luke 15:17
-12. A new heart and a new spirit are God's gift, not your achievement. — Ezekiel 36:26
-13. Unless you turn and become like a child, you cannot enter the kingdom. — Matthew 18:3
-14. Strait is the gate and narrow the way; enter it deliberately. — Matthew 7:13
-15. The pilgrim's first act is to flee the City of Destruction. — Genesis 19:17
-16. What must I do to be saved? is the question that starts the journey. — Acts 16:30
-17. Repent, for the kingdom of heaven is at hand. — Matthew 4:17
-18. You were dead in trespasses, and God made you alive together with Christ. — Ephesians 2:4
-19. If anyone is in Christ, he is a new creation; the old has passed away. — 2 Corinthians 5:17
-20. Salvation is the gift of God, not a result of works, lest anyone boast. — Ephesians 2:8
-21. Knock, and it will be opened to you; the wicket gate answers the seeker. — Matthew 7:7
-22. Today, if you hear his voice, do not harden your heart. — Hebrews 3:15
-23. The fear of the Lord is the beginning of wisdom and the door of formation. — Proverbs 9:10
-24. He who began a good work in you will carry it on to completion. — Philippians 1:6
-25. Seek the Lord while he may be found; turn, and he will abundantly pardon. — Isaiah 55:6
+11. Saul on the Damascus road — no one is too far gone for God to turn. — Acts 9:1-19
+12. The woman at the well — fully known, and still wanted; the gift of living water. — John 4:1-30
+13. Zacchaeus — when grace comes home, it reaches the hands as restitution. — Luke 19:1-10
+14. The Philippian jailer — what must I do to be saved; believe on the Lord Jesus. — Acts 16:25-34
+15. The Ethiopian eunuch — how can I understand unless someone guides me? — Acts 8:26-39
+16. The call of Matthew — the call comes before the cleanup. — Matthew 9:9-13
+17. Blind Bartimaeus — cry out, name your need, and refuse to be hushed. — Mark 10:46-52
+18. Isaiah's vision — a higher view of God exposes you, then cleanses you. — Isaiah 6:1-8
+19. Jacob at Bethel — surely the Lord was in this place, and I did not know it. — Genesis 28:10-22
+20. The rich young ruler — awakening that stalls at the one thing you will not release. — Mark 10:17-22
+21. Peter at the catch — when holiness exposes you, let him draw near, not away. — Luke 5:1-11
+22. The thief on the cross — never too late; nothing to bring but need. — Luke 23:39-43
+23. Josiah and the rediscovered Book — the danger is neglect, not only rebellion. — 2 Kings 22:1-23:3
+24. Awake, sleeper — rise from drowsiness and let Christ shine on you. — Ephesians 5:8-14
+25. Seek the Lord while he may be found — the invitation that closes the awakening. — Isaiah 55:1-7
 
 ## 2 · The Great Surrender (26–55)
 *My utmost for His highest — abandonment, the living sacrifice, dying to self-will.*
