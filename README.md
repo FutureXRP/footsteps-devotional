@@ -2,7 +2,7 @@
 
 A multi-series devotional library, built with Next.js and deployed on Vercel. The landing page is a library; each devotional series lives at its own path. The first series — **Church History** (`/footsteps`) — is a 365-day journey through two thousand years of the church.
 
-**Status:** Live. Church History complete — 365 entries across five volumes (~158,000 words). Biblical Leadership in progress.
+**Status:** Live. Church History complete — 365 entries across five volumes (~158,000 words). Biblical Leadership in progress. Spiritual Formation mapped (365-day plan + starter entries; `coming-soon`).
 **Live at:** [footstepsdevotional.com](https://footstepsdevotional.com)
 
 ---

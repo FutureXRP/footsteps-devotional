@@ -56,6 +56,19 @@ for (const rel of files) {
         errors.push(`${at}: leadership.teamQuestions must be an array of at least 2 non-empty strings`)
       }
     }
+    // Optional formation lens — if present, every section must be filled.
+    if (e.formation) {
+      const F = e.formation
+      for (const k of ['invitation', 'interiorWork', 'practice', 'resistance']) {
+        if (typeof F[k] !== 'string' || F[k].trim() === '') errors.push(`${at}: formation.${k} missing/empty`)
+      }
+      if (!Array.isArray(F.reflection) || F.reflection.length < 2 || !F.reflection.every((q) => typeof q === 'string' && q.trim())) {
+        errors.push(`${at}: formation.reflection must be an array of at least 2 non-empty strings`)
+      }
+      if (F.prayer !== undefined && (typeof F.prayer !== 'string' || F.prayer.trim() === '')) {
+        errors.push(`${at}: formation.prayer, if present, must be a non-empty string`)
+      }
+    }
   })
 
   // Days must be unique and contiguous from 1 (written entries fill 1..N with no gaps).

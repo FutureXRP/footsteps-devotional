@@ -1,6 +1,6 @@
 'use client'
 
-import { Entry, EntryNotes, LeadershipLens } from '@/lib/types'
+import { Entry, EntryNotes, LeadershipLens, FormationLens } from '@/lib/types'
 import { Series, sectionForDay } from '@/lib/series'
 import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
 import { useState, useEffect, useRef } from 'react'
@@ -96,6 +96,33 @@ function LeadershipBlock({ lens, colors }: { lens: LeadershipLens; colors: Secti
         )}
       </div>
     </>
+  )
+}
+
+// Formation lens (interior/personal) — the body that sits after the Word.
+function FormationBlock({ lens, colors }: { lens: FormationLens; colors: SectionColors }) {
+  return (
+    <>
+      <LensField label="The Interior Work" text={lens.interiorWork} />
+      <Callout label="A Practice to Try" text={lens.practice} colors={colors} />
+      <LensField label="The Resistance" text={lens.resistance} />
+    </>
+  )
+}
+
+// The closing turn inward — placed after the Weight so the entry always lands
+// on personal reflection (and, if present, a prayer to carry).
+function ReflectionBlock({ lens, colors }: { lens: FormationLens; colors: SectionColors }) {
+  return (
+    <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem', marginBottom: '3rem' }}>
+      <div className="section-label">For Personal Reflection</div>
+      <ol style={{ margin: '0 0 1.75rem', paddingLeft: '1.1rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
+        {lens.reflection.map((q, i) => (
+          <li key={i} style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: 1.6 }}>{q}</li>
+        ))}
+      </ol>
+      {lens.prayer && <Callout label="A Prayer to Carry" text={lens.prayer} colors={colors} serif />}
+    </div>
   )
 }
 
@@ -302,6 +329,11 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
           <Callout label="The Principle" text={entry.leadership.principle} colors={colors} serif />
         )}
 
+        {/* THE INVITATION (formation lens) */}
+        {entry.formation && (
+          <Callout label="The Invitation" text={entry.formation.invitation} colors={colors} serif />
+        )}
+
         {hr}
 
         {/* THE WORD */}
@@ -328,11 +360,17 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
         {/* LEADERSHIP LENS (post-Word) */}
         {entry.leadership && <LeadershipBlock lens={entry.leadership} colors={colors} />}
 
+        {/* FORMATION LENS (post-Word) */}
+        {entry.formation && <FormationBlock lens={entry.formation} colors={colors} />}
+
         {/* THE WEIGHT */}
         <div style={{ marginBottom: '3rem' }}>
           <div className="section-label">The Weight</div>
           <Prose text={entry.weight} />
         </div>
+
+        {/* FOR PERSONAL REFLECTION (formation lens — the closing turn inward) */}
+        {entry.formation && <ReflectionBlock lens={entry.formation} colors={colors} />}
 
         {/* Sources */}
         {entry.notes && (
