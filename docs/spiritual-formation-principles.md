@@ -161,8 +161,8 @@ vocation & mercy (12); Bunyan's Celestial City (13). And ultimately Scripture.
 119. I will bless the Lord at all times; his praise will continually be in my mouth. — Psalm 34:1
 120. The means are many, but the end is one: that I may know him. — Philippians 3:10
 
-## 5 · Sacred Pathways (121–145)
-*How you draw near — the temperaments through which different souls love God (Gary Thomas, paraphrased).*
+## 5 · Pathways to God (121–145)
+*How you draw near — the temperaments through which different souls love God; drawn from the framework of Gary Thomas's Sacred Pathways, paraphrased and attributed, never quoted.*
 
 121. God knit you together on purpose; you were made to love him in your own way. — Psalm 139:13
 122. There are various kinds of gifts, but the same Spirit. — 1 Corinthians 12:4
@@ -224,8 +224,8 @@ vocation & mercy (12); Bunyan's Celestial City (13). And ultimately Scripture.
 174. He satisfies the longing soul and fills the hungry with good things. — Psalm 107:9
 175. The journey inward ends where it began: in love that pours back out. — 1 Corinthians 13:3
 
-## 7 · The Screwtape Strategy (176–205)
-*The enemy of your formation — temptation, distraction, self-deception, spiritual pride (C.S. Lewis, referenced).*
+## 7 · The Tempter's Strategy (176–205)
+*The enemy of your formation — temptation, distraction, self-deception, spiritual pride; in the spirit of C.S. Lewis's The Screwtape Letters, discussed and referenced, never quoted.*
 
 176. Be sober-minded; your adversary prowls like a roaring lion. — 1 Peter 5:8
 177. We are not ignorant of his devices. — 2 Corinthians 2:11

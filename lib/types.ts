@@ -25,7 +25,7 @@ export interface FormationLens {
   invitation: string // the single carry-it-with-you invitation — what God is forming in you here
   interiorWork: string // what must change in the soul: desire, the hidden self, the heart's loves
   practice: string // one concrete spiritual practice to engage (prayer, silence, examen, fasting, lectio, solitude, service)
-  resistance: string // the Screwtape angle — what the flesh, the world, or the enemy uses to derail this
+  resistance: string // the tempter's angle — what the flesh, the world, or the enemy uses to derail this
   reflection: string[] // personal examen questions for the individual soul (not a team)
   prayer?: string // a short prayer to carry, in the reader's own voice
 }

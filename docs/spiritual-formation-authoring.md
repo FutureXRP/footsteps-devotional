@@ -32,29 +32,29 @@ when the Voice is Scripture.
   must never be the same reference** (a real bug once shipped in the history
   series — see CORRECTIONS.md, Day 158).
 
-## 3. Sources & copyright (read before quoting)
+## 3. Sources & copyright (the conservative line)
 
-The named sources fall into two buckets. Source **everything** correctly.
+This is a commercial site, so we hold a deliberately cautious line: **nothing
+verbatim that is not public domain**, and when in doubt, paraphrase in our own
+words and attribute. We do not lean on fair-use exceptions for quotation.
 
-**Public domain — quote verbatim, with attribution:**
-- John Bunyan, *The Pilgrim's Progress* (1678)
-- Teresa of Avila, *The Interior Castle* (1577) — the spine beneath *Mansions of the Heart*
-- Thomas a Kempis, *The Imitation of Christ* (~1418)
-- Brother Lawrence, *The Practice of the Presence of God* (1692)
-- Augustine, *Confessions* (~398)
-- Andrew Murray, *Humility* / *Abide in Christ*; John of the Cross, *Dark Night of the Soul*; Julian of Norwich; Francis de Sales; Hannah Whitall Smith; E.M. Bounds
-- **Oswald Chambers, *My Utmost for His Highest* (1927)** — public domain in the US since 2023; quote with attribution
+**(a) Public domain, original English — quote verbatim, with attribution:**
+- John Bunyan, *The Pilgrim's Progress* (1678).
+- Andrew Murray (*Humility*, *Abide in Christ*), Hannah Whitall Smith, E.M. Bounds, Jonathan Edwards — pre-1929 English. Quote freely.
+- **Oswald Chambers, *My Utmost for His Highest*** — quote the **original 1927 text only**. (Public domain in the US since 2023; worldwide under life+70, Chambers d. 1917.) Do NOT quote a modern *updated/reworded edition* (e.g. the 1992 edition) — that rewording has its own live copyright.
 
-**In copyright — use the framework, attribute the idea, do NOT reproduce long verbatim text:**
-- C.S. Lewis, *The Screwtape Letters* (1942) — name it, describe its insight ("Lewis imagines a senior devil coaching a junior tempter..."), keep any quoted phrase short and clearly attributed.
-- Gary Thomas, *Sacred Pathways* (1996) — use the nine-temperaments framework, paraphrased and attributed; the temperament names are usable as a taxonomy.
-- R. Thomas Ashbrook, *Mansions of the Heart* (2009) — use its mapping of Teresa for a modern reader; quote **Teresa** underneath it, not Ashbrook.
-- William P. Young, *The Shack* (2007) — draw on its relational warmth (the Father-heart of God); **keep doctrine orthodox** for the conservative-Protestant audience and do not endorse its contested ideas; reference by name, no long quotes.
+**(b) Public-domain WORK, but the TRANSLATION may not be (not written in English):**
+- Augustine *Confessions* (Latin); Teresa of Avila *Interior Castle* (Spanish); Thomas a Kempis *Imitation of Christ* (Latin); Brother Lawrence *Practice of the Presence of God* (French); John of the Cross *Dark Night* (Spanish); Julian of Norwich (Middle English); Francis de Sales (French).
+- The original is public domain, **but a specific modern English translation is under the translator's copyright.** So either: (i) quote a clearly **public-domain translation** (generally pre-1929 — e.g. Pusey's 1838 *Confessions*), or (ii) render it into our own English from the original and tag the attribution "(rendered from the Latin/Spanish/French)". **Never lift the wording of a modern copyrighted translation.**
 
-Rule of thumb: if it is in copyright, it belongs in the **prose as attributed
-discussion or paraphrase**, never as a long verbatim block, and never as the
-quoted **Voice**. The Voice field is reserved for Scripture and public-domain
-classics.
+**(c) In copyright — NEVER quote verbatim; reference and paraphrase in our own words only:**
+- C.S. Lewis, *The Screwtape Letters* (1942); Gary Thomas, *Sacred Pathways* (1996); R. Thomas Ashbrook, *Mansions of the Heart* (2009); William P. Young, *The Shack* (2007).
+- **Allowed:** naming the book/author; describing its insight in our own words; using its **ideas and frameworks** — ideas, systems, and taxonomies are not copyrightable (e.g. Thomas's nine temperaments may be used as a taxonomy, with our own descriptions and attribution). A book **title is not copyrightable**, but as a courtesy we do not reuse a living author's exact title or distinctive character as one of our own section headers.
+- **Not allowed:** any verbatim sentence, or a paraphrase that closely tracks the author's specific wording or structure (that can be an infringing derivative). The expression must be genuinely ours.
+- For *The Shack* specifically: draw on its relational warmth (the Father-heart of God); **keep doctrine orthodox** and do not endorse its contested ideas.
+
+**The Voice field is reserved for Scripture and public-domain sources** — an
+in-copyright author never appears there.
 
 ## 4. The Formation lens (what makes this series itself)
 
@@ -67,7 +67,7 @@ drives toward.
   "invitation":   "the single carry-it-with-you invitation — what God is forming in you here",
   "interiorWork": "3-4 sentences — what must change in the soul (desire, the hidden self, the heart's loves)",
   "practice":     "one concrete spiritual practice to engage (prayer, silence, examen, fasting, lectio, solitude, service)",
-  "resistance":   "2-3 sentences — the Screwtape angle: what the flesh, world, or enemy uses to derail this; the self-deception to watch",
+  "resistance":   "2-3 sentences — the tempter's angle: what the flesh, world, or enemy uses to derail this; the self-deception to watch",
   "reflection":   ["3-4 PERSONAL examen questions, second person, for the individual soul — not a team"],
   "prayer":       "optional — a short prayer to carry, in the reader's own voice"
 }
@@ -119,6 +119,9 @@ the registry in `lib/series.ts`; set `volumeYears` to "Scripture & Tradition".
 - [ ] **Voice reference != Word reference.**
 - [ ] The **Voice** is Scripture or a public-domain source; no in-copyright book is quoted verbatim.
 - [ ] Any classic quotation is real and correctly attributed to its work.
+- [ ] **Translations:** any non-English classic is quoted from a public-domain translation, or rendered in our own English and tagged as such — no modern copyrighted translation lifted.
+- [ ] **Chambers** is from the 1927 original, not a modern updated edition.
+- [ ] **No in-copyright book** (Screwtape, The Shack, Sacred Pathways, Mansions of the Heart) is quoted verbatim or closely paraphrased — ideas only, named and attributed.
 - [ ] Theology is orthodox; The Shack's warmth is welcome, its contested ideas are not.
 - [ ] The lens `reflection` is genuinely personal (an examen), not a team prompt.
 - [ ] `npm run validate` passes (checks required fields + the formation lens).
