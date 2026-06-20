@@ -75,41 +75,6 @@
     "volumeTitle": "The Awakening",
     "volumeSubtitle": "The burden and the cross",
     "volumeYears": "Scripture & Tradition",
-    "title": "The burden falls",
-    "figure": "Christian at the cross",
-    "era": "The Pilgrim's Progress",
-    "dateLabel": "Bunyan, 1678",
-    "moment": "In Bunyan's dream, a man named Christian sets out from the City of Destruction with a great burden strapped to his back — the crushing weight of his own sin. He cannot pry it off. He carries it through the Slough of Despond, past every false shortcut, up a narrow way.\n\nThen he comes to a small hill, and on the top of it stands a cross, and a little below it an open tomb. As Christian climbs up to the cross, the straps that held the burden snap. It rolls from his shoulders, tumbles down the hill, falls into the mouth of the sepulchre, and he sees it no more.\n\nChristian stands there and weeps — not from grief now, but from astonishment that a thing he could never remove was taken from him at the cross without his lifting a finger.",
-    "voiceQuote": "Blest cross! Blest sepulchre! Blest rather be the Man that there was put to shame for me.",
-    "voiceAttribution": "Christian at the cross — John Bunyan, The Pilgrim's Progress",
-    "scriptureRef": "Matthew 11:28",
-    "scriptureText": "Come to me, all you who labor and are heavily burdened, and I will give you rest.",
-    "weight": "Many people carry a burden they have stopped expecting to lose. They have made a kind of peace with the weight of old guilt, hauling it from year to year, certain it is simply theirs to bear. Bunyan's picture is the gospel's stubborn correction: the burden was never meant to be managed. It was meant to fall.\n\nIt falls at one place only — the cross — and it falls by gift, not by effort. What burden have you been carrying as though it were yours to keep, when Christ has already made a place for it to fall?",
-    "notes": {
-      "primary": "John Bunyan, The Pilgrim's Progress (Christian loses his burden at the cross); Matthew 11:28.",
-      "tradition": "Allegory; the scene dramatizes justification by grace through faith.",
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Bring the weight you have been carrying to the one place it can fall — the cross — and let it go.",
-      "interiorWork": "Long-carried guilt becomes a strange kind of identity; you can grow attached to the weight. The interior work is to believe the cross actually emptied your back of it, and to stop picking the burden back up out of habit or a vague sense that you ought to keep paying.",
-      "practice": "Name one specific burden of guilt you keep rehearsing. Write it on paper, pray it to the cross, then physically throw the paper away — a small enacted parable that what Christ took, you need not carry.",
-      "resistance": "The accuser's favorite trick is to make forgiven people keep paying. He will tell you grace is too easy, that you should feel the weight a while longer to prove you are sincere. That voice is not the Spirit; it is the enemy of your rest.",
-      "reflection": [
-        "What burden have I assumed is simply mine to carry forever?",
-        "Do I actually believe the cross was enough to remove it?",
-        "Why do I keep picking it back up?"
-      ],
-      "prayer": "Lord Jesus, at your cross I lay down what I cannot carry. Thank you that it has fallen, and is seen no more. Amen."
-    }
-  },
-  {
-    "day": 4,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
     "title": "Cut to the heart",
     "figure": "The crowd at Pentecost",
     "era": "Jerusalem, the day of Pentecost",
@@ -137,6 +102,41 @@
         "Is there a specific thing the Spirit is asking me to turn from today?"
       ],
       "prayer": "Holy Spirit, thank you for loving me enough to wound me. Turn my sorrow into repentance, and my repentance into joy. Amen."
+    }
+  },
+  {
+    "day": 4,
+    "volume": 1,
+    "volumeTitle": "The Awakening",
+    "volumeSubtitle": "The burden and the cross",
+    "volumeYears": "Scripture & Tradition",
+    "title": "The burden falls",
+    "figure": "Christian at the cross",
+    "era": "The Pilgrim's Progress",
+    "dateLabel": "Bunyan, 1678",
+    "moment": "In Bunyan's dream, a man named Christian sets out from the City of Destruction with a great burden strapped to his back — the crushing weight of his own sin. He cannot pry it off. He carries it through the Slough of Despond, past every false shortcut, up a narrow way.\n\nThen he comes to a small hill, and on the top of it stands a cross, and a little below it an open tomb. As Christian climbs up to the cross, the straps that held the burden snap. It rolls from his shoulders, tumbles down the hill, falls into the mouth of the sepulchre, and he sees it no more.\n\nChristian stands there and weeps — not from grief now, but from astonishment that a thing he could never remove was taken from him at the cross without his lifting a finger.",
+    "voiceQuote": "Blest cross! Blest sepulchre! Blest rather be the Man that there was put to shame for me.",
+    "voiceAttribution": "Christian at the cross — John Bunyan, The Pilgrim's Progress",
+    "scriptureRef": "Matthew 11:28",
+    "scriptureText": "Come to me, all you who labor and are heavily burdened, and I will give you rest.",
+    "weight": "Many people carry a burden they have stopped expecting to lose. They have made a kind of peace with the weight of old guilt, hauling it from year to year, certain it is simply theirs to bear. Bunyan's picture is the gospel's stubborn correction: the burden was never meant to be managed. It was meant to fall.\n\nIt falls at one place only — the cross — and it falls by gift, not by effort. What burden have you been carrying as though it were yours to keep, when Christ has already made a place for it to fall?",
+    "notes": {
+      "primary": "John Bunyan, The Pilgrim's Progress (Christian loses his burden at the cross); Matthew 11:28.",
+      "tradition": "Allegory; the scene dramatizes justification by grace through faith.",
+      "archaeological": null,
+      "confidence": "high"
+    },
+    "formation": {
+      "invitation": "Bring the weight you have been carrying to the one place it can fall — the cross — and let it go.",
+      "interiorWork": "Long-carried guilt becomes a strange kind of identity; you can grow attached to the weight. The interior work is to believe the cross actually emptied your back of it, and to stop picking the burden back up out of habit or a vague sense that you ought to keep paying.",
+      "practice": "Name one specific burden of guilt you keep rehearsing. Write it on paper, pray it to the cross, then physically throw the paper away — a small enacted parable that what Christ took, you need not carry.",
+      "resistance": "The accuser's favorite trick is to make forgiven people keep paying. He will tell you grace is too easy, that you should feel the weight a while longer to prove you are sincere. That voice is not the Spirit; it is the enemy of your rest.",
+      "reflection": [
+        "What burden have I assumed is simply mine to carry forever?",
+        "Do I actually believe the cross was enough to remove it?",
+        "Why do I keep picking it back up?"
+      ],
+      "prayer": "Lord Jesus, at your cross I lay down what I cannot carry. Thank you that it has fallen, and is seen no more. Amen."
     }
   },
   {
@@ -215,146 +215,6 @@
     "volumeTitle": "The Awakening",
     "volumeSubtitle": "The burden and the cross",
     "volumeYears": "Scripture & Tradition",
-    "title": "The opened heart",
-    "figure": "Lydia, by the river at Philippi",
-    "era": "Paul's mission to Macedonia",
-    "dateLabel": "Acts 16",
-    "moment": "In Philippi there was no synagogue, so on the Sabbath Paul went down to the river, where a group of women had gathered to pray. Among them was Lydia, a dealer in purple cloth — a businesswoman, a worshiper of God, already seeking.\n\nPaul spoke, and Luke records the decisive thing in a single phrase. It was not that Lydia was persuaded by Paul's eloquence. It was that the Lord opened her heart to pay attention to what was said. The drawing came from God's side of the table.\n\nShe and her household were baptized that day, and the first church in Europe began in her home. But it began, as every conversion does, with a heart God opened from the inside.",
-    "voiceQuote": "The Lord opened her heart to listen to the things which were spoken by Paul.",
-    "voiceAttribution": "Of Lydia at Philippi — Acts 16:14 (WEB)",
-    "scriptureRef": "Philippians 1:6",
-    "scriptureText": "being confident of this very thing, that he who began a good work in you will complete it until the day of Jesus Christ.",
-    "weight": "It is humbling and freeing to learn that even your reaching for God was God reaching for you first. Lydia was seeking — and behind her seeking was a Lord quietly opening her heart. You did not awaken yourself; the very desire you have to be formed is evidence that God has already begun.\n\nAnd what he begins, Paul tells that same Philippian church, he finishes. The pressure slides off your shoulders and onto his faithfulness. If God opened your heart to begin, do you trust him to complete what he started in you?",
-    "notes": {
-      "primary": "Acts 16:11-15 (the conversion of Lydia at Philippi); Philippians 1:6.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Rest in this: the God who opened your heart to begin will be faithful to finish the work.",
-      "interiorWork": "Anxious striving assumes the whole project depends on you. The interior shift is to see your own desire for God as his gift, and to let that reframe formation from a performance you must sustain into a work he has promised to complete. Gratitude replaces pressure.",
-      "practice": "Look back and name the moments God clearly opened your heart — a person, a sermon, a verse, a season. Thank him specifically for each. Remembering his initiative steadies you for the road ahead.",
-      "resistance": "When growth feels slow, the enemy whispers that it is all up to you and you are failing. Counter it with the promise: he who began the good work will complete it. Your perseverance rests on his faithfulness, not your grip.",
-      "reflection": [
-        "Where do I see God's initiative in my coming to faith?",
-        "Am I carrying formation as my project, or receiving it as his work?",
-        "Do I believe God will finish what he started in me?"
-      ],
-      "prayer": "Lord, you opened my heart when I did not even know to ask. Finish what you began, for your glory. Amen."
-    }
-  },
-  {
-    "day": 8,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "He stands and knocks",
-    "figure": "The church at Laodicea",
-    "era": "A letter to the seven churches",
-    "dateLabel": "Revelation 3",
-    "moment": "Of the seven churches, Laodicea got the hardest letter and the tenderest picture. They were rich, comfortable, self-sufficient — a banking town with a thriving trade and a smug spiritual temperature to match. We are wealthy, they said, and have need of nothing.\n\nChrist's diagnosis was the exact reverse of their self-assessment: wretched, miserable, poor, blind, and naked, and worst of all, lukewarm — neither cold nor hot. And yet he did not walk away.\n\nInstead he gave them one of the most patient images in all of Scripture. Behold, he said, I am standing at the door, knocking. The risen Lord of the church, locked outside his own people's comfort, not breaking the door down but knocking, waiting to be let back in to share a meal.",
-    "voiceQuote": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.",
-    "voiceAttribution": "Jesus, to Laodicea — Revelation 3:20 (WEB)",
-    "scriptureRef": "Hebrews 3:15",
-    "scriptureText": "Today if you will hear his voice, don't harden your hearts, as in the rebellion.",
-    "weight": "Lukewarmness is rarely dramatic. It does not slam the door on Christ; it just gets comfortable enough to stop hearing him knock. Of all the spiritual dangers, ease may be the quietest, because it feels like blessing while it slowly deafens you.\n\nThe remedy is not more religious activity but a door opened today, while you can still hear. Christ is not pounding; he is knocking, close and patient, asking to come in and eat with you again. Is there a door in your comfortable life that he has been knocking on, that you keep meaning to open tomorrow?",
-    "notes": {
-      "primary": "Revelation 3:14-22 (the letter to Laodicea); Hebrews 3:15.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Hear the knock today, and open the door of the comfortable room where you have left Christ outside.",
-      "interiorWork": "Self-sufficiency is the spiritual disease that feels like health. The interior work is to let Christ tell you the truth about your lukewarmness, to stop saying you need nothing, and to want his nearness more than your comfort.",
-      "practice": "Ask one honest question in prayer and wait for the answer: Lord, where have I grown lukewarm and called it fine? Open whatever door he names today, not tomorrow.",
-      "resistance": "The enemy rarely tempts the comfortable with scandal; he tempts them with more comfort. A little softer, a little busier, a little richer, until the knocking is just background noise. Ease is his anesthetic.",
-      "reflection": [
-        "Where have I grown lukewarm while calling it contentment?",
-        "What comfort am I unwilling to let Christ disturb?",
-        "What door is he knocking on that I keep putting off?"
-      ],
-      "prayer": "Lord Jesus, I hear you knocking. Forgive my lukewarm ease. Come in; sit at my table again. Amen."
-    }
-  },
-  {
-    "day": 9,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Count the cost",
-    "figure": "The builder of a tower",
-    "era": "Teaching on the road",
-    "dateLabel": "Luke 14",
-    "moment": "Great crowds were traveling with Jesus, swept up in the excitement. And in a move no modern movement would advise, he turned around and made it harder. He spoke of loving him above father and mother, of carrying a cross, of giving up everything.\n\nThen he told two small parables. A man wants to build a tower — does he not first sit down and count the cost, to see whether he can finish, lest he lay a foundation and become the joke of the town with a half-built ruin? A king going to war first weighs whether ten thousand can meet twenty thousand.\n\nJesus was not trying to thin the crowd for its own sake. He was refusing to let people follow him on a misunderstanding. The narrow gate is free, but it is not cheap, and he wanted them to walk through it with their eyes open.",
-    "voiceQuote": "Which of you, desiring to build a tower, doesn't first sit down and count the cost, to see if he has enough to complete it?",
-    "voiceAttribution": "Jesus, on the road — Luke 14:28 (WEB)",
-    "scriptureRef": "Joshua 24:15",
-    "scriptureText": "Choose today whom you will serve... but as for me and my house, we will serve the LORD.",
-    "weight": "We are good at impulsive enthusiasm and bad at durable commitment. Jesus wants the opposite — not a feeling that flares and dies at the first cost, but a decision made soberly, with the price in full view, that holds. He thinks so highly of you that he refuses to recruit you under false advertising.\n\nReal formation is built like a tower, course by course, by people who counted the cost and decided he was worth it. Have you actually counted the cost of following Jesus — and chosen him with your eyes open?",
-    "notes": {
-      "primary": "Luke 14:25-33 (count the cost); Joshua 24:15.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Count the cost honestly, and then choose Christ deliberately — a settled decision, not a passing mood.",
-      "interiorWork": "Impulsive faith collapses at the first real price; counted faith endures. The interior work is to face what following Jesus will actually cost you — comfort, control, certain relationships, your own plans — and to decide, clear-eyed, that he is worth all of it.",
-      "practice": "Write down one specific cost of following Jesus that you have been avoiding. Bring it to God honestly, count it, and make a deliberate choice: he is worth this. Keep the note for when the cost comes due.",
-      "resistance": "The enemy works both extremes — luring you into shallow enthusiasm that cannot last, or freezing you with a cost so magnified you never start. Sober counting cuts through both: name the real price, then choose.",
-      "reflection": [
-        "Have I ever truly counted the cost of following Jesus, or only felt enthusiasm?",
-        "What specific cost am I still unwilling to face?",
-        "Is my commitment a mood or a settled choice?"
-      ],
-      "prayer": "Lord, I have counted the cost as best I can, and you are worth it. As for me and my house, we will serve you. Amen."
-    }
-  },
-  {
-    "day": 10,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "A more convenient time",
-    "figure": "Felix, the governor",
-    "era": "Paul on trial at Caesarea",
-    "dateLabel": "Acts 24",
-    "moment": "Paul stood in chains before Felix, the Roman governor, and his wife Drusilla. It should have been Paul on trial. Instead, as Paul reasoned about righteousness, self-control, and the judgment to come, it was Felix who began to sweat.\n\nLuke says Felix was terrified; the word had found him. This was his moment — conviction had come, the door stood open. And Felix did the most ordinary, most tragic thing a frightened heart can do. He postponed.\n\nGo away for now, he said; when I have a convenient season, I will call for you. He kept Paul on hand for two more years, sending for him often, hoping for a bribe and a comfortable conversation. The convenient season never came. It almost never does.",
-    "voiceQuote": "Go your way for this time, and when it is convenient for me, I will summon you.",
-    "voiceAttribution": "Felix, to Paul — Acts 24:25 (WEB)",
-    "scriptureRef": "2 Corinthians 6:2",
-    "scriptureText": "Behold, now is the acceptable time. Behold, now is the day of salvation.",
-    "weight": "Tomorrow is where good intentions go to die. Felix did not reject the gospel; he deferred it, which in the end came to the same thing. He meant to deal with God later, when it would be less disruptive — and later quietly never arrived. Few people slam the door on God. Most just keep it propped for a convenient season that the noise of life keeps crowding out.\n\nThe Spirit's word is always now. Not because God is impatient, but because a heart that is moved today and waits for tomorrow grows a little harder each time it postpones. Is there anything God has been asking of you that you keep filing under a more convenient time?",
-    "notes": {
-      "primary": "Acts 24:24-27 (Paul before Felix); 2 Corinthians 6:2.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Answer God now, in the thing he is putting before you today, rather than filing it under a more convenient season.",
-      "interiorWork": "Delay feels harmless because it is not outright refusal — but a heart that repeatedly defers God slowly hardens. The interior work is to obey the prompting while it is warm, to distrust the reasonable-sounding tomorrow, and to act on what God shows you today.",
-      "practice": "Identify the one thing you have been telling God you will do later — a conversation, a confession, an obedience. Take the first concrete step of it today, before the convenient season swallows it again.",
-      "resistance": "Procrastination is one of the enemy's quietest victories; he need not make you say no if he can keep you saying later. He magnifies the inconvenience of obeying now and promises an easier moment that never comes.",
-      "reflection": [
-        "What is God asking of me that I keep deferring to a more convenient time?",
-        "Where has later quietly become never?",
-        "What one step can I take today instead of tomorrow?"
-      ],
-      "prayer": "Lord, I do not want to wait for a convenient season that never comes. Today I hear you; help me answer now. Amen."
-    }
-  },
-  {
-    "day": 11,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
     "title": "Who are you, Lord?",
     "figure": "Saul on the road to Damascus",
     "era": "The persecutor of the church",
@@ -385,462 +245,7 @@
     }
   },
   {
-    "day": 12,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Living water",
-    "figure": "The woman at the well in Samaria",
-    "era": "A noonday encounter in Samaria",
-    "dateLabel": "John 4",
-    "moment": "She came to the well at noon, in the heat, alone — the hour you draw water if you are avoiding the other women and their whispers. Five husbands, and the man she had now was not her husband. In Samaria, she was an outcast among outcasts.\n\nA Jewish man was sitting there, which was scandal enough, and he asked her for a drink, which was more scandal still. Then he turned the conversation: if she knew who was asking, she would have asked him, and he would have given her living water, a spring welling up to eternal life. When he named the husbands she had not mentioned, she knew she had met someone who saw straight through her — and did not turn away.\n\nShe left her water jar at the well, the very thing she had come for, and ran back to the town she had been avoiding, telling everyone to come and see. The outcast became the first evangelist of Samaria.",
-    "voiceQuote": "Come, see a man who told me everything that I did. Can this be the Christ?",
-    "voiceAttribution": "The woman of Samaria — John 4:29 (WEB)",
-    "scriptureRef": "Revelation 22:17",
-    "scriptureText": "He who is thirsty, let him come. He who desires, let him take the water of life freely.",
-    "weight": "The remarkable thing is not that Jesus knew her sin; it is that knowing it, he stayed and offered her living water anyway. She had spent her life being seen and judged. She had never been seen and wanted. That is what awakened her.\n\nMany of us keep God at the polite distance of the well, afraid that if he really saw us he would leave. He already sees, and he is still asking to give you living water. What would change if you believed that the One who knows everything about you is the One least likely to walk away?",
-    "notes": {
-      "primary": "John 4:1-30 (the woman of Samaria); Revelation 22:17.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Let yourself be fully known by the One who, knowing everything, offers you living water and does not leave.",
-      "interiorWork": "We hide because we assume that being known and being loved cannot coexist. The woman discovered they do, in Christ. The interior work is to stop managing the impression you give God, to bring the thing you most want to keep at the well, and to let his knowing be the place you are finally wanted rather than the thing you dread.",
-      "practice": "Name the part of your life you most assume would make God turn away. Bring it to him in honest prayer this week — not to fix it first, but to be seen in it and to ask for the living water he is offering.",
-      "resistance": "The enemy trades on shame: he insists that if God really knew you, he would leave, so you keep him at the well. The cross says otherwise. The thirst he awakens is not a trap; it is an invitation.",
-      "reflection": [
-        "What do I keep at a polite distance from God for fear of being seen?",
-        "Do I believe I can be fully known and still fully wanted?",
-        "What well am I drawing from that never satisfies?"
-      ],
-      "prayer": "Lord, you see all of me and stay. Give me the living water; I am tired of the well. Amen."
-    }
-  },
-  {
-    "day": 13,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Today, to this house",
-    "figure": "Zacchaeus in the sycamore tree",
-    "era": "Jericho",
-    "dateLabel": "Luke 19",
-    "moment": "Zacchaeus was a chief tax collector — rich, and hated for how he got rich. He had built a comfortable life on the backs of his neighbors, and they had built a wall of contempt around him. When Jesus came through Jericho, Zacchaeus wanted to see him, but he was short, and the crowd would not make room. So a dignified, wealthy man did an undignified thing: he ran ahead and climbed a tree.\n\nOf all the faces in that crowd, Jesus stopped under the tree and looked up. Zacchaeus, hurry and come down, for today I must stay at your house. The crowd groaned — Jesus was going to be the guest of a sinner.\n\nBut something had already broken open. Before any sermon, Zacchaeus stood and announced he would give half his goods to the poor and repay fourfold anyone he had cheated. Grace had come to his house, and it came out of his hands as restitution.",
-    "voiceQuote": "Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.",
-    "voiceAttribution": "Zacchaeus — Luke 19:8 (WEB)",
-    "scriptureRef": "Ezekiel 34:16",
-    "scriptureText": "I will seek that which was lost, and will bring back that which was driven away, and will bind up that which was broken, and will strengthen that which was sick.",
-    "weight": "Real awakening shows up in the wallet. Zacchaeus did not just feel forgiven; he gave back what he had taken, and then some. The encounter that begins in the heart works its way out into the ledger, the calendar, the relationships we have damaged.\n\nJesus did not demand the restitution; joy produced it. When grace truly lands, it loosens our grip on the things we used to clutch. Is there anything you have taken, or kept, that an honest awakening would put right?",
-    "notes": {
-      "primary": "Luke 19:1-10 (Zacchaeus); Ezekiel 34:16.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Let grace reach your hands: where Christ has come to your house, make right what you have taken or withheld.",
-      "interiorWork": "We prefer a forgiveness that costs the conscience nothing. Zacchaeus shows that joy and restitution belong together; the freed heart wants to repair what it broke. The interior work is to let gratitude, not guilt, loosen your grip on money, status, and the small dishonesties you have quietly normalized.",
-      "practice": "Ask God to show you one specific wrong you can still make right — a debt, an apology, a thing taken or a truth withheld. This week, take a concrete step to repay or repair it.",
-      "resistance": "The enemy lets you feel forgiven in the abstract while keeping the ledger closed. He calls restitution legalism and clutching prudence, so that grace never reaches your hands. Joy that costs nothing is usually counterfeit.",
-      "reflection": [
-        "What have I taken or withheld that an honest faith would put right?",
-        "Where does my grip on money or status reveal an unawakened place?",
-        "Does my forgiveness ever reach my hands, or only my feelings?"
-      ],
-      "prayer": "Lord, you came to my house unearned. Loosen my grip, and let me make right what I have made wrong. Amen."
-    }
-  },
-  {
-    "day": 14,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Songs at midnight",
-    "figure": "The jailer at Philippi",
-    "era": "The Philippian jail",
-    "dateLabel": "Acts 16",
-    "moment": "Paul and Silas had been stripped, beaten, and locked in the inner cell of the Philippian jail, their feet fastened in stocks. At midnight, instead of groaning, they were praying and singing hymns to God, and the other prisoners were listening. Then an earthquake shook the foundations, the doors flew open, and every chain came loose.\n\nThe jailer woke, saw the open doors, and drew his sword to kill himself — a Roman guard who lost his prisoners would die anyway, and by his own hand was the honorable way out. Paul shouted through the dark: do yourself no harm, for we are all here. No one had run.\n\nThe jailer called for lights, rushed in trembling, and fell down before them with the only question that mattered: what must I do to be saved? That night he washed their wounds, and they washed him in baptism, and his whole household believed. The man who guarded the prison became a prisoner of hope.",
-    "voiceQuote": "Sirs, what must I do to be saved?",
-    "voiceAttribution": "The Philippian jailer — Acts 16:30 (WEB)",
-    "scriptureRef": "Romans 10:9",
-    "scriptureText": "If you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.",
-    "weight": "Awakening often comes at midnight, in the place we feel most trapped, through people whose joy makes no earthly sense. The jailer was undone not first by an argument but by a song in the dark and a mercy that kept him alive.\n\nThe question he asked is the hinge of every life: what must I do to be saved? Paul's answer was not a program but a Person — believe on the Lord Jesus. Have you ever actually asked that question and received that answer, or have you been busy managing the prison instead?",
-    "notes": {
-      "primary": "Acts 16:25-34 (the Philippian jailer); Romans 10:9.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Ask the one question that matters — what must I do to be saved — and receive the simple answer: believe on the Lord Jesus.",
-      "interiorWork": "We complicate salvation because grace this free offends our sense of effort. The jailer models the awakened posture: trembling honesty, an urgent question, and a willingness to be washed rather than to earn. The interior work is to stop managing your prison and to let a Person, not a performance, be your salvation.",
-      "practice": "Tonight, in your own words, ask the jailer's question and rest in the answer. If you have never consciously trusted Christ, do it; if you have, renew it, and let the sheer simplicity of it settle you.",
-      "resistance": "The enemy makes the gospel complicated so you never quite close with it. He keeps you adding conditions, postponing the trembling honesty, polishing the prison. The midnight song says freedom is nearer than you think.",
-      "reflection": [
-        "Have I ever truly asked, and answered, what must I do to be saved?",
-        "Where am I trying to earn what can only be believed?",
-        "What prison have I been managing instead of leaving?"
-      ],
-      "prayer": "Lord Jesus, I believe; save me. Thank you that the door is already open. Amen."
-    }
-  },
-  {
-    "day": 15,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Unless someone explains",
-    "figure": "The Ethiopian on the desert road",
-    "era": "The desert road to Gaza",
-    "dateLabel": "Acts 8",
-    "moment": "An Ethiopian official, treasurer to a queen, was riding home from Jerusalem in his chariot, reading aloud from the scroll of Isaiah. He had traveled a great distance to worship, and he was returning with a scroll he could not understand. As a foreigner and a eunuch, he had likely been kept at the temple's margins — near, but never fully in.\n\nThe Spirit told Philip to run alongside the chariot. Do you understand what you are reading? Philip asked. The official answered with disarming humility: how can I, unless someone explains it to me? He was reading the very passage about a lamb led to the slaughter, and he asked who the prophet meant.\n\nBeginning with that Scripture, Philip told him the good news of Jesus. When they came to some water, the official asked what could possibly hinder him from being baptized. Nothing could. He went on his way rejoicing, carrying the gospel home toward a continent.",
-    "voiceQuote": "How can I, unless someone explains it to me?",
-    "voiceAttribution": "The Ethiopian eunuch — Acts 8:31 (WEB)",
-    "scriptureRef": "Romans 10:17",
-    "scriptureText": "So faith comes by hearing, and hearing by the word of God.",
-    "weight": "God awakened a man through the Scriptures he was already reading and could not yet grasp, by sending someone to explain them. Formation is rarely a solo download; it usually comes through the Word and through a guide God puts alongside us.\n\nThe official's humility is the doorway: how can I, unless someone explains it to me? Pride reads alone and stays stuck. Are you willing to admit what you do not understand, and to let God send you a guide?",
-    "notes": {
-      "primary": "Acts 8:26-39 (the Ethiopian eunuch); Romans 10:17.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Come to the Scriptures hungry and humble, and let God send a guide to open what you cannot yet understand alone.",
-      "interiorWork": "Pride insists on understanding by itself and quietly stays confused. The eunuch's how can I, unless someone explains it is the posture that gets opened. The interior work is to read the Word expecting to meet Christ in it, and to receive the teachers and companions God sends rather than guarding an independence that keeps you stuck.",
-      "practice": "Open the Scriptures this week with a question you genuinely cannot answer, and bring it to a wiser believer, a trusted commentary, or your church. Let yourself be taught.",
-      "resistance": "The enemy is content to let you read the Bible as long as it stays a closed book — flattering your independence, shaming your questions, keeping you from the guide who would open it. Humble hunger breaks the spell.",
-      "reflection": [
-        "Do I read the Scriptures expecting to meet Jesus, or just to perform a duty?",
-        "What do I not understand that pride keeps me from asking about?",
-        "Who is the guide God may be sending me right now?"
-      ],
-      "prayer": "Lord, open the Scriptures to me as you did on the road. Send me guides, and make me humble enough to learn. Amen."
-    }
-  },
-  {
-    "day": 16,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Follow me",
-    "figure": "Matthew at the tax booth",
-    "era": "The tax booth at Capernaum",
-    "dateLabel": "Matthew 9",
-    "moment": "Matthew sat at the tax booth, where everyone could see him and no one wanted to. As a tax collector for Rome, he was a traitor with money — comfortable, and utterly alone behind his table of other people's coins. He was the kind of man religious people crossed the street to avoid.\n\nJesus walked up to the booth and said two words: follow me. No lecture, no probation, no demand that Matthew clean himself up first. Just a call, offered to the last man the rabbis would have chosen.\n\nAnd Matthew got up. He left the booth, the income, the whole identity, and followed. Then he did the most natural thing for a newly awakened heart: he threw a great feast and filled the room with his disreputable friends, so they could meet the One who had called him.",
-    "voiceQuote": "Follow me.",
-    "voiceAttribution": "Jesus, to Matthew at the tax booth — Matthew 9:9 (WEB)",
-    "scriptureRef": "1 John 4:19",
-    "scriptureText": "We love him, because he first loved us.",
-    "weight": "The call comes before the cleanup. Jesus did not wait for Matthew to become respectable; he called him at the booth, as he was, and the following is what changed him. We get this backwards constantly, assuming we must fix ourselves before God could possibly want us.\n\nNotice too what Matthew did with grace: he threw it a party and filled the room with the people who needed it most. When Jesus calls you at your booth, do you leave it — and whom would you invite to meet him?",
-    "notes": {
-      "primary": "Matthew 9:9-13 (the call of Matthew); 1 John 4:19.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Answer the call as you are, before the cleanup, and rise from the booth that has defined you.",
-      "interiorWork": "We stall because we believe we must become presentable before God will have us. Matthew was called mid-sin, at the booth, and the rising is what formed him. The interior work is to stop using your unworthiness as an excuse to stay seated, and to let the bare call of Jesus — follow me — be enough to move you.",
-      "practice": "Name the booth that defines you — a job, a label, a way of being seen. Ask where Jesus is saying follow me, and take one concrete step that loosens your grip on it this week.",
-      "resistance": "The enemy keeps you at the booth by convincing you that you must be worthy before you can rise. He turns follow me into clean yourself up first, which is a call you can never quite complete. The call comes before the cleanup.",
-      "reflection": [
-        "What booth has been defining me that Jesus is calling me to leave?",
-        "Am I waiting to feel worthy before I follow?",
-        "If grace came to my table, whom would I want to invite to meet him?"
-      ],
-      "prayer": "Lord, you call me as I am. I rise from the booth; make me yours, and fill my table with those who need you. Amen."
-    }
-  },
-  {
-    "day": 17,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "That I may see",
-    "figure": "Blind Bartimaeus by the road",
-    "era": "The road out of Jericho",
-    "dateLabel": "Mark 10",
-    "moment": "Blind Bartimaeus sat begging by the Jericho road, in the dark and at the margins, where the world walked past him every day. When he heard that Jesus of Nazareth was passing, he did the only thing a beggar can do: he made noise. Son of David, have mercy on me!\n\nThe crowd told him to be quiet — the respectable hushing the desperate. So he cried out all the louder. Jesus stopped, and the same crowd that had silenced him now said, take heart, he is calling you. Bartimaeus threw off his cloak, the beggar's one possession, and came.\n\nWhat do you want me to do for you? Jesus asked — a strange question to a blind man, except that Jesus will not presume. Rabboni, that I may see again. And immediately he received his sight, and followed Jesus on the way.",
-    "voiceQuote": "Rabboni, that I may see again.",
-    "voiceAttribution": "Bartimaeus — Mark 10:51 (WEB)",
-    "scriptureRef": "2 Corinthians 4:6",
-    "scriptureText": "It is God who said, Light will shine out of darkness, who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
-    "weight": "Awakening is not always dignified. Sometimes it is the undignified, desperate cry of someone who knows exactly how blind and poor he is, refusing to be hushed. Bartimaeus had no merit to offer, only need, and need was enough to stop the Son of God.\n\nNotice Jesus made him name it: what do you want? Vague religious longing rarely receives; honest, specific asking does. If Jesus stood before you with that question, could you name what you actually want him to do for you?",
-    "notes": {
-      "primary": "Mark 10:46-52 (blind Bartimaeus); 2 Corinthians 4:6.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Cry out honestly and name your need; refuse to let the crowd, or your own dignity, hush you.",
-      "interiorWork": "We muffle our deepest need under composure and vague religiosity. Bartimaeus shows that desperate, specific honesty is what receives. The interior work is to admit how blind and poor you actually are, to name precisely what you want from Jesus, and to throw off whatever cloak you are hiding behind in order to come to him.",
-      "practice": "Answer Jesus' question in writing this week: what do you want me to do for you? Be specific, not pious. Then ask him for exactly that, out loud, every day.",
-      "resistance": "The enemy uses your dignity against you, joining the crowd that says hush, keep it together, do not make a scene. Composure that will not cry out stays blind. Desperation that names its need gets met.",
-      "reflection": [
-        "If Jesus asked what do you want, could I name it honestly?",
-        "Where am I keeping composure instead of crying out?",
-        "What cloak am I hiding behind that I need to throw off to come to him?"
-      ],
-      "prayer": "Son of David, have mercy on me. You know my blindness; I want to see. Amen."
-    }
-  },
-  {
-    "day": 18,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Woe is me",
-    "figure": "Isaiah in the temple",
-    "era": "A vision in the temple",
-    "dateLabel": "Isaiah 6",
-    "moment": "In the year King Uzziah died, Isaiah saw the Lord, high and lifted up, the train of his robe filling the temple. Above him stood seraphim, calling to one another, Holy, holy, holy is the LORD of Armies; the whole earth is full of his glory. The doorposts shook at the sound, and the house filled with smoke.\n\nIsaiah's response was not delight but devastation. Woe is me! For I am undone, he cried, because I am a man of unclean lips, and I dwell among a people of unclean lips. Standing in the white light of God's holiness, he saw his own uncleanness for the first time, clearly.\n\nThen one of the seraphim flew to him with a burning coal from the altar and touched his lips. Your guilt is taken away, and your sin forgiven. Only after the cleansing came the call. The seeing of God led to the seeing of self, and both led to grace.",
-    "voiceQuote": "Woe is me! For I am undone, because I am a man of unclean lips, and I dwell among a people of unclean lips.",
-    "voiceAttribution": "Isaiah, in the temple — Isaiah 6:5 (WEB)",
-    "scriptureRef": "1 John 1:9",
-    "scriptureText": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
-    "weight": "We tend to measure ourselves against other people and come out fine. Isaiah measured himself against the holiness of God and came undone. A real glimpse of God always exposes us — not to crush us, but because the coal of cleansing comes right behind the conviction.\n\nThis is the awakening the comfortable most need: not lower self-esteem, but a higher vision of God that puts everything in its true light. When did you last see God as holy enough to make you say, woe is me — and then feel the coal touch your lips?",
-    "notes": {
-      "primary": "Isaiah 6:1-8 (Isaiah's vision and cleansing); 1 John 1:9.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Let a higher vision of God's holiness show you the truth about yourself, and then receive the coal that cleanses.",
-      "interiorWork": "We stay comfortable by comparing ourselves to other people instead of to God. Isaiah's undoing came from seeing God rightly, and his cleansing came right behind it. The interior work is to seek a vision of God large enough to expose you, trusting that the holiness which convicts is the same holiness that sends the coal.",
-      "practice": "Spend time this week meditating on God's holiness — read Isaiah 6 or Revelation 4 slowly. Let it humble you honestly, then receive his cleansing rather than wallowing in the woe.",
-      "resistance": "The enemy keeps your vision of God small so your vision of yourself stays flattering. Or, if conviction comes, he stops it at woe is me and hides the coal, leaving you in shame. True holiness always cleanses what it exposes.",
-      "reflection": [
-        "Whom do I measure myself against — other people, or the holiness of God?",
-        "When did I last see God as holy enough to humble me?",
-        "Do I let conviction end in shame, or in the coal that cleanses?"
-      ],
-      "prayer": "Holy, holy, holy Lord, show me yourself, and in your light show me myself. Then touch my lips, and take my guilt away. Amen."
-    }
-  },
-  {
-    "day": 19,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "The Lord was in this place",
-    "figure": "Jacob's dream at Bethel",
-    "era": "Fleeing from Esau",
-    "dateLabel": "Genesis 28",
-    "moment": "Jacob was running. He had cheated his brother out of a blessing and fled for his life, and now he was alone in open country with a stone for a pillow. He was a schemer at the end of his own cleverness, with nothing but the hard ground and the dark.\n\nThere he dreamed of a stairway set on the earth with its top reaching to heaven, the angels of God ascending and descending on it, and the Lord standing above it, promising to be with him and to bring him back. Jacob had thought he was alone, a fugitive God had no reason to bless. He was wrong.\n\nHe woke and said, surely the LORD is in this place, and I did not know it. He had been in the presence of God the whole time and slept through it. He named the place Bethel, the house of God, and the running schemer began, slowly, to become a worshipper.",
-    "voiceQuote": "Surely the LORD is in this place, and I didn't know it.",
-    "voiceAttribution": "Jacob at Bethel — Genesis 28:16 (WEB)",
-    "scriptureRef": "Psalm 139:7",
-    "scriptureText": "Where could I go from your Spirit? Or where could I flee from your presence?",
-    "weight": "God was present in the very place Jacob felt most alone and least deserving — and Jacob had no idea. We often assume God is absent from our running, our failures, the hard-ground seasons we brought on ourselves. Bethel says otherwise. He is in this place, whether or not we know it.\n\nThe awakening is simply waking up to a presence that was already there. Where in your life have you assumed God was absent, when in fact you may have been sleeping at the very gate of heaven?",
-    "notes": {
-      "primary": "Genesis 28:10-22 (Jacob's dream at Bethel); Psalm 139:7.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Wake up to the God who is already present in the very place you feel most alone or least deserving.",
-      "interiorWork": "We assume God absents himself from our failures and our flight, so we miss him at Bethel. The interior work is to stop equating shame with God's absence, to look for him in the hard-ground places you brought on yourself, and to let the discovery that he was there all along turn you from a schemer into a worshipper.",
-      "practice": "Look back at a season you assumed God was absent — a failure, a flight, a lonely stretch. Ask him to show you where he actually was, and name that place your Bethel in a prayer of thanks.",
-      "resistance": "The enemy uses guilt to convince you God has withdrawn, so you stop looking for him exactly where he is. Surely the Lord is in this place is the truth that shame tries to hide.",
-      "reflection": [
-        "Where have I assumed God was absent because I felt undeserving?",
-        "Have I slept through a presence that was there all along?",
-        "What hard-ground place might actually be my Bethel?"
-      ],
-      "prayer": "Lord, you are in places I do not expect and do not deserve. Wake me to your presence, even on the run. Amen."
-    }
-  },
-  {
-    "day": 20,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "He went away sorrowful",
-    "figure": "The rich young ruler",
-    "era": "A question in the road",
-    "dateLabel": "Mark 10",
-    "moment": "A young man with everything came running to Jesus and knelt in the road — eager, sincere, respectful. Good Teacher, what shall I do that I may inherit eternal life? He had kept the commandments from his youth, and he meant it. Mark says Jesus, looking at him, loved him.\n\nThen Jesus named the one thing standing between this good young man and the kingdom: go, sell what you have, give to the poor, and come, follow me. Not because money is evil, but because Jesus could see what owned him.\n\nAnd the young man's face fell. He went away sorrowful, for he had great possessions. He had run to Jesus with a real question and walked away from the real answer. It is the saddest awakening in the Gospels: a man who came so close, and could not let go.",
-    "voiceQuote": "Good Teacher, what shall I do that I may inherit eternal life?",
-    "voiceAttribution": "The rich young ruler — Mark 10:17 (WEB)",
-    "scriptureRef": "Luke 12:15",
-    "scriptureText": "Beware! Keep yourselves from covetousness, for a man's life doesn't consist of the abundance of the things which he possesses.",
-    "weight": "This is awakening that stalls at the threshold. The young man felt the pull, asked the honest question, and was loved by Jesus — and still he turned back, because there was one thing he would not surrender. Conviction is not enough; there is always a hinge on which the whole heart turns.\n\nMost of us have our own one thing — the possession or relationship or plan we would rather keep than follow fully. Jesus loved this man enough to name it. What is the one thing you suspect Jesus would put his finger on, and would you walk away sorrowful, or let it go?",
-    "notes": {
-      "primary": "Mark 10:17-22 (the rich young ruler); Luke 12:15.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Let Jesus name your one thing — the possession or attachment that owns you — and choose him over it.",
-      "interiorWork": "We can be sincere, moral, and even loved by Jesus, and still hold one thing back that quietly rules us. The interior work is to let him put his finger on the attachment you would rather not examine, to feel honestly how tightly it grips you, and to decide whether you came for eternal life or only for reassurance. The issue is never the thing; it is the throne.",
-      "practice": "Ask God honestly this week: what is my one thing? Sit with whatever surfaces without defending it, and take one concrete step to loosen its hold — give some of it away, or lay the plan down in prayer.",
-      "resistance": "The enemy lets you keep the question as long as you never reach the answer. He magnifies the one thing until letting go feels like losing your life, and dresses your refusal up as responsibility. The young man walked away sorrowful, still rich, still empty.",
-      "reflection": [
-        "What is the one thing I suspect Jesus would put his finger on?",
-        "Have I ever come close and then turned back over a single attachment?",
-        "Do I want eternal life, or only reassurance that I am fine as I am?"
-      ],
-      "prayer": "Lord, you love me enough to name my one thing. Give me the grace to let it go and follow you. Amen."
-    }
-  },
-  {
-    "day": 21,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Depart from me",
-    "figure": "Peter at the miraculous catch",
-    "era": "The Sea of Galilee",
-    "dateLabel": "Luke 5",
-    "moment": "Peter had fished all night and caught nothing. He was washing his empty nets, tired and finished, when the visiting teacher asked to use his boat as a pulpit, then told a professional fisherman where to fish. Peter pushed back — we toiled all night and took nothing — but let down the nets anyway.\n\nThe catch nearly sank two boats. And in that moment Peter saw something he had not seen before, not about fish but about the man in his boat. He fell down at Jesus' knees and said, depart from me, for I am a sinful man, Lord. The sheer nearness of holiness made him feel his own unworthiness all at once.\n\nJesus did not depart. Do not be afraid, he said; from now on you will be catching men. Peter and his partners pulled the boats to shore, left the greatest catch of their lives lying there, and followed.",
-    "voiceQuote": "Depart from me, for I am a sinful man, Lord.",
-    "voiceAttribution": "Simon Peter, at the catch of fish — Luke 5:8 (WEB)",
-    "scriptureRef": "Romans 2:4",
-    "scriptureText": "Don't you know that the goodness of God leads you to repentance?",
-    "weight": "Awakening often arrives not through our failure but through an overwhelming kindness that exposes us. Peter's instinct, face to face with Jesus, was to send him away — surely holiness would want nothing to do with a sinful man. Instead Jesus drew nearer and called him.\n\nWe are tempted to keep God at arm's length until we are better, certain our sin would repel him. Peter found the opposite: the One who knew his sinfulness called him into closeness and purpose. Where are you saying depart from me, when Jesus is saying do not be afraid?",
-    "notes": {
-      "primary": "Luke 5:1-11 (the miraculous catch and call of Peter); Romans 2:4.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "When the nearness of Christ exposes your unworthiness, let him draw closer instead of sending him away.",
-      "interiorWork": "Our reflex before holiness is distance: depart from me. Peter learned that Jesus answers the confession of sin not with departure but with do not be afraid and a calling. The interior work is to stop using your unworthiness to keep Jesus at arm's length, and to let his kindness, not your cleanup, be what draws you near.",
-      "practice": "Notice this week the moment you instinctively pull back from God because you feel unworthy. In that moment, instead of withdrawing, pray do not let me be afraid, and come closer rather than further.",
-      "resistance": "The enemy turns healthy humility into distance, whispering that holiness wants nothing to do with you until you improve. Peter's empty nets and overflowing catch preach the same thing: Jesus comes to sinful men and calls them.",
-      "reflection": [
-        "Where am I saying depart from me when Jesus is saying do not be afraid?",
-        "Do I keep God at arm's length until I feel worthy?",
-        "What overwhelming kindness has God used to expose and call me?"
-      ],
-      "prayer": "Lord, I am a sinful man, and you do not depart. Quiet my fear, and draw me close enough to follow. Amen."
-    }
-  },
-  {
-    "day": 22,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Remember me",
-    "figure": "The thief on the cross",
-    "era": "Golgotha",
-    "dateLabel": "Luke 23",
-    "moment": "Two criminals were crucified beside Jesus, and at first both reviled him. But as the hours dragged on, one of them changed. He rebuked the other: do you not even fear God, since you are under the same condemnation? We are getting what we deserve, but this man has done nothing wrong.\n\nThen he turned his head toward the dying Jesus and asked for the only thing he had left to want: Lord, remember me when you come into your Kingdom. He had no time to reform, no good works to show, no baptism, no record to point to — only a last-hour cry to a crucified king.\n\nAnd Jesus answered, today you will be with me in Paradise. The first person assured of heaven by the dying Christ was a guilty criminal who awakened in his final hours, with nothing to bring but his need.",
-    "voiceQuote": "Lord, remember me when you come into your Kingdom.",
-    "voiceAttribution": "The dying thief — Luke 23:42 (WEB)",
-    "scriptureRef": "Romans 10:13",
-    "scriptureText": "For, Whoever will call on the name of the Lord will be saved.",
-    "weight": "No one is too late, and no one is too far gone. The thief had wasted his whole life and had only minutes left, and grace was not the slightest bit reluctant. He could do nothing but turn his head and ask, and asking was enough.\n\nThis terrifies our merit-keeping and comforts our despair. If a dying criminal can be welcomed in his last hour, then it is never too late for you, and it is never too late for the one you are praying for. Is there a part of you that believes you, or they, have missed the window?",
-    "notes": {
-      "primary": "Luke 23:39-43 (the thief on the cross); Romans 10:13.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Believe it is never too late: a last-hour cry, with nothing to offer but need, is enough for grace.",
-      "interiorWork": "We secretly run a merit system that makes late or wasted lives feel disqualified. The thief dismantles it: he is saved with no time to reform and nothing to bring but a turned head and a request. The interior work is to stop believing the window has closed on you or on anyone, and to let pure grace, received by simple asking, undo your scorekeeping.",
-      "practice": "Bring to God the person, or the part of yourself, you have quietly judged as too late. Pray the thief's prayer over them and over you: Lord, remember me. Let grace be earlier than your despair.",
-      "resistance": "The enemy works the late hours hardest, whispering that you have wasted too much and missed your chance, or that another's hardened years are beyond hope. The thief on the cross is heaven's reply: today, Paradise.",
-      "reflection": [
-        "Where do I believe it is too late for me, or for someone I love?",
-        "Do I trust a grace that asks for nothing but a turned head?",
-        "What would change if I believed grace is earlier than my despair?"
-      ],
-      "prayer": "Lord, remember me. I bring nothing but my need, and you call it enough. Thank you. Amen."
-    }
-  },
-  {
-    "day": 23,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "The book that was lost",
-    "figure": "Josiah and the rediscovered Law",
-    "era": "Judah, under a young king",
-    "dateLabel": "2 Kings 22",
-    "moment": "For two generations the Book of the Law had been lost — not debated, not defied, simply misplaced and forgotten in a temple gone to neglect. A whole nation was worshipping wrongly without even knowing what it had lost. Then, during repairs, the high priest Hilkiah found the book.\n\nThey brought it to young King Josiah and read it aloud. When the king heard the words, he tore his robes. He grasped at once how far the people had drifted from a word they had not even known was missing. Great is the Lord's anger against us, he said, because our fathers did not obey the words of this book.\n\nJosiah did not file the discovery away. He gathered the whole nation, read the covenant in their hearing, and turned the country back to God with a thoroughness Judah had not seen in centuries. A rediscovered Word awakened a kingdom.",
-    "voiceQuote": "Great is the LORD's wrath that is kindled against us, because our fathers have not listened to the words of this book.",
-    "voiceAttribution": "King Josiah — 2 Kings 22:13 (WEB)",
-    "scriptureRef": "Psalm 119:130",
-    "scriptureText": "The entrance of your words gives light. It gives understanding to the simple.",
-    "weight": "Sometimes the most dangerous spiritual condition is not rebellion but neglect — drifting from a Word we have not so much rejected as simply stopped reading. Josiah's whole nation had lost its bearings without noticing, because the book had gone quiet on the shelf.\n\nThe awakening came the moment the Word was opened and heard. A Bible we own but do not read is, functionally, a lost book. When was the last time the Scriptures so confronted you that you tore your robes — and what has gone quiet on your shelf?",
-    "notes": {
-      "primary": "2 Kings 22:1-23:3 (Josiah and the Book of the Law); Psalm 119:130.",
-      "tradition": null,
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Recover the Word you may have merely neglected, and let it confront you enough to turn you.",
-      "interiorWork": "Drift rarely feels like rebellion; it feels like a Bible owned but unopened, a slow forgetting. Josiah shows that the cure is to let the Word be read and to respond with the whole heart rather than filing it away. The interior work is to stop holding Scripture at arm's length as information and to let it function again as the voice that can tear your robes and turn your life.",
-      "practice": "Pick one portion of Scripture you have been avoiding or neglecting, and read it slowly this week as if hearing it for the first time. When it confronts you, respond concretely rather than merely noting it.",
-      "resistance": "The enemy does not need you to burn the book; he is content if you simply leave it closed — busy, drifting, until the words go quiet. Neglect is his unglamorous, reliable strategy.",
-      "reflection": [
-        "What part of God's Word have I let go quiet on the shelf?",
-        "When did Scripture last confront me enough to change something?",
-        "Am I drifting by neglect rather than by open rebellion?"
-      ],
-      "prayer": "Lord, open your Word to me again, and give me a tender heart to hear it and turn. Amen."
-    }
-  },
-  {
-    "day": 24,
-    "volume": 1,
-    "volumeTitle": "The Awakening",
-    "volumeSubtitle": "The burden and the cross",
-    "volumeYears": "Scripture & Tradition",
-    "title": "Awake, sleeper",
-    "figure": "The call to rise",
-    "era": "An early baptismal hymn",
-    "dateLabel": "Ephesians 5",
-    "moment": "The early church seems to have sung a line that Paul catches up and quotes: Awake, you who sleep, and arise from the dead, and Christ will shine on you. It was likely sung over new believers at baptism — a summons to come up out of the dark water into the light.\n\nThe image is startling. Spiritual deadness is pictured not as obvious wickedness but as sleep: a person can be breathing, functioning, even religious, and still be asleep to God, moving through life with the lights off.\n\nAwakening, in this picture, is simply Christ's light falling on a sleeping face. It is not something we manufacture; it is a dawn we consent to — the moment we stop hitting the snooze on the Spirit's call and let the light of Christ shine on us.",
-    "voiceQuote": "Awake, you who sleep, and arise from the dead, and Christ will shine on you.",
-    "voiceAttribution": "An early hymn, quoted by Paul — Ephesians 5:14 (WEB)",
-    "scriptureRef": "Romans 13:11",
-    "scriptureText": "It is already time for you to awaken out of sleep, for salvation is now nearer to us than when we first believed.",
-    "weight": "The opposite of awake is not only sinful; it is asleep — and sleep is comfortable. Many of us are not fighting God so much as drowsing near him, religiously sedated, half-aware. The call is not first to try harder but to wake up and let Christ's light fall on us.\n\nAnd it is a daily call, not a one-time event; there is always a deeper waking. Where have you been hitting snooze on the Spirit — and what would it mean today to actually rise and let Christ shine on you?",
-    "notes": {
-      "primary": "Ephesians 5:8-14 (awake, sleeper); Romans 13:11.",
-      "tradition": "Ephesians 5:14 is widely held to quote an early Christian baptismal hymn.",
-      "archaeological": null,
-      "confidence": "high"
-    },
-    "formation": {
-      "invitation": "Stop hitting snooze on the Spirit; rise from your comfortable drowsiness and let Christ's light fall on you.",
-      "interiorWork": "Spiritual sleep is more common than rebellion and far cozier: functioning, even religious, but dim to God. The interior work is to recognize drowsiness as a real condition, to quit sedating your conscience with busyness and routine, and to consent to the dawn rather than rolling over. Awakening is a light you let fall, not a feat you perform.",
-      "practice": "Name the snooze button you reach for — distraction, busyness, numbing, religious autopilot. This week, the moment you notice yourself reaching for it, pause and pray one line: Christ, shine on me; I am awake.",
-      "resistance": "The enemy rarely needs to make you wicked; he only needs to keep you sleepy — comfortable, distracted, religiously sedated, always a few minutes from waking but never quite up. Drowsiness is his quietest victory.",
-      "reflection": [
-        "Where am I asleep to God while still functioning, even religiously?",
-        "What is the snooze button I keep reaching for?",
-        "What would it mean to actually rise today and let Christ shine on me?"
-      ],
-      "prayer": "Christ, shine on me. I have slept long enough; wake me, and keep waking me. Amen."
-    }
-  },
-  {
-    "day": 25,
+    "day": 8,
     "volume": 1,
     "volumeTitle": "The Awakening",
     "volumeSubtitle": "The burden and the cross",
@@ -854,7 +259,7 @@
     "voiceAttribution": "Isaiah — Isaiah 55:6 (WEB)",
     "scriptureRef": "Hebrews 11:6",
     "scriptureText": "He who comes to God must believe that he exists, and that he is a rewarder of those who seek him.",
-    "weight": "Stage one of formation closes where it began: with an invitation. God is not reluctant; he is the One crying out in the street, offering living water for free and abundant pardon to anyone who will turn. The only thing the invitation requires is that we come while he may be found.\n\nThere is a holy urgency here without a hint of stinginess. The door is open and the pardon is abundant — but the call is to seek him now, near, today. You have heard the awakening through twenty-five days. Will you seek the Lord while he may be found?",
+    "weight": "Stage one of formation closes where it began: with an invitation. God is not reluctant; he is the One crying out in the street, offering living water for free and abundant pardon to anyone who will turn. The only thing the invitation requires is that we come while he may be found.\n\nThere is a holy urgency here without a hint of stinginess. The door is open and the pardon is abundant — but the call is to seek him now, near, today. You have heard the awakening in these opening days. Will you seek the Lord while he may be found?",
     "notes": {
       "primary": "Isaiah 55:1-7 (the great invitation); Hebrews 11:6.",
       "tradition": null,
@@ -864,7 +269,7 @@
     "formation": {
       "invitation": "Seek the Lord now, while he is near and the door stands open, and receive a pardon that is abundant, not grudging.",
       "interiorWork": "We hesitate either because we doubt God's generosity or because we assume there is always more time. Isaiah 55 confronts both: the pardon is abundant, and the nearness is now. The interior work is to believe God is the eager One in the street, to stop spending yourself on what does not satisfy, and to actually turn while turning is possible.",
-      "practice": "Make this the day you respond to all twenty-five days of awakening. In a concrete prayer, name what you are turning from and turn to the Lord, receiving his abundant pardon — and tell one person you have done so.",
+      "practice": "Make this the day you respond to these opening days of awakening. In a concrete prayer, name what you are turning from and turn to the Lord, receiving his abundant pardon — and tell one person you have done so.",
       "resistance": "The enemy attacks the invitation from both sides: he shrinks God's pardon so it seems not worth seeking, or he stretches your sense of time so you assume the door never closes. Isaiah's while he may be found cuts through both.",
       "reflection": [
         "Do I believe God's pardon is abundant, or do I imagine it grudging?",
@@ -872,6 +277,181 @@
         "Will I seek the Lord today, while he is near — or assume there is always more time?"
       ],
       "prayer": "Lord, you call me to come while you may be found. I turn to you now; thank you that you abundantly pardon. Amen."
+    }
+  },
+  {
+    "day": 9,
+    "volume": 2,
+    "volumeTitle": "The Great Surrender",
+    "volumeSubtitle": "My utmost for His highest",
+    "volumeYears": "Scripture & Tradition",
+    "title": "The living sacrifice",
+    "figure": "Paul's appeal to Rome",
+    "era": "The turn from doctrine to consecration",
+    "dateLabel": "Romans 12",
+    "moment": "For eleven chapters Paul has piled up the great doctrines — sin and grace, election and mercy, the unsearchable wisdom of God. Then, on a single hinge word, he turns from what God has done to what it asks of us: therefore, in view of the mercies of God.\n\nThe appeal, when it comes, is total. Present your bodies — not just your prayers or your Sundays, but your hands, your schedule, your appetites — as a living sacrifice. The old sacrifices were killed on the altar; Paul asks for something harder, a sacrifice that stays alive and therefore has to climb back onto the altar every morning, because a living thing keeps crawling off.\n\nOswald Chambers gave this surrender its enduring name: my utmost for His highest. Not the leftovers of a life, but its best, laid down daily, holding nothing back from the One who held nothing back.",
+    "voiceQuote": "Therefore I beg you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.",
+    "voiceAttribution": "Paul, to the church at Rome — Romans 12:1 (WEB)",
+    "scriptureRef": "1 Corinthians 6:19-20",
+    "scriptureText": "Or don't you know that your body is a temple of the Holy Spirit which is in you, which you have from God? You are not your own, for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God's.",
+    "weight": "We would prefer to surrender once, dramatically, and be done. But a living sacrifice is never done; it is a daily returning to the altar. The surrender you made last year does not cover today's reluctance, and each morning the body has to be presented again.\n\nThis is not gloomy — it is the only reasonable response to mercy, the worship that finally makes sense once you have seen what God has done. What is the part of you that keeps crawling off the altar, and will you put it back today?",
+    "notes": {
+      "primary": "Romans 12:1 (the living sacrifice); 1 Corinthians 6:19-20. The phrase 'my utmost for His highest' is Oswald Chambers'.",
+      "tradition": null,
+      "archaeological": null,
+      "confidence": "high"
+    },
+    "formation": {
+      "invitation": "Present every part of yourself to God again today — not once and for all, but as a living sacrifice that climbs back onto the altar each morning.",
+      "interiorWork": "We want a one-time surrender that spares us the daily dying. The interior work is to accept that consecration is a habit, not an event, and to keep returning the reclaimed parts of yourself — your time, body, money, plans — to the altar. What makes it bearable is that it is a response to mercy, not a bid to earn it.",
+      "practice": "Begin tomorrow by naming one specific area you tend to take back — your schedule, your appetite, your money — and present it to God out loud before you do anything else: this is yours today.",
+      "resistance": "The flesh will agree to a grand, vague surrender precisely because it costs nothing tomorrow. The enemy lets you feel consecrated in general so you never lay down the one concrete thing in particular. A living sacrifice is always specific.",
+      "reflection": [
+        "What part of myself keeps crawling off the altar?",
+        "Am I trading daily surrender for one dramatic gesture made long ago?",
+        "What is my utmost — and am I giving it, or my leftovers?"
+      ],
+      "prayer": "Father, in view of your mercies, I present myself to you again — all of me, today. Keep me on the altar. Amen."
+    }
+  },
+  {
+    "day": 10,
+    "volume": 2,
+    "volumeTitle": "The Great Surrender",
+    "volumeSubtitle": "My utmost for His highest",
+    "volumeYears": "Scripture & Tradition",
+    "title": "Not my will",
+    "figure": "Gethsemane",
+    "era": "The garden, the night of betrayal",
+    "dateLabel": "Luke 22",
+    "moment": "On the last night, in a garden across the Kidron, Jesus knelt under the olive trees and was, Luke says, in agony. He knew exactly what the next day held — the scourging, the nails, and worse, the weight of the world's sin and the Father's averted face — and his sweat fell like drops of blood.\n\nHe did not pretend the cup was easy. Father, if you are willing, remove this cup from me. The request was real, and so was the dread. But it did not have the last word, for in the same breath he laid his own will down: nevertheless, not my will, but yours, be done.\n\nThis is the hinge of all surrender — not the denial of what we want, but the honest naming of it, and then the yielding of it to a wiser will. Jesus shows us that you can ask for the cup to pass and still mean, with your whole heart, your will be done.",
+    "voiceQuote": "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.",
+    "voiceAttribution": "Jesus, in Gethsemane — Luke 22:42 (WEB)",
+    "scriptureRef": "Philippians 2:8",
+    "scriptureText": "Being found in human form, he humbled himself, becoming obedient to death, yes, the death of the cross.",
+    "weight": "We often think surrender means we must stop wanting what we want — that the holiest prayer feels nothing. Gethsemane says otherwise. Jesus wanted the cup gone, and said so plainly, and surrendered anyway. Real surrender is not the absence of desire; it is desire brought honestly to God and then laid down.\n\nThis frees us from faking serenity. You can tell God exactly what you hope he will do, and in the same breath give him the right to do otherwise. Is there a cup you have been either demanding be removed or pretending not to mind — when God is inviting you to name it honestly, and then say, yet not my will but yours?",
+    "notes": {
+      "primary": "Luke 22:39-46 (Gethsemane); Philippians 2:8.",
+      "tradition": null,
+      "archaeological": null,
+      "confidence": "high"
+    },
+    "formation": {
+      "invitation": "Name the cup you long to have removed, honestly — and in the same breath yield it: not my will, but yours.",
+      "interiorWork": "We confuse surrender with pretending we have no preferences. Gethsemane teaches the opposite: bring the real desire and the real dread into the open before God, and then hand him the right to decide. The interior work is learning to hold a fervent ask and a genuine yielding together, without faking peace and without demanding your way.",
+      "practice": "Pray your own Gethsemane prayer this week in two halves: first tell God exactly what you want him to do, in detail; then, deliberately, add and mean it — nevertheless, not my will, but yours.",
+      "resistance": "The enemy pushes you to one of two ditches: demanding God remove the cup and resenting him if he doesn't, or numbly pretending you don't care. Both dodge the honest, costly middle where Jesus knelt. Surrender lives there, not in the ditches.",
+      "reflection": [
+        "What cup am I asking God to remove right now?",
+        "Do I fake serenity instead of surrendering honestly?",
+        "Can I say, and mean, not my will but yours?"
+      ],
+      "prayer": "Father, you know what I long for; I have told you plainly. And still — not my will, but yours, be done. Amen."
+    }
+  },
+  {
+    "day": 11,
+    "volume": 2,
+    "volumeTitle": "The Great Surrender",
+    "volumeSubtitle": "My utmost for His highest",
+    "volumeYears": "Scripture & Tradition",
+    "title": "The grain of wheat",
+    "figure": "The grain of wheat",
+    "era": "The week of the cross",
+    "dateLabel": "John 12",
+    "moment": "In the last week, some Greeks came to the festival and asked to see Jesus. His answer turned, strangely, to farming and death. Unless a grain of wheat falls into the earth and dies, he said, it remains by itself alone; but if it dies, it bears much fruit.\n\nHe was speaking first of himself — the seed about to be buried in a borrowed tomb so that a harvest of redeemed people could rise. But he immediately made it the pattern for everyone who would follow: whoever loves his life loses it, and whoever hates his life in this world will keep it for eternal life.\n\nThe seed's logic is the kingdom's logic, and it offends us every time. The way to fruitfulness is not self-preservation but self-surrender. The grain held safe in the barn stays a single grain; only the buried one multiplies.",
+    "voiceQuote": "Most assuredly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. But if it dies, it bears much fruit.",
+    "voiceAttribution": "Jesus, in Jerusalem — John 12:24 (WEB)",
+    "scriptureRef": "Galatians 2:20",
+    "scriptureText": "I have been crucified with Christ, and it is no longer I that live, but Christ living in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.",
+    "weight": "Everything in us wants to stay safe in the barn — to protect our comfort, our reputation, our plans. Jesus says the protected life is the barren one. The grain that refuses to be buried succeeds only in remaining alone; fruitfulness has a cost, and the cost is a kind of dying.\n\nThis is not morbid. It is the most hopeful arithmetic in the world, because on the far side of the burial is a harvest. Where are you clutching a single grain — guarding a comfort, a right, a security — that God is asking you to plant in the ground and trust him for the harvest?",
+    "notes": {
+      "primary": "John 12:20-26 (the grain of wheat); Galatians 2:20.",
+      "tradition": null,
+      "archaeological": null,
+      "confidence": "high"
+    },
+    "formation": {
+      "invitation": "Stop guarding the single grain; let the thing you are protecting fall into the ground, and trust God for the harvest.",
+      "interiorWork": "Self-preservation feels like wisdom and is actually barrenness. The interior work is to identify what you are keeping safe in the barn — a comfort, a reputation, a relationship, a right — and to believe Jesus' arithmetic that the buried life, not the hoarded one, bears fruit. Dying to self is not loss; it is planting.",
+      "practice": "Name one grain you are clutching for safety. This week, take a concrete step that plants it — give it away, risk it in obedience, lay the right down — and watch for the first green shoot.",
+      "resistance": "The enemy dresses self-protection as prudence and buried obedience as recklessness, so you keep the grain in the barn and call it stewardship. The seed that is never planted is the only one guaranteed to stay alone.",
+      "reflection": [
+        "What single grain am I keeping safe instead of planting?",
+        "Where has self-preservation quietly made me barren?",
+        "Do I believe the buried life bears more fruit than the guarded one?"
+      ],
+      "prayer": "Lord Jesus, you were buried so that I could live. Teach me the seed's surrender; plant what I have been clutching, and bring the harvest. Amen."
+    }
+  },
+  {
+    "day": 12,
+    "volume": 2,
+    "volumeTitle": "The Great Surrender",
+    "volumeSubtitle": "My utmost for His highest",
+    "volumeYears": "Scripture & Tradition",
+    "title": "He must increase",
+    "figure": "John the Baptist at the Jordan",
+    "era": "The forerunner's last testimony",
+    "dateLabel": "John 3",
+    "moment": "John the Baptist had been the most magnetic preacher in Israel — crowds streaming into the wilderness, kings made nervous, a whole renewal movement gathered around him. Then Jesus began to draw the crowds away, and John's disciples came to him anxious: Rabbi, everyone is going to him.\n\nJohn's answer is one of the most freeing sentences ever spoken. He calls himself merely the friend of the bridegroom, whose whole joy is to hear the bridegroom's voice; he has no interest in keeping the bride. And then: He must increase, but I must decrease.\n\nThere is not a trace of resentment in it. John had always known he was the voice, not the Word — the lamp, not the light. His greatness was to grow smaller on purpose, gladly, as the One he pointed to grew.",
+    "voiceQuote": "He must increase, but I must decrease.",
+    "voiceAttribution": "John the Baptist, at the Jordan — John 3:30 (WEB)",
+    "scriptureRef": "Colossians 3:3",
+    "scriptureText": "For you died, and your life is hidden with Christ in God.",
+    "weight": "Most of our unhappiness comes from wanting to increase — to be seen, credited, central. John shows a different and lighter way: the deliberate, glad decrease of a person who has found something better to point at than himself. He could rejoice at his own eclipse because his joy was never in his own rising, but in the bridegroom's voice.\n\nThis is the secret hidden inside surrender — the self we work so hard to inflate is not where the joy is. Where are you straining to increase, and what would change if you set out, gladly, to decrease so that Christ could increase?",
+    "notes": {
+      "primary": "John 3:22-30 (He must increase); Colossians 3:3.",
+      "tradition": null,
+      "archaeological": null,
+      "confidence": "high"
+    },
+    "formation": {
+      "invitation": "Seek, gladly, to decrease — to point away from yourself so that Christ increases.",
+      "interiorWork": "The craving to increase — to be noticed, credited, central — drives more of our restlessness than we admit. John's freedom came from locating his joy outside himself, in the bridegroom's voice. The interior work is to loosen your grip on being seen, to find your gladness in Christ's growing renown rather than your own, and to discover that a hidden life is not a diminished one.",
+      "practice": "This week, do one good thing and tell no one — deliberately decline the credit. Notice the discomfort, and offer it to God as a small, glad decrease.",
+      "resistance": "The enemy keeps you exhausted on the treadmill of increase, whispering that if you do not promote yourself, no one will. John's joy exposes the lie: the surrendered life that points to Christ is freer and gladder than the self you keep inflating.",
+      "reflection": [
+        "Where am I straining to increase — to be seen or credited?",
+        "Can I rejoice when someone else rises and I am eclipsed?",
+        "What would glad decrease look like for me this week?"
+      ],
+      "prayer": "Lord, you must increase, and I must decrease. Free me from the weariness of being seen, and let my joy be your renown. Amen."
+    }
+  },
+  {
+    "day": 13,
+    "volume": 2,
+    "volumeTitle": "The Great Surrender",
+    "volumeSubtitle": "My utmost for His highest",
+    "volumeYears": "Scripture & Tradition",
+    "title": "Here am I, send me",
+    "figure": "Isaiah, after the coal",
+    "era": "The prophet's commissioning",
+    "dateLabel": "Isaiah 6",
+    "moment": "We met Isaiah undone before the holiness of God, his guilt burned away by a coal from the altar. What comes next is the surrender that cleansing makes possible. Isaiah overhears a question in the throne room — Whom shall I send, and who will go for us?\n\nHe does not ask for the job description first. He does not negotiate terms or count the cost. With his lips newly cleansed, he simply volunteers: Here am I; send me. Only afterward does God tell him the assignment, and it is a hard one — to preach to a people whose hearts will only harden.\n\nThis is surrender that signs the blank page before reading the contract. Isaiah said yes to the Sender before he knew the sending, because the cleansing had already settled the only question that mattered: whose he was.",
+    "voiceQuote": "Here am I; send me.",
+    "voiceAttribution": "Isaiah, in the throne room — Isaiah 6:8 (WEB)",
+    "scriptureRef": "Romans 6:13",
+    "scriptureText": "Neither present your members to sin as instruments of unrighteousness, but present yourselves to God, as alive from the dead, and your members as instruments of righteousness to God.",
+    "weight": "Most of us want the assignment before we will say yes — the terms, the cost, the guarantee that it is reasonable. Isaiah reverses the order. Cleansed and standing in the presence of God, he volunteers before he is told, because the surrender has already happened at a deeper level than information. He belongs to God; the details are God's to fill in.\n\nThis is the leap that calculation can never make: you can weigh a known task, but you can only surrender to a trusted Person. Are you waiting to see the whole assignment before you say yes — when God may be asking, first, simply for a willing here I am?",
+    "notes": {
+      "primary": "Isaiah 6:8 (the commissioning); Romans 6:13.",
+      "tradition": null,
+      "archaeological": null,
+      "confidence": "high"
+    },
+    "formation": {
+      "invitation": "Offer God a willing yes before you know the assignment: here am I; send me.",
+      "interiorWork": "We withhold our yes until the terms look acceptable, which keeps us in control. Isaiah's surrender happened at the level of belonging, not information — he trusted the Sender enough to sign the blank page. The interior work is to settle the deeper question, whose am I, so thoroughly that the details become God's business rather than your precondition.",
+      "practice": "Tell God, in prayer, here am I; send me — and then leave the assignment blank. This week, say yes to the next clear, small thing he puts in front of you without first demanding to see the whole plan.",
+      "resistance": "The enemy keeps you negotiating: he magnifies the unknown cost so you never volunteer, dressing your hesitation as wisdom. But you cannot weigh a call you refuse to accept. Surrender precedes the job description.",
+      "reflection": [
+        "Am I waiting to see the whole assignment before I say yes?",
+        "Is the deeper question — whose am I? — actually settled in me?",
+        "What willing here I am is God waiting for?"
+      ],
+      "prayer": "Lord, before I know where or what, here am I; send me. I trust the Sender. Amen."
     }
   }
 ]

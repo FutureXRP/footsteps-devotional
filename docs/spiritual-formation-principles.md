@@ -13,7 +13,14 @@ expanded into a full entry in the four-part frame plus the Formation lens (see
 public-domain WEB translation, with a Voice drawn from Scripture or the
 public-domain spiritual classics, then run through the verification pass.
 
-Counts: 25 · 30 · 30 · 35 · 25 · 30 · 30 · 30 · 30 · 30 · 25 · 20 · 25 = **365**.
+Counts (rebalanced): 8 · 30 · 30 · 38 · 25 · 35 · 30 · 30 · 30 · 35 · 25 · 20 · 29 = **365**.
+
+> **Structure rebalanced.** Stage 1 (The Awakening) was trimmed from 25 to **8**:
+> a 365-day series with 25 days on salvation/awakening is too much "spiritual
+> milk" for already-maturing readers (Heb 5:12–14), so the freed days were moved
+> into the deeper, solid-food stages. The **authoritative day ranges live in
+> `lib/series.ts`**; the per-stage topic numbers below are being re-curated as
+> each stage is authored.
 
 Primary sources by stage: Augustine & Bunyan (1); Chambers, *My Utmost for His
 Highest* (2); Brother Lawrence & the Father-heart of God (3); the classic

@@ -34,19 +34,19 @@ const DRY = !!process.env.DRY
 
 // 13 stages — must match lib/series.ts sections.
 const STAGES = [
-  { index: 1, title: 'The Awakening', subtitle: 'The burden and the cross', range: [1, 25] },
-  { index: 2, title: 'The Great Surrender', subtitle: 'My utmost for His highest', range: [26, 55] },
-  { index: 3, title: 'The Love of the Father', subtitle: 'Adopted, held, abiding', range: [56, 85] },
-  { index: 4, title: 'The Means of Grace', subtitle: 'The disciplines of the heart', range: [86, 120] },
-  { index: 5, title: 'Pathways to God', subtitle: 'How you draw near', range: [121, 145] },
-  { index: 6, title: 'The Interior Castle', subtitle: 'The mansions of the soul', range: [146, 175] },
-  { index: 7, title: "The Tempter's Strategy", subtitle: 'The enemy of your formation', range: [176, 205] },
-  { index: 8, title: 'The Dark Night & the Valley', subtitle: 'When God seems absent', range: [206, 235] },
-  { index: 9, title: 'The Death of Self', subtitle: 'Losing your life to find it', range: [236, 265] },
-  { index: 10, title: 'Christ Formed in You', subtitle: 'The fruit of the Spirit', range: [266, 295] },
-  { index: 11, title: 'Formed Together', subtitle: 'No one is formed alone', range: [296, 320] },
-  { index: 12, title: 'The Active Life', subtitle: 'Contemplation in action', range: [321, 340] },
-  { index: 13, title: 'The Celestial City', subtitle: 'The end of the pilgrimage', range: [341, 365] },
+  { index: 1, title: 'The Awakening', subtitle: 'The burden and the cross', range: [1, 8] },
+  { index: 2, title: 'The Great Surrender', subtitle: 'My utmost for His highest', range: [9, 38] },
+  { index: 3, title: 'The Love of the Father', subtitle: 'Adopted, held, abiding', range: [39, 68] },
+  { index: 4, title: 'The Means of Grace', subtitle: 'The disciplines of the heart', range: [69, 106] },
+  { index: 5, title: 'Pathways to God', subtitle: 'How you draw near', range: [107, 131] },
+  { index: 6, title: 'The Interior Castle', subtitle: 'The mansions of the soul', range: [132, 166] },
+  { index: 7, title: "The Tempter's Strategy", subtitle: 'The enemy of your formation', range: [167, 196] },
+  { index: 8, title: 'The Dark Night & the Valley', subtitle: 'When God seems absent', range: [197, 226] },
+  { index: 9, title: 'The Death of Self', subtitle: 'Losing your life to find it', range: [227, 256] },
+  { index: 10, title: 'Christ Formed in You', subtitle: 'The fruit of the Spirit', range: [257, 291] },
+  { index: 11, title: 'Formed Together', subtitle: 'No one is formed alone', range: [292, 316] },
+  { index: 12, title: 'The Active Life', subtitle: 'Contemplation in action', range: [317, 336] },
+  { index: 13, title: 'The Celestial City', subtitle: 'The end of the pilgrimage', range: [337, 365] },
 ]
 const stageFor = (day) => STAGES.find((t) => day >= t.range[0] && day <= t.range[1])
 
