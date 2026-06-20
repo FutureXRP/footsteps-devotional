@@ -124,7 +124,7 @@
       "primary": "John Bunyan, The Pilgrim's Progress (Christian loses his burden at the cross); Matthew 11:28.",
       "tradition": "Allegory; the scene dramatizes justification by grace through faith.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Bring the weight you have been carrying to the one place it can fall — the cross — and let it go.",
@@ -1664,7 +1664,7 @@
       "primary": "Brother Lawrence, The Practice of the Presence of God (17th c., public domain); Psalm 16:8.",
       "tradition": "Brother Lawrence (Nicolas Herman, c. 1614-1691), Carmelite lay brother.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Practice the presence of God in the ordinary — turn the kitchen, the commute, and the inbox into meeting places with a Father who never leaves.",
@@ -2224,7 +2224,7 @@
       "primary": "Song of Solomon 2:4 (his banner over me is love); 1 John 4:10.",
       "tradition": "Read in the Christian tradition as the love of Christ for the soul.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Believe the banner God flies over you is not disappointment or grudging tolerance, but love, raised high and unashamed.",
@@ -2714,7 +2714,7 @@
       "primary": "Psalm 16:8 (I have set the LORD always before me).",
       "tradition": "Brother Lawrence (Nicolas Herman, c.1614–1691), Carmelite lay brother, whose conversations and letters were collected as The Practice of the Presence of God.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Practice the presence of God in the middle of ordinary work — returning your attention to him again and again until his presence becomes your native air.",
@@ -3729,7 +3729,7 @@
       "primary": "Psalm 139:13-14 (knit together by God); 1 Corinthians 12:4.",
       "tradition": "The temperaments framework explored in this stage is drawn from Gary Thomas's Sacred Pathways, paraphrased and attributed throughout, never quoted; all quoted text is Scripture.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Set down the guilt of the devotional method that never fit, and seek the pathway along which God, who made you unique, wired your soul to come alive to him.",
@@ -3764,7 +3764,7 @@
       "primary": "1 Corinthians 12:4-7 (various gifts, the same Spirit); the Spirit delights in designed diversity.",
       "tradition": "Connects to the sacred-pathways framework of Gary Thomas, paraphrased and attributed, never quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Receive the diversity of ways people love God as the deliberate work of one Spirit — gift rather than threat, design rather than deviation.",
@@ -3799,7 +3799,7 @@
       "primary": "Psalm 19:1 (the heavens declare God's glory); Romans 1:20.",
       "tradition": "The naturalist pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God most readily in his creation, embrace the open sky as your sanctuary — letting beauty carry you to the One whose glory it declares.",
@@ -3834,7 +3834,7 @@
       "primary": "Psalm 34:8 (taste and see that the LORD is good); 1 Chronicles 16:29.",
       "tradition": "The sensate pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If God becomes real to you through beauty, music, and the senses, offer them to him in worship — letting what you taste and see become a doorway to his goodness.",
@@ -3869,7 +3869,7 @@
       "primary": "Leviticus 23:1-4 (the appointed feasts of the LORD); Jeremiah 6:16.",
       "tradition": "The traditionalist pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If fixed forms carry you to God, walk the old paths without apology — letting liturgy, season, and repeated prayer be a riverbed for living water.",
@@ -3904,7 +3904,7 @@
       "primary": "Luke 5:16 (Jesus withdrew to the wilderness to pray); Hosea 2:14.",
       "tradition": "The ascetic pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God most deeply in solitude and simplicity, embrace the wilderness as your meeting place — without letting a noisy world shame you out of it.",
@@ -3939,7 +3939,7 @@
       "primary": "Micah 6:8 (do justice, love kindness, walk humbly); Isaiah 1:17.",
       "tradition": "The activist pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God in the fight to set things right, let the struggle for justice be your worship — fierce in action, yet walking humbly with God.",
@@ -3974,7 +3974,7 @@
       "primary": "Matthew 25:34-40 (you did it to me); 1 John 3:18.",
       "tradition": "The caregiver pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God in caring for others, go to the least of these as to Christ himself — knowing whose face you are tending in the one you serve.",
@@ -4009,7 +4009,7 @@
       "primary": "Psalm 150:4 (praise with tambourine and dance); Psalm 47:1.",
       "tradition": "The enthusiast pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God in celebration, offer him your exuberant joy without shame — the clapping, the shout, the dance the psalms themselves command.",
@@ -4044,7 +4044,7 @@
       "primary": "Psalm 63:1 (my soul thirsts for you); Psalm 73:25.",
       "tradition": "The contemplative pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God in quiet adoration, seek him for himself alone — the wordless gaze of love that asks for nothing but more of him.",
@@ -4079,7 +4079,7 @@
       "primary": "Matthew 22:37 (love God with all your mind); Jeremiah 9:24.",
       "tradition": "The intellectual pathway, drawn from Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "If you meet God in the life of the mind, love him with it — letting hard thinking and grasped truth become doorways to wonder and worship.",
@@ -4114,7 +4114,7 @@
       "primary": "Mark 12:30 (love God with all your heart, soul, mind, strength); Deuteronomy 6:5.",
       "tradition": "Balances the sacred-pathways framework of Gary Thomas: the dominant pathway is a starting point, not a boundary.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Love God with all of yourself — worshiping along your natural pathway while deliberately stretching into the faculties that come hard, so no part goes slack.",
@@ -4149,7 +4149,7 @@
       "primary": "1 Corinthians 12:14-21 (many members, one body); we need those who differ from us.",
       "tradition": "Applies the sacred-pathways framework of Gary Thomas: the diversity of temperaments is the body's health, not its problem.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Not merely tolerate but need those who love God differently than you — receiving in their pathway a facet of God you cannot see alone.",
@@ -4184,7 +4184,7 @@
       "primary": "John 4:23-24 (worship in spirit and truth); the Father seeks true worshipers.",
       "tradition": "Grounds the sacred-pathways framework of Gary Thomas: the pathways are the how; spirit and truth are the non-negotiable what.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Let your pathway carry you to worship in spirit and truth — a genuine heart and a true picture of God — which is what the Father actually seeks beneath every road.",
@@ -4219,7 +4219,7 @@
       "primary": "1 Peter 4:10 (steward the grace of God in its various forms); Romans 12:6.",
       "tradition": "Applies the sacred-pathways framework of Gary Thomas: a pathway is a trust to steward and give away, not merely to enjoy.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Steward your pathway as a trust — cultivating it and spending it to help others meet God — rather than merely enjoying it or burying it.",
@@ -4254,7 +4254,7 @@
       "primary": "1 Corinthians 10:12 (let him who thinks he stands take heed); Proverbs 4:23.",
       "tradition": "Names the shadow side of each pathway in Gary Thomas's Sacred Pathways framework, paraphrased and attributed, not quoted.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Learn the shadow hidden inside your strength — the way your own pathway tempts you to wander — and keep watch there, where you feel least need to.",
@@ -4324,7 +4324,7 @@
       "primary": "Luke 10:38-42 (Mary and Martha; the one thing needful).",
       "tradition": "Grounds the whole sacred-pathways framework of Gary Thomas: beneath every pathway is attentive presence to Jesus himself.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Beneath your pathway, keep Mary's posture — seated at Jesus' feet, attentive and present to him — the one thing needful underneath every way of drawing near.",
@@ -4359,7 +4359,7 @@
       "primary": "Luke 10:40-42 (Martha's distracted service); Colossians 3:23.",
       "tradition": "Balances the contemplative emphasis in Gary Thomas's Sacred Pathways framework: active service is its own pathway, needing purifying, not abandoning.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Offer your active service as worship — done heartily for the Lord and freed from anxiety and comparison, not exchanged for stillness as though it were second-class.",
@@ -4499,7 +4499,7 @@
       "primary": "Romans 14:5 (let each be fully assured in his own mind); James 4:12.",
       "tradition": "Closes the sacred-pathways framework of Gary Thomas with the freedom of conscience on disputable matters.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Hold your own convictions about drawing near to God with full assurance, while leaving your neighbor free to love him along a different road.",
@@ -4569,7 +4569,7 @@
       "primary": "Galatians 4:19 (Christ formed in you); 2 Corinthians 3:18.",
       "tradition": "Closes the sacred-pathways framework of Gary Thomas: every pathway aims at the one end of Christ formed in you.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Aim every pathway at its true end — not self-understanding or a satisfying spiritual life, but Christ himself formed in you.",
@@ -4604,7 +4604,7 @@
       "primary": "Luke 17:21 (the kingdom of God within you); 1 Corinthians 3:16.",
       "tradition": "The image of the soul as a castle of many rooms with God at the center is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Turn from seeking God out there and begin the journey inward, toward the King who already dwells at the center of your soul.",
@@ -4639,7 +4639,7 @@
       "primary": "Genesis 1:27 (made in God's image); Psalm 8:5.",
       "tradition": "The diamond-castle image of the soul's dignity is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Recover the dignity of your soul — a diamond castle made in God's image — and let its great worth make the journey inward worth taking.",
@@ -4674,7 +4674,7 @@
       "primary": "Lamentations 3:40 (search our ways and return to the LORD); Psalm 139:23.",
       "tradition": "The teaching that prayer and self-knowledge are the door into the interior castle is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Enter the interior life through its true door — prayer and honest self-knowledge turning together — and keep opening it all the way in.",
@@ -4709,7 +4709,7 @@
       "primary": "Psalm 27:8 (when you said, Seek my face); Psalm 105:4.",
       "tradition": "The interior journey as a response to God's invitation echoes Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Answer the invitation already issued — say yes to the God who first said, seek my face — and let your longing for him be the proof that he called.",
@@ -4744,7 +4744,7 @@
       "primary": "2 Corinthians 10:5 (take every thought captive); Psalm 19:14.",
       "tradition": "The image of distracting creatures crowding the castle's early rooms is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Make peace with the wandering mind — patiently bringing each stray thought back to Christ, treating the returning itself as the work of prayer.",
@@ -4779,7 +4779,7 @@
       "primary": "James 4:10 (humble yourselves and he will exalt you); Isaiah 57:15.",
       "tradition": "The teaching that humility is the castle's foundation and the room to keep returning to is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Keep returning to the room of humility — the foundation the whole journey rests on, needed more, not less, the deeper into God you go.",
@@ -4814,7 +4814,7 @@
       "primary": "1 John 1:8-9 (confess our sins; he is faithful to forgive); Psalm 51:6.",
       "tradition": "The counsel to hold self-knowledge alongside the knowledge of God's mercy is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Look honestly at your sin, but never alone — always in the light of God's mercy — so self-knowledge drives you to him rather than into despair.",
@@ -4849,7 +4849,7 @@
       "primary": "Psalm 86:11 (unite my heart to fear your name); James 4:8.",
       "tradition": "The grace of recollection — the gathering of the soul's scattered faculties inward — is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Pray for and practice recollection — the gathering of your scattered, divided self back into one, collected at the center where God dwells.",
@@ -4884,7 +4884,7 @@
       "primary": "Galatians 6:9 (do not grow weary; we will reap if we do not give up); Psalm 42:5.",
       "tradition": "The counsel to persevere through the dryness of the early rooms is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Persevere through the dry rooms — the flat, consolation-less stretches of prayer — trusting that the interior life is forged there, not abandoned.",
@@ -4919,7 +4919,7 @@
       "primary": "Habakkuk 3:17-18 (yet I will rejoice in the LORD); Psalm 16:2 (apart from you I have no good thing).",
       "tradition": "The counsel to seek the God of consolations rather than the consolations of God is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Seek the Giver himself, not the gifts of felt sweetness — wanting God so wholly that you could lose every consolation and still rejoice in him.",
@@ -4954,7 +4954,7 @@
       "primary": "Psalm 116:7 (return to your rest); Psalm 131:2.",
       "tradition": "The prayer of quiet — the soul resting in God rather than striving to speak — is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Learn the prayer of quiet — the soul stilled and resting in God, no longer striving to speak — beyond the active, effortful prayer of the early rooms.",
@@ -4989,7 +4989,7 @@
       "primary": "Zechariah 4:6 (not by might but by my Spirit); Psalm 127:1.",
       "tradition": "The teaching that the deepest transformation is God's gift, not our achievement, is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Labor faithfully, but lean wholly on the Spirit — receiving the deep transformation of your soul as his gift rather than your achievement.",
@@ -5024,7 +5024,7 @@
       "primary": "Proverbs 3:5-6 (trust, lean not on your own understanding); Isaiah 55:9.",
       "tradition": "The observation that in the deeper rooms the will surrenders before the mind understands is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let your will surrender to God before your mind fully understands — trusting him with the whole heart, and leaning not on your own comprehension as the final authority.",
@@ -5059,7 +5059,7 @@
       "primary": "Psalm 130:5 (I wait for the LORD); Lamentations 3:25.",
       "tradition": "The teaching that the interior journey unfolds slowly and cannot be hurried is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let the inner journey unfold in God's time rather than yours — waiting on him as active, hopeful trust, not rushing what he grows slowly.",
@@ -5094,7 +5094,7 @@
       "primary": "Psalm 42:7 (deep calls to deep); Psalm 36:9.",
       "tradition": "The observation that the soul is drawn further into God than it planned to go is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Follow the holy restlessness inward — the deep of God calling to the deep in you — rather than numbing the longing for more of him with lesser things.",
@@ -5129,7 +5129,7 @@
       "primary": "Song of Solomon 3:1 (seeking the beloved by night); Psalm 63:6.",
       "tradition": "The reading of God's felt absence as a deepening of desire draws on Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed; the Song is read in the Christian tradition as the love of God and the soul.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "When God seems hidden, become the seeking bride — searching for him through the night rather than despairing, trusting that he withdraws only to deepen your love and be found more deeply.",
@@ -5164,7 +5164,7 @@
       "primary": "Hosea 2:19 (I will betroth you to me forever); Isaiah 54:5.",
       "tradition": "The image of spiritual betrothal in the deeper rooms is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Receive the staggering intimacy God offers — not a distant master's tolerance but a bridegroom's betrothal, binding himself to your soul in faithful love forever.",
@@ -5199,7 +5199,7 @@
       "primary": "Colossians 3:3 (your life hidden with Christ in God); Galatians 2:20.",
       "tradition": "The innermost security of the soul hidden in God resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Live from a self hidden with Christ in God — secure at the center, beyond the reach of failure and opinion — rather than defending a fragile self on the surface.",
@@ -5234,7 +5234,7 @@
       "primary": "John 15:4-5 (remain in me; the branch bears fruit by abiding).",
       "tradition": "The deep union that bears fruit without striving resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Bear fruit by abiding, not striving — staying so deeply joined to Christ that his life flows through you and produces what willpower never could.",
@@ -5269,7 +5269,7 @@
       "primary": "1 Corinthians 6:17 (joined to the Lord, one spirit); Ephesians 5:31-32.",
       "tradition": "The marriage-union of the soul with Christ in the deeper rooms is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Live as one joined to the Lord — one spirit with him — sharing his very Spirit at the center of your being, not merely connected to him from a distance.",
@@ -5304,7 +5304,7 @@
       "primary": "John 17:21-23 (that they may be one in us; I in them, and you in me).",
       "tradition": "The innermost room as participation in the divine union is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Receive the staggering destination Jesus prayed for you — to be drawn through Christ into the very oneness and love the Father and Son have shared from eternity.",
@@ -5339,7 +5339,7 @@
       "primary": "Romans 12:2 (transformed by the renewing of your mind); 2 Corinthians 3:18.",
       "tradition": "Transformation through beholding God in the deeper rooms resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let union with God transform you from the inside out — renewing the mind and remaking the desires — rather than being quietly conformed to the world's mold from the outside.",
@@ -5374,7 +5374,7 @@
       "primary": "Matthew 5:8 (the pure in heart shall see God); 1 John 3:3.",
       "tradition": "The purifying of the heart as preparation to see God resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Welcome God's purifying work as the clearing of the window — the cleansing of a divided heart so it can finally see him — rather than resenting it as loss.",
@@ -5409,7 +5409,7 @@
       "primary": "John 10:28 (no one will snatch them out of my hand); Psalm 73:23.",
       "tradition": "The assurance that God keeps the soul he brings into the inner room resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Rest in the security of his grip, not yours — trusting that the God who brought you into the inner room keeps you there, so you need not live in terror of losing him.",
@@ -5444,7 +5444,7 @@
       "primary": "Philippians 2:3-8 (humility and the mind of Christ who emptied himself).",
       "tradition": "The teaching that deeper union brings deeper humility — the castle has no proud rooms — is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Measure spiritual progress by how low you are willing to go — for the castle has no proud rooms, and deeper union with God always descends.",
@@ -5479,7 +5479,7 @@
       "primary": "John 20:19-21 (the risen Christ sends the disciples: as the Father sent me, so I send you); John 17:18.",
       "tradition": "The teaching that the deepest encounter with God issues in being sent resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let your encounter with the risen Christ become mission — sent from his presence into the world, as the Father sent him, rather than lingering in the room.",
@@ -5514,7 +5514,7 @@
       "primary": "1 John 4:20-21 (cannot love God and hate one's brother); 1 John 4:12.",
       "tradition": "The teaching that true contemplation returns the soul to love of neighbor is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let the test of your union with God be love of neighbor — contemplation that returns you to actual people more patient and kind, not a private spiritual escape.",
@@ -5549,7 +5549,7 @@
       "primary": "Psalm 139:12 (even the darkness is not dark to you); Psalm 112:4.",
       "tradition": "God's presence in the soul's dark stretches resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Trust that even your darkest stretches are light to God — that he sees, works, and abides in the shadow as freely as in the day — so you do not despair when the journey leads through the dark.",
@@ -5584,7 +5584,7 @@
       "primary": "Psalm 107:9 (he satisfies the longing soul); Psalm 63:5.",
       "tradition": "The soul's satisfaction in God in the deeper rooms resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Bring your deepest, God-sized longing to the only One large enough to fill it — and stop feeding a soul made for God with substitutes that leave you empty by morning.",
@@ -5619,7 +5619,7 @@
       "primary": "John 14:6 (I am the way; no one comes to the Father but by me); Hebrews 4:15.",
       "tradition": "The emphatic counsel never to leave the humanity of Christ in contemplation is drawn from Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Go deeper into the human Jesus, never past him — clinging to his life, his words, and his cross as the only way to the Father, even in the heights of prayer.",
@@ -5654,7 +5654,7 @@
       "primary": "John 14:27 (my peace I give to you); Psalm 16:11.",
       "tradition": "The reflection echoes Teresa of Avila's prayer Let nothing disturb you (Nada te turbe), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Anchor your peace in the unchanging God at your center, not in your circumstances — so that, all things passing, nothing can finally disturb you.",
@@ -5689,7 +5689,7 @@
       "primary": "1 John 4:11 (if God so loved us, we ought to love one another); 1 Corinthians 13:1.",
       "tradition": "The overflow of received love into love of others resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let the love God pours into you pour back out through you — becoming a channel of his love, not a private reservoir that hoards it.",
@@ -5724,7 +5724,7 @@
       "primary": "Ephesians 2:22 (built together for a habitation of God); 2 Corinthians 6:16 (a temple of the living God).",
       "tradition": "Christ's permanent indwelling as the heart of the journey resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Let Christ dwell in you as a resident, not a visitor — giving him the whole house of your life to settle into, rooted and grounded in his love.",
@@ -5759,7 +5759,7 @@
       "primary": "1 Corinthians 13:1-3 (without love it profits nothing); John 13:35.",
       "tradition": "Love as the measure and end of the journey resonates with Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Measure your whole spiritual life by love — the one yardstick that finally counts — for without it even the heights are nothing, and with it the journey has reached its end.",
@@ -5794,7 +5794,7 @@
       "primary": "Revelation 3:20 (I stand at the door and knock); John 14:23 (we will make our home with him).",
       "tradition": "The King making his home with the soul fulfills the journey of Teresa of Avila's The Interior Castle (1577), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Hear the knock at the center of you and open the door — to a God who has been there all along, longing to come in and make his home with you.",
@@ -6949,7 +6949,7 @@
       "primary": "Isaiah 45:15 (a God who hides himself); Deuteronomy 8:2.",
       "tradition": "The dark night of the soul — God withdrawing consolations to purify faith — is drawn from John of the Cross (16th c.), public domain, paraphrased and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Receive the seasons when God hides his felt presence as his deeper work — weaning your love off consolations so it rests on him alone — rather than only as abandonment.",
@@ -6984,7 +6984,7 @@
       "primary": "Psalm 130:1 (out of the depths I cry); Psalm 40:2.",
       "tradition": "The Slough of Despond is from John Bunyan's The Pilgrim's Progress (1678), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Cry out to God from the depths of discouragement — not after you have climbed out, but from the bottom of the bog, trusting him to lift you onto the rock.",
@@ -7229,7 +7229,7 @@
       "primary": "2 Corinthians 4:8-9 (pressed but not crushed); Micah 7:8.",
       "tradition": "The Valley of Humiliation and the battle with Apollyon are from John Bunyan's The Pilgrim's Progress (1678), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Hold the difference between pressed and crushed when the enemy attacks you in the valley — wounded and low, yet able to take up the sword and rise.",
@@ -7334,7 +7334,7 @@
       "primary": "Lamentations 3:21-23 (this I call to mind, therefore I have hope); Psalm 119:50.",
       "tradition": "Doubting Castle, Giant Despair, and the key called Promise are from John Bunyan's The Pilgrim's Progress (1678), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Remember the key called Promise you carry — bringing God's promises to mind in the dungeon of despair, and watching the locked doors swing open.",
@@ -7894,7 +7894,7 @@
       "primary": "Isaiah 60:1 (arise, shine, your light has come); Malachi 4:2 (the sun of righteousness).",
       "tradition": "Closes the dark night of John of the Cross, whose purifying darkness gives way to dawn and to the death of self.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "tradition"
     },
     "formation": {
       "invitation": "Rise into the dawn after the dark night — letting the darkness's deep work, the death of the false and self-reliant self, give way to a truer life in the risen light of God.",
@@ -7929,7 +7929,7 @@
       "primary": "Colossians 3:5 (put to death what is earthly in you); Colossians 3:10.",
       "tradition": "The death of self as daily self-conquest draws on Thomas a Kempis, The Imitation of Christ (15th c.), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Put your besetting sins to death rather than merely managing them — taking up the daily discipline of mortification the older writers knew.",
@@ -8069,7 +8069,7 @@
       "primary": "1 Peter 5:6 (humble yourselves under God's mighty hand); Matthew 23:12.",
       "tradition": "Humility as the consent to be nothing so God may be all draws on Andrew Murray, Humility (1895), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Choose humility actively — lowering yourself willingly under the mighty hand of God, and trusting him to exalt you in due time rather than engineering your own rise.",
@@ -8104,7 +8104,7 @@
       "primary": "James 4:6 (God resists the proud, gives grace to the humble); Proverbs 3:34.",
       "tradition": "Pride as the root of sin and humility as the soil of grace draws on Andrew Murray, Humility (1895), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Go low to where grace flows — embracing humility as the place God pours his favor, and pride as the posture he actively resists.",
@@ -8419,7 +8419,7 @@
       "primary": "Galatians 6:14 (boast only in the cross, crucified to the world); John 3:30.",
       "tradition": "The counsel to love to be unknown and counted as nothing draws on Thomas à Kempis, The Imitation of Christ (15th c.), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Learn to love being unknown and counted as nothing — boasting only in the cross, crucified to the world's applause, and free of the need to be seen.",
@@ -8909,7 +8909,7 @@
       "primary": "Psalm 115:1 (not to us, but to your name give glory); 1 Corinthians 15:10.",
       "tradition": "Humility as the consent to be nothing so God may be all draws on Andrew Murray, Humility (1895), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Redirect the glory for every good thing away from yourself and to God's name — repeatedly, as the persistent impulse to claim credit requires.",
@@ -11779,7 +11779,7 @@
       "primary": "Philippians 3:13-14 (press on toward the goal, forgetting what is behind).",
       "tradition": "The pilgrimage toward the Celestial City is drawn from John Bunyan's The Pilgrim's Progress (1678), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Lean forward toward the goal like a pilgrim nearing the city — forgetting what lies behind and straining toward the prize of the upward call.",
@@ -12444,7 +12444,7 @@
       "primary": "Psalm 116:15 (precious is the death of his saints); Psalm 23:6.",
       "tradition": "The crossing of the river of death to reach the Celestial City is from John Bunyan's The Pilgrim's Progress (1678), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Face death as the last river before home — a crossing rather than a wall — trusting that the death of his saints is precious in the Lord's sight, a homecoming, not a tragedy.",
@@ -12759,7 +12759,7 @@
       "primary": "Revelation 22:20-21 (Surely I come quickly; Come, Lord Jesus; the grace of the Lord Jesus be with all).",
       "tradition": "The pilgrim's arrival at the Celestial City fulfills the journey of John Bunyan's The Pilgrim's Progress (1678), public domain, referenced and attributed.",
       "archaeological": null,
-      "confidence": "high"
+      "confidence": "medium"
     },
     "formation": {
       "invitation": "Let the final cry of the journey be the final cry of Scripture — Amen, come, Lord Jesus — longing for the Person who was the goal of all your formation, all the way home.",
