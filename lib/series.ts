@@ -124,7 +124,7 @@ export const SERIES: Series[] = [
     tagline: 'The unhurried work of becoming like Christ.',
     description:
       'A 365-day journey of spiritual formation — the slow, deep work of being shaped into the likeness of Christ, drawn from Scripture and the great voices of the contemplative and Protestant traditions: Bunyan, Teresa of Avila, Thomas a Kempis, Brother Lawrence, Augustine, and Oswald Chambers.',
-    status: 'coming-soon',
+    status: 'live',
     category: 'Discipleship',
     order: 3,
     accent: '#6750C4',
