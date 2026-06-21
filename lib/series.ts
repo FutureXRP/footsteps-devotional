@@ -157,6 +157,39 @@ export const SERIES: Series[] = [
       { index: 13, title: 'The Celestial City', subtitle: 'The end of the pilgrimage', range: [337, 365], colors: { badge: '#EFEAF7', text: '#43306E', border: '#8366C0', dot: '#8366C0' } },
     ],
   },
+  {
+    slug: 'the-upheaval',
+    title: 'The Upheaval',
+    shortTitle: 'The Upheaval',
+    tagline: 'When your faith and your church are shaking, there is a map — and a God who cannot be shaken.',
+    description:
+      'A 365-day journey through the upheavals of faith — personal and communal. From the holy discontent that breaks the old open, through the long disorientation of the wilderness, to the slow reorientation and the new reconnection on the far side. Drawn from Scripture’s great convulsions and the church’s recurring rummage sales — Phyllis Tickle’s pattern of renewal, the reformers across the centuries, and the present shaking — and brought home to the upheavals of your own soul and your own community, by the God who shakes everything that can be shaken so that what cannot be shaken may remain.',
+    status: 'coming-soon',
+    category: 'Renewal',
+    order: 4,
+    accent: '#A23E2C',
+    heroBg: '#140E0C',
+    totalDays: 365,
+    sectionNoun: 'Movement',
+    sectionAbbrev: 'Movement',
+    sectionsLabel: 'Six movements',
+    sourcesLabel: 'Sources & History',
+    hero: {
+      eyebrow: 'A 365-day journey through personal and ecclesial upheaval',
+      headlineTop: 'What can be shaken',
+      headlineAccent: 'is being shaken.',
+      sub: 'Holy discontent breaks the old open; the wilderness disorients; new bearings come; and we are re-rooted on the far side. A map for the upheavals of your own heart and your own church — and the kingdom that cannot be shaken.',
+    },
+    journey: { title: 'The Full Journey', subtitle: '365 days. Six movements through the four phases of upheaval — from the first holy discontent to the kingdom that cannot be shaken.' },
+    sections: [
+      { index: 1, title: 'The Rummage Sale', subtitle: 'Why God shakes what He loves', range: [1, 28], colors: { badge: '#F6E7E1', text: '#7A2E1C', border: '#B5452F', dot: '#B5452F' } },
+      { index: 2, title: 'Disconnect', subtitle: 'Holy discontent and the break', range: [29, 105], colors: { badge: '#F7E6E9', text: '#7A1F2E', border: '#C0485B', dot: '#C0485B' } },
+      { index: 3, title: 'Disorientation', subtitle: 'The wilderness in between', range: [106, 200], colors: { badge: '#E9EDF1', text: '#33424F', border: '#5E7689', dot: '#5E7689' } },
+      { index: 4, title: 'Reorientation', subtitle: 'Finding the new bearings', range: [201, 300], colors: { badge: '#E6F1FB', text: '#0C447C', border: '#378ADD', dot: '#378ADD' } },
+      { index: 5, title: 'Reconnect', subtitle: 'Re-rooted and remade', range: [301, 340], colors: { badge: '#E4F3EA', text: '#15512F', border: '#2E9460', dot: '#2E9460' } },
+      { index: 6, title: 'What Cannot Be Shaken', subtitle: 'The unshakable kingdom', range: [341, 365], colors: { badge: '#EFEAF7', text: '#43306E', border: '#8366C0', dot: '#8366C0' } },
+    ],
+  },
 ]
 
 export function getAllSeries(): Series[] {

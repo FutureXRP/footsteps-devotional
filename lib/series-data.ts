@@ -2,6 +2,7 @@ import { Entry } from './types'
 import footstepsData from '@/data/entries.json'
 import leadershipData from '@/data/series/leadership.json'
 import formationData from '@/data/series/spiritual-formation.json'
+import upheavalData from '@/data/series/the-upheaval.json'
 
 // ---------------------------------------------------------------------------
 // Server-only entry data access.
@@ -18,6 +19,7 @@ const ENTRIES: Record<string, Entry[]> = {
   footsteps: footstepsData as Entry[],
   leadership: leadershipData as Entry[],
   'spiritual-formation': formationData as Entry[],
+  'the-upheaval': upheavalData as Entry[],
 }
 
 export function getSeriesEntries(slug: string): Entry[] {

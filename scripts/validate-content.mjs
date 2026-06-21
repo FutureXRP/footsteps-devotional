@@ -69,6 +69,19 @@ for (const rel of files) {
         errors.push(`${at}: formation.prayer, if present, must be a non-empty string`)
       }
     }
+    // Optional upheaval lens — if present, every section must be filled.
+    if (e.upheaval) {
+      const U = e.upheaval
+      for (const k of ['thePhase', 'inYou', 'inTheBody', 'whatRemains']) {
+        if (typeof U[k] !== 'string' || U[k].trim() === '') errors.push(`${at}: upheaval.${k} missing/empty`)
+      }
+      if (!Array.isArray(U.reflection) || U.reflection.length < 2 || !U.reflection.every((q) => typeof q === 'string' && q.trim())) {
+        errors.push(`${at}: upheaval.reflection must be an array of at least 2 non-empty strings`)
+      }
+      if (U.prayer !== undefined && (typeof U.prayer !== 'string' || U.prayer.trim() === '')) {
+        errors.push(`${at}: upheaval.prayer, if present, must be a non-empty string`)
+      }
+    }
   })
 
   // Days must be unique and contiguous from 1 (written entries fill 1..N with no gaps).

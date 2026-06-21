@@ -30,6 +30,21 @@ export interface FormationLens {
   prayer?: string // a short prayer to carry, in the reader's own voice
 }
 
+// Optional "upheaval" lens for The Upheaval series. Holds BOTH dimensions of
+// upheaval — personal and ecclesial/communal — and locates the moment within the
+// four phases of any upheaval: disconnect, disorientation, reorientation,
+// reconnect. Built on Phyllis Tickle's "rummage sale" framework and Bill Hybels'
+// "holy discontent" (both paraphrased and attributed, never quoted). Never a copy
+// of the formation or leadership lenses.
+export interface UpheavalLens {
+  thePhase: string // which of the four phases this is — disconnect, disorientation, reorientation, reconnect — and what it asks of us
+  inYou: string // the personal upheaval: how this breaking, wandering, re-forming, or re-rooting lands in the reader's own life
+  inTheBody: string // the communal/ecclesial upheaval: how this shapes the church or a community in transition
+  whatRemains: string // what cannot be shaken — the enduring anchor beneath the shaking
+  reflection: string[] // questions to ponder in the shaking
+  prayer?: string // a short prayer in the shaking
+}
+
 export interface Entry {
   day: number
   volume: number
@@ -49,6 +64,7 @@ export interface Entry {
   notes?: EntryNotes
   leadership?: LeadershipLens
   formation?: FormationLens
+  upheaval?: UpheavalLens
 }
 
 export const VOLUME_COLORS: Record<number, { badge: string; text: string; border: string; dot: string }> = {
