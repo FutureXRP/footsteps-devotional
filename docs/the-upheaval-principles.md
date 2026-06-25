@@ -91,3 +91,39 @@ hopeful realism of someone who has lived through collapse and watched God rebuil
 **Not anxious about change; steadied by the map.** Every entry turns the great
 upheaval into something the reader can hold in their own shaking — and in their
 community's.
+
+## Refinements from peer review (apply to ALL remaining batches)
+
+Three independent reviewers judged the draft on par with — at points stronger than
+— the three published volumes. To make it unambiguously the strongest in the
+library, every remaining entry should observe these:
+
+1. **Cinematic Moments, not expository ones.** Open `moment` on a person, in a
+   place, at a time — a dramatized scene — not on a meditation about the verse.
+   Even purely thematic days should open on a concrete image or situation, never on
+   "This verse teaches…". The scene earns the turn that follows.
+2. **Vary the Lens grid's internal rhythm.** Keep the four labels (they are a
+   signature strength) — but do NOT make the four cells uniform slabs every day.
+   Vary their lengths; sometimes lead the thought with **In the Body** before **In
+   You**; sometimes let **What Cannot Be Shaken** be a single hammered sentence,
+   other times a fuller move. Above all, stop resolving **What Cannot Be Shaken** to
+   the same "Christ / the kingdom" phrasing every time — name the specific
+   unshakable thing this day surfaces, in fresh words.
+3. **Providence without authoring evil.** "God shakes what He loves" (Heb 12) is
+   right, but never imply God is the moral author of abuse, atrocity, or tragedy.
+   Where an entry touches inflicted evil or catastrophic loss, include a clause
+   distinguishing His redeeming sovereignty from authorship of evil — He did not
+   send the evil; He is able to redeem it (Gen 50:20; Rom 8:28). Especially tender
+   for readers carrying trauma.
+4. **Narrative vs. prescription.** When applying a unique redemptive-historical
+   event (Abram's call, a prophet's commission, an apostle's miracle), add a light
+   qualifier so readers don't over-generalize — not every believer receives the
+   identical call; the principle, not the particulars, transfers.
+5. **Plain language.** Prefer "the church" / "your community" over "ecclesial" in
+   reader-facing prose; lightly gloss any specialized term. The volume is the most
+   intellectually demanding of the four — keep the door wide for newer believers.
+6. **Tickle's 500-year pattern stays an interpretive lens** — a historical
+   observation, attributed, never presented as inspired prophecy or a biblical law.
+
+(Confidence tags in `notes` are internal QA metadata: keep them in the data, but
+they are never rendered in the reader-facing proof.)
