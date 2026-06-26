@@ -112,3 +112,43 @@ Days with `"confidence": "tradition"`: 122 (Patrick's Paschal fire), 175 (Wolf o
 Days where exact wording is disputed: 202 (Hus swan prophecy), 225 (Luther's door-nailing), 230 (Here I stand exact phrase).
 
 These are already flagged appropriately in the entry text. No correction needed unless a specific inaccuracy is identified.
+
+---
+
+## June 2026 — Spiritual Formation: "The Moment" length audit (`data/series/spiritual-formation.json`)
+
+**Issue:** The Moment (narrative) sections in the early part of the Spiritual Formation
+series ran too short — rushing the story to reach the formation/application block. A full
+365-entry audit of `moment` word counts confirmed the problem was concentrated in the
+opening third: **every** entry in Days 1–30 fell under 185 words, Days 31–60 were mostly
+short, and from Day ~69 onward the sections reached full length (no entry after Day 115 is
+under 200 words). The author's narrative voice clearly lengthened as the series matured.
+
+**Threshold:** "Too short" was set at **moment < 180 words**, calibrated by reading
+entries around the boundary — entries at 184+ words consistently develop the scene fully,
+while those under ~180 rush it. This line also sits just under the completed Church History
+series' own minimum moment length (184 words). That flagged **56 entries, all between Day 1
+and Day 67.** Entries already at/above 180 words were left untouched (e.g. Days 23, 35, 41,
+43, 46, 48, 52, 53, 60, 62, 64–65 were reviewed and judged adequate).
+
+**Fix:** Each of the 56 short Moments was expanded to ~205–240 words (series median ≈ 215)
+by weaving in **source-faithful narrative context only** — the lead-up, setting, fuller
+arc, and surrounding verses of the cited passage. Every existing sentence and detail was
+preserved; nothing was cut. The formation/application blocks (Invitation, Interior Work,
+Practice, Resistance, Reflection, Prayer) were **not touched** — the whole point was to stop
+the Moment from rushing into the application, so the narrative and the application stay
+cleanly separated.
+
+**Days rewritten (56):** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+20, 21, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 40, 42, 44, 45, 47,
+49, 50, 51, 54, 55, 56, 57, 58, 59, 61, 63, 64, 66, 67.
+
+**Verification:** All 56 rewrites were independently fact-checked against their cited
+sources (Scripture, Augustine's *Confessions*, Bunyan's *Pilgrim's Progress*, Brother
+Lawrence) — **zero factual/scriptural/theological errors** found. `npm run validate` and
+`npm run build` both pass. A few minor pre-existing notes surfaced for awareness (not
+errors): the source-note range on Day 51 (Isaiah 40) and Day 55 (the Exodus 34:6 name-
+proclamation cited under Exodus 33) are slightly narrower than the verses the narrative
+draws on; the narrative text itself is accurate in both.
+
+**Date:** June 2026
