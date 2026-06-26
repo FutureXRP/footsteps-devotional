@@ -127,3 +127,30 @@ library, every remaining entry should observe these:
 
 (Confidence tags in `notes` are internal QA metadata: keep them in the data, but
 they are never rendered in the reader-facing proof.)
+
+## Two clean sections — personal and the Church as a whole (governing rework rule)
+
+Every devotion must carry TWO clearly separated sections, and must NEVER conflate them:
+
+1. **In You — the personal section (`inYou`).** The reader's own faith/life upheaval,
+   and nothing else. Second person, self-contained, ~90–130 words. It must not slide
+   into talking about "the church." If a day is naturally personal, this is where its
+   weight goes.
+
+2. **In the Body — the Church as a whole (`inTheBody`).** The upheaval of the Church
+   *universal* — Western and global Christianity in this cultural moment, the recurring
+   500-year rummage sale, whole movements and traditions, the Church across history and
+   before a watching world. Self-contained, ~90–130 words, parallel in substance to
+   `inYou`. NEVER about a single local congregation ("a church that…", "a community
+   that…"). The Body of Christ, not one body among many. It must not slide into personal
+   application.
+
+Do not conflate the two: the personal section speaks only to the person; the Church
+section speaks only to the Church as a whole. The shared frame around them — `moment`
+(the scene), the Word, `thePhase`, `whatRemains`, `prayer` — stays neutral or thematic
+and likewise must not blur "you" and "the Church" together in one breath. Sweep the
+`moment`/`weight`/`thePhase` for any "a church / your church / a community" language and
+elevate it to the Church as a whole (or move it cleanly into the right section). Every
+one of the 365 must support both sections; where a day leans hard to one side, write the
+other genuinely rather than forcing a blur — clear separation is always preferable to
+conflation.

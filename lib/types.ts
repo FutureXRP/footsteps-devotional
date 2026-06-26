@@ -38,8 +38,8 @@ export interface FormationLens {
 // of the formation or leadership lenses.
 export interface UpheavalLens {
   thePhase: string // which of the four phases this is — disconnect, disorientation, reorientation, reconnect — and what it asks of us
-  inYou: string // the personal upheaval: how this breaking, wandering, re-forming, or re-rooting lands in the reader's own life
-  inTheBody: string // the communal/ecclesial upheaval: how this shapes the church or a community in transition
+  inYou: string // THE PERSONAL SECTION — the reader's own faith/life upheaval ONLY. Purely personal; never drifts into the church dimension. Must not be conflated with inTheBody.
+  inTheBody: string // THE CHURCH SECTION — the upheaval of the Church AS A WHOLE (the Body of Christ): Western/global Christianity in this cultural moment, the recurring 500-year rummage sale, movements and traditions, the church across history. NOT a single local congregation, and never conflated with the personal (inYou).
   whatRemains: string // what cannot be shaken — the enduring anchor beneath the shaking
   reflection: string[] // questions to ponder in the shaking
   prayer?: string // a short prayer in the shaking
