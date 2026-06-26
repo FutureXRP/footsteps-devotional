@@ -164,7 +164,7 @@ export const SERIES: Series[] = [
     tagline: 'When your faith and your church are shaking, there is a map — and a God who cannot be shaken.',
     description:
       'A 365-day journey through the upheavals of faith — personal and communal. From the holy discontent that breaks the old open, through the long disorientation of the wilderness, to the slow reorientation and the new reconnection on the far side. Drawn from Scripture’s great convulsions and the church’s recurring rummage sales — Phyllis Tickle’s pattern of renewal, the reformers across the centuries, and the present shaking — and brought home to the upheavals of your own soul and your own community, by the God who shakes everything that can be shaken so that what cannot be shaken may remain.',
-    status: 'coming-soon',
+    status: 'live',
     category: 'Renewal',
     order: 4,
     accent: '#A23E2C',
