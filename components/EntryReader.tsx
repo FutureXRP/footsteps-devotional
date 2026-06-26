@@ -1,6 +1,6 @@
 'use client'
 
-import { Entry, EntryNotes, LeadershipLens, FormationLens } from '@/lib/types'
+import { Entry, EntryNotes, LeadershipLens, FormationLens, UpheavalLens } from '@/lib/types'
 import { Series, sectionForDay } from '@/lib/series'
 import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
 import { useState, useEffect, useRef } from 'react'
@@ -110,18 +110,34 @@ function FormationBlock({ lens, colors }: { lens: FormationLens; colors: Section
   )
 }
 
+// Upheaval lens (personal + ecclesial) — the body that sits after the Word.
+// Holds the phase, the two non-conflated sections (In You = the reader's own
+// upheaval; In the Body = the upheaval of the whole Church), and the anchor
+// beneath the shaking (What Cannot Be Shaken).
+function UpheavalBlock({ lens, colors }: { lens: UpheavalLens; colors: SectionColors }) {
+  return (
+    <>
+      <LensField label="The Phase" text={lens.thePhase} />
+      <LensField label="In You" text={lens.inYou} />
+      <LensField label="In the Body" text={lens.inTheBody} />
+      <Callout label="What Cannot Be Shaken" text={lens.whatRemains} colors={colors} serif />
+    </>
+  )
+}
+
 // The closing turn inward — placed after the Weight so the entry always lands
-// on personal reflection (and, if present, a prayer to carry).
-function ReflectionBlock({ lens, colors }: { lens: FormationLens; colors: SectionColors }) {
+// on personal reflection (and, if present, a prayer to carry). Shared by the
+// formation and upheaval lenses, which both close on reflection + a prayer.
+function ReflectionBlock({ reflection, prayer, colors, heading = 'For Personal Reflection', prayerLabel = 'A Prayer to Carry' }: { reflection: string[]; prayer?: string; colors: SectionColors; heading?: string; prayerLabel?: string }) {
   return (
     <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem', marginBottom: '3rem' }}>
-      <div className="section-label">For Personal Reflection</div>
+      <div className="section-label">{heading}</div>
       <ol style={{ margin: '0 0 1.75rem', paddingLeft: '1.1rem', display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
-        {lens.reflection.map((q, i) => (
+        {reflection.map((q, i) => (
           <li key={i} style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: 1.6 }}>{q}</li>
         ))}
       </ol>
-      {lens.prayer && <Callout label="A Prayer to Carry" text={lens.prayer} colors={colors} serif />}
+      {prayer && <Callout label={prayerLabel} text={prayer} colors={colors} serif />}
     </div>
   )
 }
@@ -363,6 +379,9 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
         {/* FORMATION LENS (post-Word) */}
         {entry.formation && <FormationBlock lens={entry.formation} colors={colors} />}
 
+        {/* UPHEAVAL LENS (post-Word) — phase, In You, In the Body, the anchor */}
+        {entry.upheaval && <UpheavalBlock lens={entry.upheaval} colors={colors} />}
+
         {/* THE WEIGHT */}
         <div style={{ marginBottom: '3rem' }}>
           <div className="section-label">The Weight</div>
@@ -370,7 +389,10 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
         </div>
 
         {/* FOR PERSONAL REFLECTION (formation lens — the closing turn inward) */}
-        {entry.formation && <ReflectionBlock lens={entry.formation} colors={colors} />}
+        {entry.formation && <ReflectionBlock reflection={entry.formation.reflection} prayer={entry.formation.prayer} colors={colors} />}
+
+        {/* FOR REFLECTION + A PRAYER IN THE SHAKING (upheaval lens — the closing turn) */}
+        {entry.upheaval && <ReflectionBlock reflection={entry.upheaval.reflection} prayer={entry.upheaval.prayer} colors={colors} heading="For Reflection" prayerLabel="A Prayer in the Shaking" />}
 
         {/* Sources */}
         {entry.notes && (
