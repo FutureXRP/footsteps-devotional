@@ -2,7 +2,7 @@
 
 import { Entry, EntryNotes, LeadershipLens, FormationLens, UpheavalLens } from '@/lib/types'
 import { Series, sectionForDay } from '@/lib/series'
-import { toggleBookmark, isBookmarked, markRead } from '@/lib/storage'
+import { toggleBookmark, isBookmarked, markRead, isRead } from '@/lib/storage'
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 
@@ -233,7 +233,18 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
     if (!initialized.current) {
       initialized.current = true
       setBookmarked(isBookmarked(series.slug, entry.day))
+      const firstRead = !isRead(series.slug, entry.day)
       markRead(series.slug, entry.day)
+      if (firstRead) {
+        // Fire-and-forget: record one anonymous server-side read the first time
+        // this device opens this devotion (powers the /admin dashboard).
+        fetch('/api/track', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ series: series.slug, day: entry.day }),
+          keepalive: true,
+        }).catch(() => {})
+      }
     }
   }, [series.slug, entry.day])
 
