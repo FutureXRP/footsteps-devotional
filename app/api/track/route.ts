@@ -20,7 +20,7 @@ export async function POST(request: Request) {
       return NextResponse.json({ ok: false }, { status: 200 })
     }
 
-    const recorded = await recordRead(series, day)
+    const recorded = await recordRead(series, day, new Date())
     return NextResponse.json({ ok: recorded }, { status: 200 })
   } catch {
     return NextResponse.json({ ok: false }, { status: 200 })
