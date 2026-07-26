@@ -7,8 +7,11 @@ import path from 'node:path'
 const ROOT = path.resolve(import.meta.dirname, '..')
 const REQUIRED_STRINGS = [
   'title', 'figure', 'era', 'dateLabel', 'moment',
-  'voiceQuote', 'voiceAttribution', 'scriptureRef', 'scriptureText', 'weight',
+  'voiceQuote', 'voiceAttribution', 'scriptureRef', 'scriptureText',
 ]
+// "The Weight" is required unless the entry's lens carries that reflection
+// itself — The Upheaval folds it into "In You" and ships no weight field.
+const weightRequired = (e) => !e.upheaval
 const CONFIDENCE = new Set(['high', 'medium', 'tradition'])
 
 // Discover content files: the historical series at its original path + any under data/series/.
@@ -39,6 +42,9 @@ for (const rel of files) {
     if (typeof e.volume !== 'number') errors.push(`${at}: missing numeric "volume"`)
     for (const k of REQUIRED_STRINGS) {
       if (typeof e[k] !== 'string' || e[k].trim() === '') errors.push(`${at}: missing/empty "${k}"`)
+    }
+    if (weightRequired(e) && (typeof e.weight !== 'string' || e.weight.trim() === '')) {
+      errors.push(`${at}: missing/empty "weight"`)
     }
     if (!e.notes || typeof e.notes.primary !== 'string' || e.notes.primary.trim() === '') {
       errors.push(`${at}: missing "notes.primary" (every entry must cite a source)`)

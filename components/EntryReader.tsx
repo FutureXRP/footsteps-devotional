@@ -16,12 +16,16 @@ function Prose({ text }: { text: string }) {
   )
 }
 
-// A labelled prose block, e.g. "The Leader's Inner Life".
+// A labelled prose block, e.g. "The Leader's Inner Life". Longer fields carry
+// paragraph breaks, so render multi-paragraph text as paragraphs.
 function LensField({ label, text }: { label: string; text: string }) {
+  const paras = text.split('\n\n')
   return (
     <div style={{ marginBottom: '2rem' }}>
       <div className="section-label">{label}</div>
-      <p style={{ color: 'var(--text-secondary)', fontSize: '1rem', lineHeight: 1.8, margin: 0 }}>{text}</p>
+      {paras.map((p, i) => (
+        <p key={i} style={{ color: 'var(--text-secondary)', fontSize: '1rem', lineHeight: 1.8, margin: i === 0 ? 0 : '1rem 0 0' }}>{p}</p>
+      ))}
     </div>
   )
 }
@@ -393,11 +397,14 @@ export default function EntryReader({ entry, prev, next, series }: { entry: Entr
         {/* UPHEAVAL LENS (post-Word) — phase, In You, In the Body, the anchor */}
         {entry.upheaval && <UpheavalBlock lens={entry.upheaval} colors={colors} />}
 
-        {/* THE WEIGHT */}
-        <div style={{ marginBottom: '3rem' }}>
-          <div className="section-label">The Weight</div>
-          <Prose text={entry.weight} />
-        </div>
+        {/* THE WEIGHT — omitted by series that fold this reflection into their
+            lens instead (The Upheaval carries it inside "In You"). */}
+        {entry.weight && (
+          <div style={{ marginBottom: '3rem' }}>
+            <div className="section-label">The Weight</div>
+            <Prose text={entry.weight} />
+          </div>
+        )}
 
         {/* FOR PERSONAL REFLECTION (formation lens — the closing turn inward) */}
         {entry.formation && <ReflectionBlock reflection={entry.formation.reflection} prayer={entry.formation.prayer} colors={colors} />}

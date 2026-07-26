@@ -60,7 +60,9 @@ export interface Entry {
   voiceAttribution: string
   scriptureRef: string
   scriptureText: string
-  weight: string
+  // Optional: a series may fold this closing reflection into its own lens
+  // instead of carrying a separate "The Weight" section.
+  weight?: string
   notes?: EntryNotes
   leadership?: LeadershipLens
   formation?: FormationLens
