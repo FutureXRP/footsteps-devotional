@@ -2,7 +2,7 @@
 
 ---
 
-## Thirty-Five
+## Forty-Five
 
 Nobody asked him to stay and nobody asked him to go, and that was how he came to
 be there seven years later.
@@ -45,7 +45,7 @@ interest in men who could not be told things.
 
 ---
 
-## Thirty-Six
+## Forty-Six
 
 There were forty-one of them, and by the end of the first winter he could have
 told you most of what mattered about a dozen.
@@ -98,7 +98,7 @@ That was all, and he thought about it for a week.
 
 ---
 
-## Thirty-Seven
+## Forty-Seven
 
 The winter after that, the road failed.
 
@@ -142,7 +142,7 @@ carried stone.
 
 ---
 
-## Thirty-Eight
+## Forty-Eight
 
 Sal asked him his name in the second summer, on the road, while he was eating his
 bread.
@@ -205,7 +205,7 @@ way that had no gap in it.
 
 ---
 
-## Thirty-Nine
+## Forty-Nine
 
 Petch was the one who made him angry, which nobody had done in three years.
 
@@ -278,7 +278,7 @@ for years.
 
 ---
 
-## Forty
+## Fifty
 
 The valley ate together on the first evening of every month, and it took him
 until the third year to understand what that was.
@@ -304,7 +304,7 @@ more than three people at it.
 
 ---
 
-## Forty-One
+## Fifty-One
 
 He started talking about the Waste in the fourth year, and it took him about six
 months to get it out properly.
@@ -348,7 +348,7 @@ still never been anywhere, said:
 
 ---
 
-## Forty-Two
+## Fifty-Two
 
 It took two years and it was nothing like what Steadfast had imagined.
 
@@ -406,7 +406,7 @@ had made a joke, and he had not, and he did not explain.
 
 ---
 
-## Forty-Three
+## Fifty-Three
 
 The carts came back in the spring with the hut built and the first household in
 it, and with a piece of news that Steadfast had not thought to want.
@@ -437,7 +437,7 @@ And then he thought: she does not know.
 
 ---
 
-## Forty-Four
+## Fifty-Four
 
 He told Rell first, in the workshop, which is where things got decided in that
 valley whatever anybody said about the table.

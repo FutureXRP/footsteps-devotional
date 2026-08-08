@@ -4,7 +4,7 @@
 
 ---
 
-## Thirteen
+## Twenty-Three
 
 The second year was easier, and that was the problem.
 
@@ -49,7 +49,7 @@ He did not say much for the rest of that week, and she did not ask.
 
 ---
 
-## Fourteen
+## Twenty-Four
 
 He found himself keeping a list.
 
@@ -87,7 +87,7 @@ stopped looking at the place where it had been.
 
 ---
 
-## Fifteen
+## Twenty-Five
 
 He asked her at the end of the summer, badly, in the middle of doing something
 else.
@@ -200,7 +200,7 @@ whole afternoon in front of him.
 
 ---
 
-## Sixteen
+## Twenty-Six
 
 It could not be unasked.
 
@@ -224,7 +224,7 @@ He knew then that he was going. He did not admit it for a month.
 
 ---
 
-## Seventeen
+## Twenty-Seven
 
 He told her on a morning that had nothing to recommend it.
 
@@ -281,7 +281,7 @@ He left it.
 
 ---
 
-## Eighteen
+## Twenty-Eight
 
 She packed him two days of food.
 

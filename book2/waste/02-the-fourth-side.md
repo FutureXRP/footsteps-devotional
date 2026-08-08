@@ -4,7 +4,7 @@
 
 ---
 
-## Seven
+## Seventeen
 
 The cold came, and the garden went to almost nothing, and he learned that this was
 normal and that she had been feeding him out of a store he had not known existed.
@@ -61,7 +61,7 @@ He was absurdly pleased for the rest of the day and told himself he was not.
 
 ---
 
-## Eight
+## Eighteen
 
 The fourth side was two stones from finished on a grey afternoon when he
 understood what finishing it meant.
@@ -111,7 +111,7 @@ all, and that was the first thing they had that was not spoken about.
 
 ---
 
-## Nine
+## Nineteen
 
 The girl came in the thaw.
 
@@ -216,7 +216,7 @@ They watched her out to the top of the fold and over. She did not turn round.
 
 ---
 
-## Ten
+## Twenty
 
 He waited for it all day and it did not come.
 
@@ -295,7 +295,7 @@ one.
 
 ---
 
-## Eleven
+## Twenty-One
 
 They did not talk much for a while after that.
 
@@ -331,7 +331,7 @@ After a while she got up and put the pot on.
 
 ---
 
-## Twelve
+## Twenty-Two
 
 He put the stone in on a still day at the end of the thaw.
 

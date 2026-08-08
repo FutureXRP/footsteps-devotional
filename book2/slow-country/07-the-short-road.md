@@ -2,7 +2,7 @@
 
 ---
 
-## Thirty-One
+## Forty-One
 
 The hard grey up went on for six weeks and was worth nothing, and then it was
 worth everything, which is how ground works.
@@ -53,7 +53,7 @@ was not the whole of it, and did not go further with it than that.
 
 ---
 
-## Thirty-Two
+## Forty-Two
 
 They came over the top in the seventh week and there was a valley, and there was
 smoke in it — four or five threads of it, low, domestic, going up straight — and
@@ -117,7 +117,7 @@ He stood in the middle of it for a long time.
 
 ---
 
-## Thirty-Three
+## Forty-Three
 
 Constant hated it.
 
@@ -236,7 +236,7 @@ evening.
 
 ---
 
-## Thirty-Four
+## Forty-Four
 
 They stayed twelve days, and by the end of them Constant had helped lay about
 sixty feet of the southern extension, which Steadfast did not remark on and

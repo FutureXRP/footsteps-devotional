@@ -2,7 +2,7 @@
 
 ---
 
-## Nineteen
+## Twenty-Nine
 
 He read the ground for nine days.
 
@@ -38,7 +38,7 @@ would be able to, only that it would put him wrong, and it did.
 
 ---
 
-## Twenty
+## Thirty
 
 He talked to her for about a fortnight. Not aloud at first. He would come to a
 slope and think *she would go round that* and go round it, and be pleased, and
@@ -84,7 +84,7 @@ of a man who expects to arrive somewhere.
 
 ---
 
-## Twenty-One
+## Thirty-One
 
 The country went on being not quite the Waste for a long time before it was
 anything else.
@@ -125,7 +125,7 @@ He went on north-west along the rim and lost sight of the bowl by evening.
 
 ---
 
-## Twenty-Two
+## Thirty-Two
 
 He was ill in the spring.
 

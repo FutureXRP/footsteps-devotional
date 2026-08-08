@@ -2,7 +2,7 @@
 
 ---
 
-## Twenty-Seven
+## Thirty-Seven
 
 Constant was not quick about it and Steadfast did not try to make him be.
 
@@ -62,7 +62,7 @@ those three was the useful one.
 
 ---
 
-## Twenty-Eight
+## Thirty-Eight
 
 They went on together without either of them proposing it.
 
@@ -158,7 +158,7 @@ knew from the inside.
 
 ---
 
-## Twenty-Nine
+## Thirty-Nine
 
 Constant asked his name in the second month.
 
@@ -219,7 +219,7 @@ her gap in the wall that he had missed her without wanting anything from her.
 
 ---
 
-## Thirty
+## Forty
 
 The country changed for good in the fourth month and neither of them made anything
 of it at the time.

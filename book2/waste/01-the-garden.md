@@ -4,19 +4,7 @@
 
 ---
 
-## One
-
-He smelled the smoke a long time before he found it, which frightened him, because
-there was nothing in the Waste to burn.
-
-He had been four months in it by then and had learned what it held.
-Stone. A grey scrub that came up to the ankle and broke like old bread when you
-stepped on it. Water in seams, sometimes, if you knew to look at the underside of
-a slope. Nothing that would take a flame and hold it. He had tried, twice, and got
-a smell like scorched hair and a handful of ash that blew off before it was cool.
-
-So he followed the smoke because it was impossible, and came up over a fold in the
-ground, and stopped.
+## Eleven
 
 It was a garden.
 
@@ -118,7 +106,7 @@ it would be less interesting to both of them.
 
 ---
 
-## Two
+## Twelve
 
 He meant to stay two nights.
 
@@ -203,7 +191,7 @@ repair a different wood.
 
 ---
 
-## Three
+## Thirteen
 
 He asked about the road on the ninth day. He had been building up to it and made a
 poor job of the approach.
@@ -259,7 +247,7 @@ you want to spend it differently.
 
 ---
 
-## Four
+## Fourteen
 
 The visitor came in the third week.
 
@@ -321,7 +309,7 @@ you would use it later on someone who deserves the honest one.
 
 ---
 
-## Five
+## Fifteen
 
 The rain came at the end of the fifth week.
 
@@ -365,7 +353,7 @@ That was all. She went in to get dry.
 
 ---
 
-## Six
+## Sixteen
 
 He stopped counting in months somewhere in the second season and did not notice
 until she said something.

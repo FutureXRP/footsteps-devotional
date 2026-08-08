@@ -2,7 +2,7 @@
 
 ---
 
-## Twenty-Three
+## Thirty-Three
 
 He came over the rise at a trot, which was wrong.
 
@@ -75,7 +75,7 @@ that.
 
 ---
 
-## Twenty-Four
+## Thirty-Four
 
 In the morning Constant showed him the map.
 
@@ -140,7 +140,7 @@ the road was there. He had asked about a bend.
 
 ---
 
-## Twenty-Five
+## Thirty-Five
 
 It was true. It had bent north of the ford. It had bent that way for as long as
 anybody had walked it, and the surveyor had got that one thing right, and Constant
@@ -205,7 +205,7 @@ He put his hand out. Steadfast shook it.
 
 ---
 
-## Twenty-Six
+## Thirty-Six
 
 He watched him go up the rise and over.
 
