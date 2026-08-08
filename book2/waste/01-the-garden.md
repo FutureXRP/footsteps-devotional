@@ -233,7 +233,7 @@ She pulled something and shook the soil off it and set it in the basket.
 
 — You are the ninth.
 
-That stopped him.
+That stopped him. He had been thinking of himself as a weather event.
 
 — What happened to the other eight.
 

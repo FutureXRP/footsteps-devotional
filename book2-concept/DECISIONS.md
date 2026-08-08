@@ -267,3 +267,28 @@ it works as a line about how other people describe what happened.
    end of each day's work, not at the end of the draft.
 4. If a symbolic visitor has to be invented to keep things moving, that is the
    warning sign, not a solution.
+
+---
+
+## Rule amendment, and three locks
+
+**The retrospection rule was miscalibrated, not the prose.** Two instances have
+appeared in the Waste against a stated budget of one, and both are
+aftermath-glosses rather than promises that present pain will mean something
+later — neither anaesthetises. Amended: **no *prophetic* retrospection.** Looking
+back at the last hour is fine. Looking forward from it is not. Amended openly so
+the discipline stays a discipline rather than quietly eroding.
+
+**Never resolve Ash.** No traveller with news, no found flask, nothing, to the
+last page of the book. She is the two-kinds-of-not-knowing made structural, and
+resolving her in either direction refunds the book's central cost.
+
+**Bank the six-feet motif.** Three uses: the visitor, her stopping six feet from
+him at the wall, and his weaponising it during the outburst. One more makes it
+visible. The fourth is reserved for the return scene at the end of the book.
+
+**The compass stays as it is.** He tells Ash *there is nothing east, I came from
+the east* — so she walks toward the wreckage he came out of while he will leave
+the other way. That was not deliberate. Keeping it, and never pointing at it: two
+pilgrims crossing in opposite directions, each believing there is something on the
+far side of the other's ruin.

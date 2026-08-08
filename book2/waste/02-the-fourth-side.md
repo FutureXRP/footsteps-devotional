@@ -39,8 +39,6 @@ have justified to anybody, least of all himself, because she had never once
 suggested he go, and because he had eaten from that pit every day for four months
 without asking a single question about where any of it came from.
 
-That was the first thing in the garden that hurt him because it was good.
-
 ---
 
 They worked the fourth side through the cold.
@@ -173,8 +171,7 @@ Both of them looked at him.
 
 He had not known he was going to say it. He heard it come out and heard it land
 and there was a silence of the kind that has weight, and Grieve did not move at
-all, which he understood afterwards had been her giving him the chance to make it
-a smaller sentence.
+all, which was her giving him the chance to make it a smaller sentence.
 
 He did not take it.
 
