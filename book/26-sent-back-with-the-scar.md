@@ -1,4 +1,4 @@
-# Chapter Twenty-Four
+# Chapter Twenty-Six
 
 ## Sent Back With the Scar
 

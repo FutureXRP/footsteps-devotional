@@ -4,12 +4,12 @@
 
 The last phase is not the absence of scars. It is the discovery that a person who
 has been through this has something to give that they did not have before, and that
-it can only be given inside a body. Four chapters: the Spirit given, the table, what
-it means to be planted, and being sent back with the scar.
+it can only be given inside a body. Five chapters: the Spirit given, the table, the
+old wound released, what it means to be planted, and being sent back with the scar.
 
 ---
 
-# Chapter Twenty-One
+# Chapter Twenty-Two
 
 ## The Wind and the Fire
 
@@ -171,7 +171,7 @@ centuries — and none of that reached the arrangement made in the upstairs room
 because the arrangement was a Spirit distributed onto individual people who could be
 scattered and could not be centralised.
 
-What cannot be shaken is the indwelling. Not your church's health, not your ability
+What cannot be shaken is the indwelling. Not the health of any institution, not your ability
 to find a community, not the state of the institutions. The fire sat on each of
 them, and it has not been withdrawn.
 

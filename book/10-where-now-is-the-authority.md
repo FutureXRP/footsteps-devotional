@@ -12,7 +12,7 @@ Nothing in this part resolves. That is not a failure of the writing.
 
 ---
 
-# Chapter Nine
+# Chapter Ten
 
 ## Where Now Is the Authority?
 

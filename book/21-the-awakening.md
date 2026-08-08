@@ -1,4 +1,4 @@
-# Chapter Twenty
+# Chapter Twenty-One
 
 ## The Awakening
 
@@ -63,7 +63,7 @@ diagnostic manual for a reason.
 ---
 
 The modern reorientations are less visible and no less real, and they answer the
-crisis described in Chapter Thirteen.
+crisis described in Chapter Fourteen.
 
 When the nineteenth century's intellectual pressure and then the trenches destroyed
 the confident liberal Protestantism that had built on human progress, the response
@@ -151,7 +151,7 @@ sentence they could have recited at fifteen finally applies to them.
 You cannot make that happen. Wesley did not go to Aldersgate to have it happen; he
 went reluctantly. But notice what he was doing in the meantime, in the years of
 failure: he kept showing up. He was in the room. That is the only part available to
-you, and it is the part Chapter Fourteen already asked for — the floor, kept without
+you, and it is the part Chapter Fifteen already asked for — the floor, kept without
 results.
 
 And when it does come, apply Edwards' test to yourself before you tell anyone it is

@@ -1,4 +1,4 @@
-# Chapter Seven
+# Chapter Eight
 
 ## The Door at Wittenberg
 

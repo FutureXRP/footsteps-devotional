@@ -15,13 +15,15 @@ promise of Hebrews 12:26–27 and closed by what the shaking could not reach.
 
 | Part | Title | Chapters | Approx. words |
 |------|-------|----------|---------------|
-| — | Front matter | — | 1,200 |
-| Zero | **The Map** | 1–3 | 5,600 |
-| One | **Disconnect** | 4–8 | 9,500 |
-| Two | **Disorientation** | 9–14 | 11,500 |
-| Three | **Reorientation** | 15–20 | 11,500 |
-| Four | **Reconnect** | 21–24 | 7,600 |
-| Five | **What Cannot Be Shaken** | 25–26 | 3,800 |
+| — | Front matter | — | 700 |
+| Zero | **The Map** | 1–3 | 5,300 |
+| One | **Disconnect** | 4–9 | 11,000 |
+| Two | **Disorientation** | 10–15 | 10,600 |
+| Three | **Reorientation** | 16–21 | 10,300 |
+| Four | **Reconnect** | 22–26 | 8,600 |
+| Five | **What Cannot Be Shaken** | 27–28 | 3,400 |
+
+**Total: ~50,000 words across 28 chapters.**
 
 ### Chapters
 
@@ -34,34 +36,36 @@ promise of Hebrews 12:26–27 and closed by what the shaking could not reach.
 4. The Fire in the Bones
 5. Leave Your Country
 6. The Break You Did Not Choose
-7. The Door at Wittenberg
-8. Into the Sea
+7. Turn Again
+8. The Door at Wittenberg
+9. Into the Sea
 
 **Part Two — Disorientation**
-9. Where Now Is the Authority?
-10. By the Rivers of Babylon
-11. How Long?
-12. The Dark Night
-13. The Long Wreckage
-14. The Country Between
+10. Where Now Is the Authority?
+11. By the Rivers of Babylon
+12. How Long?
+13. The Dark Night
+14. The Long Wreckage
+15. The Country Between
 
 **Part Three — Reorientation**
-15. A Voice Behind You
-16. Who You Now Are
-17. Rebuilding the Wall
-18. Back to the Foundation
-19. The Upside-Down Map
-20. The Awakening
+16. A Voice Behind You
+17. Who You Now Are
+18. Rebuilding the Wall
+19. Back to the Foundation
+20. The Upside-Down Map
+21. The Awakening
 
 **Part Four — Reconnect**
-21. The Wind and the Fire
-22. Take, Eat
-23. Planted to Flourish
-24. Sent Back With the Scar
+22. The Wind and the Fire
+23. Take, Eat
+24. Releasing the Old Wound
+25. Planted to Flourish
+26. Sent Back With the Scar
 
 **Part Five — What Cannot Be Shaken**
-25. The Last Rummage Sale
-26. Grace Goes With You
+27. The Last Rummage Sale
+28. Grace Goes With You
 
 ---
 

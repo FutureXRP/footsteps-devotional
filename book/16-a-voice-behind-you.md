@@ -10,7 +10,7 @@ happens when a whole Church finds its bearings again.
 
 ---
 
-# Chapter Fifteen
+# Chapter Sixteen
 
 ## A Voice Behind You
 

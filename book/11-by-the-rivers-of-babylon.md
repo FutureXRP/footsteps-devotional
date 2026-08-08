@@ -1,4 +1,4 @@
-# Chapter Ten
+# Chapter Eleven
 
 ## By the Rivers of Babylon
 
@@ -156,7 +156,7 @@ the primacy of the text, the gathered congregation, prayer as the central offeri
 — all of it is exile technology. The Church's own forms have a similar history:
 the monastic rule came out of the fall of Rome, not out of its glory. The
 vernacular Bible came out of a crisis of authority. The modern missionary movement
-came out of a church that had lost its national confidence.
+came out of a Church that had lost its national confidence.
 
 There is no reason to think this exile will be different, except that nobody
 currently alive gets to see what it produces. The Christians in Babylon who did the
