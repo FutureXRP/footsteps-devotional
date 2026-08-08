@@ -78,3 +78,26 @@ Deferred, not avoided. When the draft is done:
 4. **Human readers.** This is the one thing no amount of drafting substitutes for.
    Specifically: someone with trauma history on the Waste and the dark-night
    material, and at least one reader who left the faith and did not come back.
+
+---
+
+## Ledger update — end of the Slow Country
+
+- **Six feet: fully spent.** Four uses, the last one crossed. It may now appear
+  exactly once more, at Grieve's wall, or never again.
+- **Habit decay, tracked on purpose.** The rationing went first, in the river,
+  laughing. The wood-gathering never went. The waiting stayed and will. **The
+  smoke stopped** the day Constant came over the rise at a trot, and Steadfast
+  tells himself it is because he has company and knows that is not the whole of
+  it. That one is load-bearing: he stopped being findable.
+- **Constant has left, eastward, for the well.** His arc lands as his own — the
+  woman he told that people who say it is gone have stopped looking. He is not
+  chasing the road. He is going to stop constructing her.
+- **Two unspent utterances remain**, both due at the same wall: his name, and
+  whatever he tried to say to Grieve on the step. Constant's parting advice —
+  *when somebody asks, I would not say the old one* — is the only permission on
+  record. Nobody has given him a new one and nobody should.
+- **The short road** is the Slow Country's answer: twelve miles, well to field,
+  nine years, laid in sections that do not match because different people did
+  them. The book never says what it means. Constant calls it a very long yard and
+  is not refuted.
