@@ -40,8 +40,6 @@ would be able to, only that it would put him wrong, and it did.
 
 ## Twenty
 
-The loneliness came on like an illness, in stages, and the first stage was talking.
-
 He talked to her for about a fortnight. Not aloud at first. He would come to a
 slope and think *she would go round that* and go round it, and be pleased, and
 then catch the pleasure and find that there was nobody to be pleased at him. He
@@ -52,10 +50,9 @@ simply agreed with him about anything in two years.
 Then it went aloud, and he heard himself, and stopped, and the stopping was worse
 than the talking.
 
-The second stage had no words in it and lasted longer.
-
-He did the work of walking. He filled at seams. He rationed the way she had taught
-him and caught himself, on the fourth day past the pale stone, holding a flask
+After that he did the work of walking and nothing else. He filled at seams. He
+rationed the way she had taught him and caught himself, on the fourth day past
+the pale stone, holding a flask
 against the light to read the level the way she held a jar, at the same angle, with
 the same tilt of the head, and stood there in the middle of a plain feeling like a
 man wearing another man's coat.
@@ -66,10 +63,10 @@ He did not stop doing it. He could not think of a better way to hold a flask.
 
 The ground did read differently.
 
-He could not have said when it started. It was not a border. There was no
-signpost, no line of hills, no morning where he stood in one country and looked
-back at another. The scrub simply began to come in patches instead of everywhere,
-and then the patches began to have other things in them, low and grey-green and
+He could not have said when it started. There was no morning where he stood in one
+country and looked back at another. The scrub simply began to come in patches
+instead of everywhere, and then the patches began to have other things in them,
+low and grey-green and
 tough, and one afternoon he went down on his knees to look at something because it
 was flowering, badly, four small dirty flowers on a stem, the first flower he had
 seen outside four rows of a garden in two years.
@@ -92,11 +89,10 @@ of a man who expects to arrive somewhere.
 The country went on being not quite the Waste for a long time before it was
 anything else.
 
-That was the part nobody had told him about and the part he found hardest, harder
-than the thirst, because there was no day on which anything had improved enough to
-name. Water more often. Not water. Ground that took a print, so that he could see
-where he had walked, which he had not been able to do for two years and which he
-found he did not enjoy as much as he had expected.
+Nobody had told him about that, and there was no day on which anything had
+improved enough to name. Water more often. Not water. Ground that took a print,
+so that he could see where he had walked, which he had not been able to do for
+two years and which he found he did not enjoy as much as he had expected.
 
 He passed a thing on the tenth day out from the watercourse that he did not
 understand.

@@ -72,7 +72,7 @@ the floor go.
 
 — What do they call you?
 
-He had been asked that eleven times in four months and had answered it eleven
+He had been asked that a dozen times in four months and had answered it a dozen
 times without thinking, and he opened his mouth to do it again and could not get
 the word out in front of her.
 

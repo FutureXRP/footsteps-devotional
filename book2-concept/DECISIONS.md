@@ -292,3 +292,32 @@ the east* — so she walks toward the wreckage he came out of while he will leav
 the other way. That was not deliberate. Keeping it, and never pointing at it: two
 pilgrims crossing in opposite directions, each believing there is something on the
 far side of the other's ruin.
+
+---
+
+## The private map — never in the book, always on the wall
+
+Recorded because the return journey retraces this line in reverse and any fog here
+surfaces exactly there.
+
+- Pilgrims whose roads fail wander into the Waste from several directions.
+  **Steadfast came in from the east**, which is why he can tell Ash there is
+  nothing there — he has walked it.
+- **Grieve's fold sits in the western half** of the Waste.
+- **The route out is the same for everybody for the first nine days**, because you
+  route by water and not by compass: third fold, burnt scrub on the left, the seam
+  under the lip of the fourth rise. That is why she gives Ash and Steadfast
+  identical directions, and it is why he can walk Ash's line for nine days looking
+  for her. Past the fourth rise, Grieve has nothing — she has never been further.
+- **There they diverge.** Ash bears east, toward whatever she believes is on the
+  far side of the country he came out of. Steadfast goes on to the line of pale
+  stone and over it, into the country with no name.
+- **The return reverses it**: pale stone, fourth rise, and the burnt scrub on the
+  *right*. Save that detail. It is how he will know he is close.
+
+## Eleven, audited
+
+Reserved for what descends from her: her eleven years, the eleven rain days, the
+eleven days he spent relaying the wall, the eleven days between his fires. Recounted
+everything else — the times he had been asked his name, how long Ash had been out,
+the width of the Waste at its narrowest.

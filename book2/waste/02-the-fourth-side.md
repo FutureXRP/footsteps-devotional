@@ -117,9 +117,9 @@ The girl came in the thaw.
 
 She was young, which was the first thing, and she was not far gone, which was the
 second. She came up out of the fold at a walk, not a stagger. She had a pack that
-was still packed. She had been out eleven days.
+was still packed. She had been out twelve days.
 
-— Eleven days, Grieve said. — You are quick.
+— Twelve days, Grieve said. — You are quick.
 
 — I ran the first three.
 
@@ -175,7 +175,7 @@ all, which was her giving him the chance to make it a smaller sentence.
 
 He did not take it.
 
-— It is eleven days across at the narrowest and you are not carrying eleven days.
+— It is fifteen days across at the narrowest and you are not carrying fifteen.
 There is nothing east. I came from the east. There is nothing there but more of
 it, and you will be four days out with an empty flask and no shade and no —
 
