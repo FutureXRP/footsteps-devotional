@@ -9,7 +9,7 @@
 He smelled the smoke a long time before he found it, which frightened him, because
 there was nothing in the Waste to burn.
 
-He had been four months in country by then and had learned what it had in it.
+He had been four months in it by then and had learned what it held.
 Stone. A grey scrub that came up to the ankle and broke like old bread when you
 stepped on it. Water in seams, sometimes, if you knew to look at the underside of
 a slope. Nothing that would take a flame and hold it. He had tried, twice, and got
@@ -48,8 +48,8 @@ stone for four months and had stopped noticing until it stopped.
 
 She fed him.
 
-She did not ask him anything until he had eaten, and she did not watch him eat,
-which he was grateful for, because he ate badly and fast and had to stop twice.
+She did not ask him anything until he had eaten, and she did not watch him eat. He
+ate badly and fast and had to stop twice.
 There was a stew of something with beans in it and there was bread, and the bread
 was the thing that broke his composure, though he got through it without her
 seeing.
@@ -69,6 +69,32 @@ Then she sat back and looked at him with her hands round a cup.
 She said it without any cruelty, the way you would tell a man he had cut himself
 and not noticed, and Steadfast sat in her warm house with her food in him and felt
 the floor go.
+
+— What do they call you?
+
+He had been asked that eleven times in four months and had answered it eleven
+times without thinking, and he opened his mouth to do it again and could not get
+the word out in front of her.
+
+She waited.
+
+— Steadfast, he said.
+
+— Is that yours?
+
+— It was given.
+
+— By people who had watched you do something.
+
+— Nineteen years of it.
+
+She nodded, and did not smile, which he had been afraid she was going to do.
+
+— All right, she said. — Steadfast.
+
+She used it after that in the ordinary way, every day, for everything. Pass me
+that, Steadfast. The light is going, Steadfast. He flinched at it for weeks and
+she never once made anything of the flinch.
 
 — How long have you been here, he said.
 
@@ -198,8 +224,8 @@ stop what she was doing.
 — Why not.
 
 — Because you want me to help you find it, and I cannot, and after we have talked
-about it for a week you will be angry with me for not being able to, and I would
-rather skip that part. I have done it before. It goes the way I have said.
+about it for a week you will be angry with me for not being able to. I would
+rather skip that part. I have done it before and it always goes that way.
 
 She pulled something and shook the soil off it and set it in the basket.
 
@@ -207,7 +233,7 @@ She pulled something and shook the soil off it and set it in the basket.
 
 — You are the ninth.
 
-That stopped him. He had been thinking of himself as a weather event.
+That stopped him.
 
 — What happened to the other eight.
 
@@ -380,11 +406,11 @@ while he was looking at the beans.
 And then, because he had learned by then that she gave you the real thing if you
 let the silence run rather than filling it, he let the silence run.
 
-— It is what happens, she said eventually. — You stop measuring against the day it
-went. And it is a relief, and you will feel disloyal about the relief, and the
-disloyalty is worth listening to but it is not worth obeying. That is all I know
-about it. I have had eleven years to come up with something better and that is
-still it.
+— It happens, she said eventually. — To everyone who stays past the first winter.
+
+— That is not an answer either.
+
+— No.
 
 The light went. She got up and knocked the dirt off the back of her skirt.
 
@@ -401,5 +427,3 @@ it would take them, and that he had not thought about the road since some mornin
 he could not now identify.
 
 He noticed that.
-
-He did not know yet what to do with having noticed it.
