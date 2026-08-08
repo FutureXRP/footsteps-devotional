@@ -47,6 +47,11 @@ you get sermons that use your grief to make a point about institutions, or
 institutional analysis that never lands on a human being. Keep them apart and each
 one can say what it actually has to say.
 
+Most chapters take you first and the Church second. A few — the ones built on a
+piece of church history, where the corporate story is the thing that has to be
+told before it can be brought home — reverse the order. That is deliberate, not
+drift.
+
 ## How to read this
 
 Straight through, if you can. The book is built as one journey, and the parts do
@@ -60,6 +65,25 @@ reconnection while you are still bleeding from the break.
 Each chapter ends with three questions. They are slow questions. They are not
 comprehension checks, and the book does not need you to answer them to keep going.
 They are there because upheaval is not survived by understanding it.
+
+## What this book is not
+
+It is not a clinical resource, and it cannot be one.
+
+There is a real difference between the spiritual desolation this book describes and
+the illnesses that resemble it from outside. Depression is an illness. So is
+post-traumatic stress. Both flatten prayer, and both will make a chapter of this
+book feel as though it were written about you, and neither of them responds to
+endurance, insight, or a better map. They respond to treatment.
+
+So: if you cannot get out of bed, if you have stopped eating or sleeping, if you
+are in danger from someone, or if the thought of harming yourself has arrived — put
+this down and get help from a doctor or a counsellor or an emergency service. That
+is not a detour from the journey and it is not a failure of faith. It is the next
+faithful thing, and it is what you would tell anyone you loved to do.
+
+A map is a good thing to have. It is not medicine, and it is not a person, and
+there are stretches of this country where you need both.
 
 ## One caution, stated once and meant throughout
 

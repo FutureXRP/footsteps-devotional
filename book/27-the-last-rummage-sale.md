@@ -31,7 +31,11 @@ Not a new heaven only. Earth is in the sentence. And then the direction of trave
 which is the opposite of what most Christians assume: I saw the holy city, New
 Jerusalem, coming down out of heaven from God.
 
-It comes down. Nobody goes up. The movement in the last chapters of the Bible is
+It comes down. That is the direction of travel, and it is worth noticing because
+it is the reverse of what most of us were taught to picture. Christians have read
+these chapters in more than one way and I am not pretending otherwise; the vision
+is given in images, and images resist being flattened into a schedule. But the
+plain movement of the last chapters of the Bible is
 God relocating to be with people, permanently, on a renewed earth — and the voice
 from the throne says exactly that: Behold, God's dwelling is with people, and He
 will dwell with them, and they will be His people.
@@ -83,11 +87,18 @@ There is no temple in it. John notes it with visible surprise: I saw no temple i
 it, for the Lord God the Almighty and the Lamb are its temple. And no sun or moon,
 because the glory of God illuminates it, and the Lamb is its lamp.
 
-Every religious structure ever built exists to mediate access. Temples, priesthoods,
-buildings, institutions, denominations, systems — all of them are scaffolding around
-a problem, which is that God is holy and we are not and something has to stand
-between. And in the end there is no scaffolding, because there is no problem. They
-will see His face.
+Temples exist to mediate access. That is what a temple is for — God is holy and we
+are not, and something has to stand between. And in the end there is no temple,
+because there is nothing left to mediate. They will see His face.
+
+Be careful with how far that runs, though. It does not follow that everything the
+Church does now is mere scaffolding awaiting demolition. Worship, the sacraments,
+the reading of Scripture, the gathered congregation, the ordering of a common life
+— Christians differ about these, sometimes sharply, and this book is not going to
+settle it in a paragraph. But the traditions that argue hardest about them agree
+that they are not only workarounds for a problem. They are also formation, and
+communion, and rehearsal. What ends is not the fellowship. What ends is the
+distance.
 
 The made things are gone, exactly as Hebrews said they would be. What is left is
 the thing they were all pointing at.

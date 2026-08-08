@@ -22,7 +22,7 @@ injustice Habakkuk complained about. In other words: I am dealing with it, and I
 dealing with it by means of something more terrible than the thing you asked me
 about.
 
-Habakkuk's second complaint is therefore even better than his first. You are of
+Habakkuk's second complaint is therefore even more pointed than his first. You are of
 purer eyes than to behold evil, he says — how can you look on those who deal
 treacherously, and hold your peace when the wicked swallows up the man more
 righteous than he?
@@ -61,6 +61,37 @@ worshipping community of Israel wrote a prayer that does not resolve, and the
 editors of the psalter kept it.
 
 If your prayer has found no sunrise, there is a psalm that ends where you are.
+
+---
+
+There is a woman in the books of Samuel who lived in this exact place for years,
+and her story is worth putting beside Habakkuk's because she prayed differently and
+was answered differently and the waiting was no shorter.
+
+Hannah could not have children, in a culture where that was not a private sorrow but
+a public verdict on a woman's worth. Her husband loved her and said the wrong thing
+about it — am I not better to you than ten sons? — which is the sort of comfort that
+lands as a dismissal. The other wife, who had children, provoked her about it
+deliberately and, the text says, year by year. Year by year. Whatever number you
+have been carrying, she had one too.
+
+And at the tabernacle she prayed in a way that has almost no parallel in Scripture.
+She was in bitterness of soul, and she wept bitterly, and she spoke in her heart —
+only her lips moved, and no voice was heard. It was so far outside the normal
+register of prayer that the old priest watching her assumed she was drunk and told
+her to put the wine away.
+
+She was not drunk. She had simply reached the point where the thing could no longer
+be said out loud.
+
+Notice that Eli, having misjudged her completely, then blessed her — and notice what
+happened next, which is the detail I find most useful in the whole passage. She went
+her way, and ate, and her face was no longer sad. Before anything changed. Nothing
+in her circumstances had moved; she was as childless walking out as walking in. What
+had shifted was that the thing had finally been said, in full, to God, by someone who
+had stopped managing it.
+
+That is available to you tonight, and it is not nothing.
 
 ---
 

@@ -64,9 +64,16 @@ out under pressure, by people who had been tortured for the faith and were not
 inclined to be casual about it.
 
 If you have come out of a system that treated fifty things as essential, the creed
-is a shock. It is so much smaller than what you were handed. That is not a lowering
-of the bar. That is the actual bar, established by the Church at the moments it was
-being forced to say what it could not live without.
+is a shock. It is so much smaller than what you were handed.
+
+That is not a lowering of the bar. It is the load-bearing minimum, established by
+the Church at the moments it was being forced to say what it could not live
+without. Not everything that matters is in it — a Protestant will immediately want
+to know where justification is, and will be right to ask; the creed is a statement
+of who God is and what He has done, not a complete account of how salvation is
+applied, and the traditions have each said more, and had to. But when you are
+trying to work out what is holding the building up, start with what the Church
+wrote when it was being killed for the answer.
 
 ---
 
@@ -74,6 +81,12 @@ The Reformation's sorting was the same exercise conducted again a millennium lat
 and its results are usually reduced to a list.
 
 Grace alone. Faith alone. Scripture alone. Christ alone. Glory to God alone.
+
+A caution on that list before we use it: the reformers did not assemble it. They
+used these phrases, forcefully and often, but the tidy set of five is a much later
+summary — it came into common use in the twentieth century — and treating it as a
+manifesto handed down in 1517 gets the history wrong. It is a useful index to what
+the sixteenth century recovered, not a document anyone signed.
 
 Reduced to a list they are slogans. Read as answers to specific questions about what
 is foundational, they are something else.

@@ -48,7 +48,34 @@ what you were made for. He liked to reach for the old cartoon sailor for the
 sound of it: *that's all I can stands, I can't stands no more.* The Popeye moment.
 The point at which putting up with it stops being possible.
 
-It is a good name for something the prophets embody constantly. Amos was a
+I am going to name the obvious thing rather than walk past it, because this book
+has asked you to look at the Church's failures squarely and it would be cowardly to
+make an exception here. Hybels resigned from the church he founded in 2018, after
+allegations of sexual misconduct going back decades. He denied them. An independent
+review commissioned by the church concluded the following year that the allegations
+were credible; the entire elder board and the two pastors named to succeed him
+resigned. He is, in other words, precisely the kind of trusted leader whose fall is
+part of why the authority question in this book is being asked at all.
+
+So why keep the phrase? Because the phrase was never his. He named something the
+prophets had been doing for twenty-seven centuries, and the naming was good, and it
+does not become false because the man who named it failed. This is the same
+discipline the whole book runs on: the pastor who failed is not identical to the
+truth he mishandled. If we could only use ideas whose authors finished well, we
+would lose most of the Church's vocabulary — and, as it happens, most of the
+Psalms.
+
+But there is a sharper reason to leave it standing, and it is the point of this
+chapter. A fire in the bones is not self-authenticating. It does not certify the
+man carrying it. Someone can name holy discontent accurately, teach it well, build
+something enormous on it, and still fail the tests that are about to follow — and
+the tests are the reason this chapter does not end with the invitation to go and
+burn something down.
+
+Hold the idea. Test the fire. Never confuse the two.
+
+Because the thing itself is everywhere in the prophets, and they carry it without
+help. Amos was a
 herdsman and a tender of sycamore figs, not a professional anything, and what got
 him out of Tekoa was that he had seen people sold for a pair of sandals and could
 not unsee it. Nehemiah heard a traveller's report about a wall in a city he had
@@ -79,7 +106,7 @@ in the wilderness wanted Egypt back; they were not angry about injustice, they w
 angry about the menu. Moses was in agony over a burden he was still carrying while
 he complained.
 
-Three tests, and they are worth applying before you let a fire move you.
+Four tests, and they are worth applying before you let a fire move you.
 
 **What is it about?** Holy discontent is almost always about someone else's harm.
 The counterfeit is almost always about your own comfort, dressed up in the
@@ -94,9 +121,10 @@ examined with real suspicion.
 was alone, trying to quit. Outrage that requires an audience to stay lit is not a
 fire in the bones. It is a performance with a fuel supply.
 
-There is a fourth, quieter test. Holy discontent grieves. Jesus wept over Jerusalem
-in the same week He overturned the tables. Anger that has no sorrow underneath it
-has usually stopped being about the wrong and started being about the self.
+**Does it grieve?** This is the quietest of the four and the most revealing. Holy
+discontent mourns the thing it is angry about. Jesus wept over Jerusalem in the
+same week He overturned the tables. Anger that has no sorrow underneath it has
+usually stopped being about the wrong and started being about the self.
 
 ## In You
 
@@ -109,7 +137,7 @@ situation you cannot walk past. Kids without fathers. Women spoken to the way yo
 mother was spoken to. The particular loneliness of old men. Addiction. Whatever it
 is, it has been there a long time, and you may have been apologising for it.
 
-Stop apologising for it. Test it against the three questions, honestly, and if it
+Stop apologising for it. Test it against the four questions, honestly, and if it
 survives them, treat it as information rather than as a personality flaw.
 
 Because here is what usually happens instead. Most people spend years managing
@@ -180,6 +208,6 @@ comfort and very good news for your fear of failure.
 
 1. What is the specific thing you cannot stand? How long have you been apologising
    for caring about it?
-2. Run your discontent through the three tests — whose harm, what cost, does it
-   persist alone. What did that reveal?
+2. Run your discontent through the four tests — whose harm, what cost, does it
+   persist alone, does it grieve. What did that reveal?
 3. Are you weary from doing something, or weary from holding something in?

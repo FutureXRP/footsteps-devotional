@@ -84,7 +84,15 @@ now part of what you have to give.
 
 ---
 
-Four things to say about the map before you use it.
+Six things to say about the map before you use it.
+
+**It is a map, not a doctrine.** This matters enough to say plainly. Scripture
+narrates these movements constantly — it is full of people who broke, wandered,
+were re-formed and were brought home — but it nowhere legislates a four-stage
+sequence, and nothing in the faith depends on this scheme being right. It is a
+pastoral instrument, assembled from patterns other people noticed, offered because
+it helps. If a chapter of it does not fit your life, your life is not the thing in
+error.
 
 **It is not a schedule.** Nobody moves through these in clean sequence at a
 predictable rate. You will be reoriented in one area of your life while still
@@ -104,6 +112,16 @@ the whole book: you cannot skip to the new beginning. The reason so much church
 renewal fails, and so much personal reinvention fails, is that it begins at phase
 three. There is no reorientation that has not been through disorientation. There is
 no resurrection that skips Saturday.
+
+**Not everyone reaches the fourth phase in this life.** I would rather say this now
+than let you discover it as a private failure in year six. Some people live most of
+their lives in Disorientation. Some upheavals do not resolve; some losses are not
+restored on this side; some questions are carried to the grave unanswered, by
+faithful people who prayed. Naomi got a grandson, and Job got a second family, and
+those are in the book — and so is a psalm that ends in the dark with no turn at
+all, and so is a prophet who died in Egypt against his will. If you are not
+progressing, you are not doing this wrong. The phases describe a shape that
+upheavals tend to have, not a debt God owes you within your lifetime.
 
 **The map is not the point.** The map is a mercy for the middle. You will not need
 it in the first hours of a break, and you will not need it once you are on the far

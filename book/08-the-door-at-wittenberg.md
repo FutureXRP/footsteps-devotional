@@ -79,8 +79,8 @@ Anglican and Anabaptist and a dozen radical movements, and they persecuted one
 another. The Anabaptists, who committed the offence of concluding that baptism
 should follow belief, were drowned by other Protestants — a joke about their own
 convictions being made of their executions. Within a century Europe was at war over
-this, and the Thirty Years War killed a fifth of the population of the German
-lands, and in some regions a third.
+this, and the Thirty Years War killed something like a fifth of the population of the
+German lands, and far more in the worst-hit regions.
 
 The Church came out of it with the vernacular Scriptures, congregational singing,
 the recovery of grace, mass literacy as a religious project, and the Catholic reform

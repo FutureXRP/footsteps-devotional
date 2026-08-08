@@ -135,9 +135,10 @@ The Body's sending, in this moment, has a particular and uncomfortable shape.
 For most of the modern era the Western Church understood mission as something it did
 outward and downward — from the centre to the periphery, from the strong to the
 needy. That era is over, and the numbers ended it. The churches with the most vitality
-in world Christianity are largely in Africa, Asia and Latin America, and they are
-sending missionaries to Europe and North America, where they mostly find that the
-historic churches do not quite know what to do with them.
+in world Christianity are largely in Africa, Asia and Latin America, and — as noted
+several chapters ago, though it bears standing on now — they are sending
+missionaries back the other way, to Europe and North America, where they mostly find
+that the historic churches do not quite know what to do with them.
 
 That reversal is the Body's version of being sent back with the scar, and it will
 require a humility that Western Christianity has not had to exercise before: to be

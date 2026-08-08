@@ -43,6 +43,19 @@ visible and alone.
 
 He does not shake what He means to destroy. He shakes what He means to keep.
 
+That sentence is going to carry this whole book, so let me be honest about where it
+comes from. It is not a quotation. Hebrews says that what can be shaken is removed
+so that what cannot be shaken may remain; it is describing one great final shaking,
+and it says nothing directly about your redundancy or your diagnosis or the state of
+your denomination. The sentence is what I take the passage to mean when it is
+brought to bear on an ordinary life — a principle drawn out of the text, not a
+promise the text makes about every hard year you will have.
+
+I think it is a fair reading, and the whole book is an argument that it is. But you
+should know you are being handed an interpretation and not a proof text, and you
+should feel free to hold it the way you would hold any interpretation: firmly enough
+to lean on, loosely enough to be corrected.
+
 ---
 
 There is a particular sound a house makes in a windstorm. Anyone who has lived
@@ -114,14 +127,26 @@ it? Was it your family, or your idea of what your family was? Very often the thi
 that shattered turns out to have been a photograph of the thing, and the thing
 itself is still there, unphotographed, waiting to be met without the frame.
 
-And one more, gently, because a wounded person needs both halves of this and
-usually only gets one. God is not the author of evil. If someone did this to you,
-the guilt is theirs, and it stays theirs, and no amount of talk about divine
-purpose transfers a gram of it to heaven. And yet nothing reached you from outside
-His hand. He permits what He permits. Sometimes He sends a hard providence Himself
-— a severe mercy, a smaller ruin allowed in order to spare a greater one, a wound
-inflicted the way a surgeon wounds. He is not the author of the evil. He is the
-Lord of the wreckage. Both. Always both.
+And one more, gently, because a wounded person needs this said carefully and
+almost never gets it that way. Two things are true, and the whole book depends on
+not letting them blur.
+
+The first is that some hardship comes from God's own hand, and Scripture is not
+shy about it. A door closed. A thorn given and not removed. The discipline
+Hebrews describes a few verses before our passage, which it compares to a father's
+correction and calls painful at the time. Those are real, they are His, and the
+older writers had a good phrase for them — a severe mercy, the kind of wound a
+surgeon makes.
+
+The second is that what another person did to you in sin is not in that category,
+and must never be filed there. He did not send it. He did not need it. The guilt
+belongs to the person who chose it, it stays with them, and no amount of talk
+about divine purpose transfers a gram of it to heaven's account.
+
+Hold both and you can say the sentence this book will keep saying. He is not the
+author of the evil. He is the Lord of the wreckage — able to take what He would
+never have chosen and work it toward what cannot be shaken. Not because the evil
+was secretly good. Because He is greater than it, and He has not left the room.
 
 ## In the Body
 

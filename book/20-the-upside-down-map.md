@@ -59,8 +59,8 @@ costing God His own Son, and therefore laying a claim on everything.
 
 His life was the argument. He returned to Germany when he could have stayed away,
 taught in an illegal seminary of the Confessing Church, was drawn into the
-conspiracy against Hitler, was arrested, and was hanged at Flossenbürg in April
-1945, days before the camp was liberated.
+conspiracy against Hitler, was arrested, and was hanged at Flossenbürg on 9 April
+1945, two weeks before the camp was liberated.
 
 Karl Barth, working on the same crisis from a different angle, had already done the
 theological demolition. Watching liberal Protestantism dissolve into a religion of

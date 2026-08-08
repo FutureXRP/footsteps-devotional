@@ -30,7 +30,7 @@ reconnect. I want to end by saying what the shape is not.
 **It is not a promise about your timeline.** Nothing here guarantees that your
 disorientation ends this year, or that you will personally see the reorientation of
 the Church you love. Augustine died in a besieged city. Jeremiah died in Egypt
-against his will. Bonhoeffer was hanged three weeks before the war ended. Moses got
+against his will. Bonhoeffer was hanged a month before the war in Europe ended. Moses got
 the ridge and not the land. There is a long line of people who did the faithful
 thing inside a phase they never saw the end of, and it is not a line of failures.
 

@@ -144,9 +144,9 @@ offering you one, they are offering you something God did not.
 The Body's reorientations begin the same way and are almost always
 under-recognised at the time.
 
-Nobody in the sixth century looked at a rule about mealtimes for a small community
-at Monte Cassino and identified it as the mechanism by which Western civilisation
-would keep its books. Nobody watching an Augustinian friar lecture on Romans in a
+Nobody in the sixth century watched a handful of men at Monte Cassino agree on when
+to sleep and who would do the washing up and thought they were looking at the
+mechanism by which Western civilisation would keep its books. Nobody watching an Augustinian friar lecture on Romans in a
 provincial university in 1515 thought they were watching the next five centuries
 begin. The plumb line in Zerubbabel's hand is what renewal looks like from inside:
 a small tool, in an ordinary hand, on a site that nobody impressive is visiting.

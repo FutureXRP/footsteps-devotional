@@ -45,7 +45,7 @@ theology and a distinctly Eastern one both date from this rupture.
 **Around 1500,** the Reformation. A monk with a hammer and a list of grievances, a
 new printing technology, a continent's worth of stored resentment, and within a
 generation the unified religious order of Europe was gone forever. Wars followed
-that killed a third of the population of some German lands. And so did the
+that emptied whole regions of central Europe. And so did the
 vernacular Bible, the recovery of justification by faith, congregational singing,
 universal literacy as a religious project, and the Catholic reform that came out of
 Trent.
@@ -66,8 +66,8 @@ lens. Held loosely it explains a great deal. Held tightly it becomes astrology.
 
 The second, and more important: a rummage sale costs something. It is easy to read
 the pattern from a comfortable distance and find it reassuring — *ah, this has
-happened before, it will all be fine*. Tell that to the Anabaptists drowned by
-other Protestants. Tell it to the villages emptied by the Thirty Years War. The
+happened before, it will all be fine*. Tell that to the radicals executed by
+fellow reformers. Tell it to the villages emptied by the Thirty Years War. The
 Church came out of each of these more vital, yes. Real people were destroyed on the
 way, and some of the destruction was done by Christians to Christians, and God was
 not its author. Renewal on the far side does not retroactively sanctify the
@@ -85,9 +85,9 @@ In 500, the answer had been the imperial order and the structures it sustained.
 When the empire went, the question was live again, and the answer that emerged was
 the See of Rome, and the Rule, and the councils. In 1054, the fight was precisely
 about that answer — one bishop or a college of them. In 1500, Luther's real
-detonation was not indulgences; it was the claim that a plough boy with a Bible
-could stand against a pope and a council. Where now is the authority? In Scripture,
-he said, and the whole order of Europe cracked along that line.
+detonation was not indulgences; it was his answer at Worms, that a conscience bound
+by Scripture outranked both a pope and a council. Where now is the authority? In
+Scripture, he said, and the whole order of Europe cracked along that line.
 
 And now. Where now is the authority? Not the denomination — most people under forty
 could not name theirs. Not the pastor, not automatically, not after the last twenty

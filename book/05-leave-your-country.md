@@ -55,6 +55,34 @@ old one, sitting in a field, still viable, still whispering.
 
 ---
 
+There is a third break in this family of stories, and it is the one least like the
+others, because the woman who makes it is promised nothing at all.
+
+Naomi is going home to Bethlehem, emptied — husband dead, both sons dead — and she
+tells her two Moabite daughters-in-law to go back to their mothers' houses, which is
+the sensible and generous thing to say. Orpah does, and the text does not blame her
+for it. Ruth will not.
+
+Don't urge me to leave you, she says, or to return from following you; for where you
+go, I will go; and where you stay, I will stay. Your people will be my people, and
+your God my God.
+
+Look at what she is walking away from, because it is the same list Abram got. The
+country. The kin. The gods of her father's house. And look at what she is walking
+toward: a bitter widow with no prospects, a foreign town where a Moabite woman will
+be an object of suspicion, and gleaning behind other people's harvesters for food.
+
+No voice spoke to Ruth. No promise was made to her. She was not called out; she
+attached herself to someone who had nothing, and went. If Abram shows you that
+obedience can precede the details, Ruth shows you something harder — that a break
+can be made in the total absence of any assurance that it will come out well, purely
+because of who you have decided to belong to.
+
+It came out well. She is in the genealogy of David, and of Christ. She did not know
+that, and it is not why she went.
+
+---
+
 But before this becomes a sermon about burning things, three qualifications, and
 they matter more than the drama.
 

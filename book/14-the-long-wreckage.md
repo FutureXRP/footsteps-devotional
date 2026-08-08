@@ -72,8 +72,9 @@ it. So, a century later, is Luther.
 And then the wars of religion, which is where the Church's disorientation stopped
 being conceptual and started killing people at scale. From 1524 to 1648 Europe bled
 over these questions. The Peasants' War. The French wars of religion and the St
-Bartholomew's Day massacre. The Thirty Years War, which killed perhaps a fifth of
-the population of the German lands, and in some regions a third — Christians
+Bartholomew's Day massacre. The Thirty Years War, whose death toll historians still
+argue over and which by most estimates killed something like a fifth of the
+population of the German lands, and far more in the worst-hit regions — Christians
 slaughtering Christians over the interpretation of a text about loving enemies.
 
 This must be said without euphemism. That was not God shaking His Church. That was
