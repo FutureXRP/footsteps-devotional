@@ -123,3 +123,20 @@ name for him), **Sal** (eight at first meeting, fourteen when he goes; asks abou
 the sea), **Petch** (nineteen, born there, laid two hundred yards at fifteen), and
 **the old woman** who laid the four hundred bad yards and came up every day of the
 nine while they took it out.
+
+## Allocations spent at the Return
+
+- **Six feet: final use.** He stops at her distance out of habit; she crosses it.
+  The recollection later was reworded so the phrase lands exactly once in the
+  chapter and never again in the book.
+- **One prophetic retrospection spent** — *he thought about it for the rest of his
+  life and never knew* (the box). Deliberate: it reaches forward in order to
+  promise that something never resolves, which is the opposite of consolation.
+  **One allocation remains for the Sundering. Do not spend it casually.**
+- **Ash referenced, still unresolved**, and now permanently — the book has passed
+  its last opportunity to answer her.
+- **The bulge**: taken down, relaid, left in. No dialogue. Never explained.
+- **The box**: taken out, held, put back, never opened, never asked about.
+- **The name**: *the ninth*. Given by Grieve to a stranger who asked, as a fact
+  about the arrangement of the world. She has had thirty-one; he is still the
+  ninth.
