@@ -196,3 +196,74 @@ it.
 
 *Shorter by a third. Nothing is promised. Nothing is explained. The last line is
 the one the reader carries.*
+
+---
+
+# Round two — adopted, then stop
+
+Six notes taken, then the planning ends. All three reviewers said further design
+is now the risk: every additional symbolic correspondence increases the chance the
+story becomes obedient to the non-fiction.
+
+**1. The aphorism rule, reformulated.** Not *nobody but the keeper speaks in
+aphorism* — better: **nobody realises they are speaking in aphorism.** Grieve is
+going to say memorable things; *you still say it in months* already is one. The
+difference is that she is not trying to give him wisdom. She is talking about food
+or weather or a hole in the roof and accidentally destroying him. Better rule,
+and usable as a daily test.
+
+**2. The return scene's hazard.** *Not waiting* must never read as *not caring*.
+If she is serenely self-sufficient, the reader concludes the friendship only ever
+mattered to him — and two hundred pages of *does he go back* become a question
+that was never real outside his head. That is half the point; only half. She needs
+one moment that costs her something. **The object is the wall.** He builds a
+section of it during the Waste. He is bad at it. On his return the wall is
+finished — and his section is still in it, unrebuilt, worse than everything around
+it, load-bearing anyway. One image, no dialogue about it. Planted in this
+draft, paid off two hundred pages later.
+
+**3. The other traveller at her table must not scan as his replacement.**
+Different kind of ruin, different need, different seat. Otherwise the scene picks
+up an unintended cruelty.
+
+**4. The dark night needs no agent.** The best solve for the Surgeon problem: make
+the removal something he *discovers* rather than something done to him — he
+reaches for the thing and it is simply gone, the way the road was gone. The book's
+founding image already knows how to do loss without a perpetrator. Use it.
+
+**5. Keep the ending of chapter one where it is.** One reviewer wanted a wordless
+beat after the keeper's speech to restore the licence that *Steadfast heard all of
+it and understood none of it* used to provide. The other said stop, page turn, add
+nothing. Going with stop — the reader's own incomprehension does the work, and a
+reception beat risks letting the anaesthesia back in.
+
+**6. The four vanishings.** — *I have seen this four times. Not here. Elsewhere.*
+One reviewer read that as the four rummage sales buried in a throwaway line. It
+was not deliberate; I wrote *four* without the intent. Keeping it, and never
+pointing at it.
+
+## Title — deferred on purpose
+
+Split 2–1 for **The Country Between**, with the dissent arguing that *The Road
+That Moved* is the thesis hidden in the title: he thinks the road moved, the book
+discovers the country turned, and someone late says *when the road moved* and he
+answers quietly — the road didn't move.
+
+The sharpest argument the other way: now that the keeper's refutation is the last
+line of chapter one, the title-as-deliberate-misreading defence is weaker, because
+the cover would be contradicted in the opening's most prominent sentence.
+
+My lean is *The Country Between*. But the Waste does not depend on the title, and
+deciding now hardens the book around a name before the book exists. Working title
+stands. Decide when the section is done — and keep the late beat either way, since
+it works as a line about how other people describe what happened.
+
+## Standing constraints for the draft
+
+1. Zero retrospective flash-forwards in this section. Both allocations are
+   reserved for elsewhere.
+2. Nobody realises they are speaking in aphorism.
+3. **Every scene generates the next scene, not the next meaning.** Checked at the
+   end of each day's work, not at the end of the draft.
+4. If a symbolic visitor has to be invented to keep things moving, that is the
+   warning sign, not a solution.
