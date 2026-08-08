@@ -244,7 +244,7 @@ was a river in front of him, and he was rationing.
 
 He tipped it out and filled it again and drank the whole thing standing up.
 
-They followed the water for eleven days. It got bigger. On the sixth day there were
+They followed the water for twelve days. It got bigger. On the sixth day there were
 trees, four of them, small and wind-bent and entirely miraculous, and Constant
 climbed one for no reason and could not get down as easily as he had got up, and
 Steadfast stood underneath and gave him instructions that were no help at all.
@@ -252,7 +252,7 @@ Steadfast stood underneath and gave him instructions that were no help at all.
 On the ninth day they saw the smoke of somebody else's fire in the distance, and
 it was not a signal, and neither of them went to it.
 
-On the eleventh day the watercourse turned south and they had to decide whether to
+On the twelfth day the watercourse turned south and they had to decide whether to
 follow it.
 
 — It goes somewhere, Constant said.
