@@ -126,9 +126,8 @@ There had never been a method. He had spent seven years turning a distance and a
 silence into a doctrine, and building a whole practice out of it, and getting it
 wrong with a young man over a map. She had stood off from the man in the autumn
 because that man needed her to stand off. She had let Ash go because Ash was
-twenty-two and packed and going. She had fed Steadfast
-first and asked nothing because he had been four months out and could not have
-answered anything.
+twenty-two and packed and going. She had fed Steadfast first and asked nothing
+because he had been four months out and could not have answered anything.
 
 And she was cutting an old man's food up small because that was what was in front
 of her now.
