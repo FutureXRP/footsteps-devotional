@@ -43,8 +43,9 @@ They stood in the doorway and watched it work.
 And it was good. That was the whole of it. It was good and it had been good last
 year and it would be good next year, and he stood there in the doorway of a house
 that was not his, dry, fed, competent, watching a system he now understood do
-exactly what he had known it would do, and something in him went very quiet and
-did not come back for days.
+exactly what he had known it would do.
+
+He did not say much for the rest of that week, and she did not ask.
 
 ---
 
@@ -174,12 +175,20 @@ not doing either of them again.
 
 — That is not your decision.
 
-— It is exactly my decision, she said. — You are asking me to give you a reason to
-stay. That is what let-me-stay is. And I will not, because if I give you one you
-will take it, and it will hold for a year and possibly five, and then one morning
-you will be standing in the doorway watching the water go down the rows and you
-will work out that the reason was mine and not yours. And I have seen that face.
-I have looked at that face across this table for four years.
+— It is exactly my decision, she said. — You are asking me for a reason to stay.
+That is what let-me-stay is.
+
+— That is not what I —
+
+— It is. And I will not give you one, because you will take it, and it will hold a
+year and possibly five, and then one morning you will be standing in that doorway
+watching the water go down the rows and you will work out that the reason was mine
+and not yours.
+
+She rubbed the dirt off her palms, one and then the other.
+
+— I have seen that face. I have looked at that face across this table for four
+years.
 
 She picked up the basket.
 
@@ -298,7 +307,16 @@ She wiped her hands down her front.
 fourth rise will give you a cup if you are patient with it. After that you are past
 where I know and I have nothing for you.
 
-— Thank you.
+He knew the words. He had heard them said once already, in this yard, in the thaw,
+to a girl standing where he was standing with her pack still packed, and he held
+the bundle and waited for Grieve to say something about that.
+
+She did not.
+
+He could not tell whether she had spared him, or whether there was simply one way
+out of that country and she had only ever had the one thing to give anybody.
+
+— Thank you, he said.
 
 — There is a line of pale stone about nine days out, if you get that far. Cross
 it and stop looking behind you, because from there the ground reads differently
