@@ -101,3 +101,25 @@ Deferred, not avoided. When the draft is done:
   nine years, laid in sections that do not match because different people did
   them. The book never says what it means. Constant calls it a very long yard and
   is not refuted.
+
+## Timeline — keep it straight, the Return depends on it
+
+| Event | Grieve's count |
+|---|---|
+| He arrives at the garden, four months out | year 11 |
+| He leaves | year 13 |
+| Pale stone, loneliness, illness, three fires | year 13–14 |
+| Four months with Constant, seven weeks up | year 14 |
+| The valley: section, road failure, Sal, Petch, the table | years 14–20 |
+| Carts east in the sixth valley year; they return in spring | year 20 |
+| He sets out back | **year 21 when he arrives** |
+
+So Grieve is around sixty when he reaches the wall, and has kept the fire alone
+for two decades. Do not let any later scene contradict this.
+
+Faces in the valley, for continuity: **Rell** (runs the road, nine years, exact,
+never on the King's Road), **Ivo** (mends, talks while working, never once uses a
+name for him), **Sal** (eight at first meeting, fourteen when he goes; asks about
+the sea), **Petch** (nineteen, born there, laid two hundred yards at fifteen), and
+**the old woman** who laid the four hundred bad yards and came up every day of the
+nine while they took it out.
