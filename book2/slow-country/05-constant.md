@@ -85,8 +85,8 @@ It was inked in three colours on good hide, with the folds marked, and the seams
 marked, and a scale, and a compass rose in the corner drawn by somebody who could
 draw.
 
-— There, said Constant, with his finger on it. — Eleven days from here, twelve if
-the ground is soft.
+— There, said Constant, with his finger on it. — Thirteen days from here,
+fourteen if the ground is soft.
 
 Steadfast looked where the finger was.
 
@@ -131,10 +131,10 @@ line drawn by any surveyor has been within a hundred miles of the truth.
 
 And he did not say it.
 
-He heard himself not saying it. He stood six feet off from a young man on his
-knees over a map and did the thing he had watched done: he let the silence be
-where the answer went, and told himself, in the exact words, that the boy had not
-asked him whether the road was there. He had asked about a bend.
+He heard himself not saying it. He stood over a young man on his knees at a map
+and did the thing he had watched done: he let the silence be where the answer
+went, and told himself, in the exact words, that the boy had not asked him whether
+the road was there. He had asked about a bend.
 
 — It bends, Steadfast said.
 
@@ -196,7 +196,7 @@ Steadfast tried once more, and made a mess of it.
 the unbearable part. — I know. I do know. Everybody I have met in eighteen months
 has managed to say some version of that to me, usually about four sentences in, and
 you have lasted a whole night, which I am grateful for. If it is not there I will
-have walked eleven days and I will know, and I would rather know than sit in a
+have walked thirteen days and I will know, and I would rather know than sit in a
 hollow with a fire wondering.
 
 He put his hand out. Steadfast shook it.
@@ -209,8 +209,7 @@ He put his hand out. Steadfast shook it.
 
 He watched him go up the rise and over.
 
-He stood six feet from the dead fire and watched him go, and told himself the
-things: that the boy had water, that the boy had food, that the boy had a better
+He stood by the dead fire and watched him go, and told himself the things: that the boy had water, that the boy had food, that the boy had a better
 pack than his own and knew the hollows on the north side; that a man of twenty-five
 who has been eighteen months getting an answer is entitled to go and get one; that
 he had not lied about the bend; that Grieve would have let him go.
@@ -256,7 +255,7 @@ Constant did not say anything.
 
 — It bends north of the ford, Steadfast said. — That part is true and I told you
 the true part because it was the part that cost me nothing, and I have been up all
-night about it, and you can do what you like with the eleven days but you are not
+night about it, and you can do what you like with the thirteen days but you are not
 going to spend them not knowing what I know.
 
 He ran out. There had not been much of it and he had used it all going up the
