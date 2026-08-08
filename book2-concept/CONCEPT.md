@@ -1,141 +1,160 @@
 # THE ROAD THAT MOVED
 
-### An allegory — companion volume to *The Upheaval*
+### An allegory
 
-*Concept document and proof-of-voice*
+*Concept document v2 — single journey*
 
----
-
-## The one idea that makes this not a Bunyan pastiche
-
-*Pilgrim's Progress* is a **conversion** story. A man flees the City of
-Destruction with a burden on his back and walks to the Celestial City. The road
-exists the whole time. His problem is that he keeps leaving it.
-
-This book begins where that one has no interest in going.
-
-**Our pilgrim has been walking the King's Road for nineteen years.** He knows it.
-He has helped others onto it. He is good at this. And one morning he comes out of
-his lodging and the road is not there — not blocked, not washed out, *gone*, as
-though the country had been lifted in the night and set down facing a different
-way.
-
-That is the whole invention. In Bunyan the pilgrim strays from the road. Here
-**the road itself is what gets shaken**, and the man standing on it did nothing
-wrong.
-
-Which is exactly the reader *The Upheaval* was written for, and exactly the
-experience no allegory in this tradition has taken as its subject: not how to
-find the way, but what to do when the way you found dissolves under a person who
-was faithfully walking it.
+> **Change from v1:** the two-fold In You / In the Body structure is gone. This is
+> one man's journey. The Church's upheaval becomes a companion volume if this book
+> earns one.
 
 ---
 
-## The double journey — what nothing else in the genre does
+## Why cutting it is right
 
-The pilgrim does not travel alone. Three days into the Waste he falls in with
-**the Caravan**.
+The Caravan was a clever idea and it was the wrong one. It was the *non-fiction's
+structure* smuggled into a novel — and a novel with two allegorical plots running
+in parallel is a novel with a thesis, which readers feel even when they can't name
+it.
 
-The Caravan has been travelling for two thousand years. It is enormous, slow,
-and carries everything it has ever been given in wagons that have not been opened
-in centuries. And it has been halted on the plain and made to **unpack** — every
-crate down on the grass, sorted in daylight, some of it burned, some of it
-carried on, and nobody in the company agreeing which is which.
+There was also a warning sign we already had. The sharpest criticism of *The
+Upheaval* was that the dual structure occasionally read as template-filling — an
+In the Body section existing because the form demanded one, not because the
+chapter needed it. Reproducing that architecture in fiction would have imported
+the flaw and made it worse, because fiction cannot carry a section that exists to
+be even-handed.
 
-That is the rummage sale, literalised. And it means the book runs the two lines
-of *The Upheaval* — **In You** and **In the Body** — as two braided plots in one
-landscape, which is the thing the genre has never done. The pilgrim's private
-collapse and the Caravan's institutional one move through the same four countries
-at the same time, at different speeds, illuminating each other without a word of
-commentary.
-
-Bunyan gave Christiana a company in Part Two. Nobody has made the company itself
-the second protagonist.
+One journey. One man. The meaning arrives through what happens to him or it
+doesn't arrive at all.
 
 ---
 
-## The four countries
+## What happens to the Caravan
 
-| | Country | The phase | What it does to you |
+It stays. It stops being a plot.
+
+Somewhere in the second country the pilgrim comes over a rise and sees, spread
+across the plain below, an enormous halted company — wagons in their hundreds,
+crates down on the grass in long rows, people arguing over them in the rain. It
+has clearly been there a long time. Nobody invites him down. He watches for a
+while and goes on, and **the book never returns to it.**
+
+Three pages. No commentary. No character from it joins him.
+
+Demoted from second protagonist to weather, it becomes better than it was: an
+image the reader cannot quite place and does not forget, which does exactly one
+job — it tells you this is happening to more than one man — and which leaves the
+whole second book sitting there unwritten, in plain sight, for anyone who wants it.
+
+---
+
+## The hole this leaves, and what fills it
+
+Losing the braided plot means the personal journey now carries the entire book
+alone. Episodic encounters won't do it; that is the failure mode of the whole
+genre, *Pilgrim's Progress* included, where a man walks and meets a series of
+people who are ideas.
+
+The fix is the thing Bunyan actually got right and is least imitated for:
+**companions.** Christian has Faithful, and then Hopeful, and the book warms
+enormously whenever they are on the page.
+
+So the structure becomes a sequence of relationships, and each country changes
+who he is walking with:
+
+| Country | Phase | Who he is with | What it does |
 |---|---|---|---|
-| I | **The Sundering** | Disconnect | Where the road ends. Behind you the passes close. |
-| II | **The Waste** | Disorientation | Trackless. Everyone you meet is selling a map. |
-| III | **The Slow Country** | Reorientation | Where things grow. Nothing happens fast. |
-| IV | **The Table Lands** | Reconnect | Where the Caravan re-forms, and eats. |
-
-And under all four, struck whenever anything else gives way: **the Unshaken** —
-not a destination but bedrock. You do not travel to it. You hit it.
+| **The Sundering** | Disconnect | **Alone** — by choice, badly | He refuses three offers of company. Characterisation, not scenery. |
+| **The Waste** | Disorientation | **Grieve** | The longest section. The centre of the book. |
+| **The Slow Country** | Reorientation | **A younger one** | He is now the one walking behind, saying *this is the way*. |
+| **The Table Lands** | Reconnect | **A company** | Re-formed, not restored. And the question of Grieve. |
 
 ---
 
-## The name arc — the book's spine
+## Grieve is the plot
 
-He begins the story called **Steadfast**. It is a name he earned and is quietly
-proud of.
+This is the single biggest change from v1. She was a one-chapter cautionary
+figure. She is now the emotional centre of the book and the engine of its story.
 
-By the middle of the Waste it has become unbearable — a man called Steadfast who
-cannot stand, who is asked his name by strangers and has to say it out loud.
-Somewhere in the second country he stops answering to it and gives his name as
-**Mara**, which is what Naomi did, and which the book will not treat as a failure.
+She has been in the Waste eleven years. She has a garden there, which should not
+be possible. She has a fire, and a door that shuts, in a country with no houses.
+She is competent, funny, unsentimental, and the best company the pilgrim has had
+since before the road went — and she is not going anywhere, ever, and she knows
+exactly why, and her reasons are good.
 
-He is renamed at the end. He does not choose it and it is not Steadfast.
+He stays with her a long time. Longer than he means to. The reader will want him
+to stay.
 
-That single thread carries the whole of Chapter 17 of *The Upheaval* — identity
-recovered, the verdict reached in the dark overturned by a word from outside —
-without one line of exposition.
+And he has to go, and she will not come, and **she is not certain he is right** —
+which is the thing that keeps the book honest. She is not a temptation to be
+overcome. She is a person who made a different judgement about the same country,
+and the book refuses to flatten her into a lesson.
 
----
+Then, because he left her, the book has a question it can carry for two hundred
+pages: **does he go back for her?**
 
-## People, not labels
+That is what turns a sequence of encounters into a novel, and it is what
+*Pilgrim's Progress* structurally cannot do.
 
-The failure mode of allegory is Mr. Worldly-Wiseman: a walking signpost with
-dialogue. The rule for this book is that **every figure is a person first and a
-meaning second**, and the ones who are wrong are the ones the reader likes most.
+### The one real fork — how it ends with her
 
-- **The Cartographer.** Sells maps of the Waste at a fair price. Warm, generous,
-  genuinely trying to help. Every map is confidently, catastrophically wrong. He
-  believes them. *(Premature certainty — the golden calf.)*
+He goes back in the fourth country. What he finds is the biggest authorial
+decision in the book, and I would not make it without you. Three options:
 
-- **Grieve.** A woman who has been in the Waste eleven years and has built
-  something beautiful there: a garden, a fire, a door that shuts. She is the
-  wisest person in the book and the best company in it, and she will not leave,
-  and the pilgrim has to. *(Permanent residence in phase two — the hardest
-  chapter to write and the one people will remember.)*
-
-- **The man walking the other way.** Cheerful, unbothered, going back. He
-  describes the old country in loving detail and every detail is slightly wrong,
-  and the pilgrim cannot work out whether the man is lying or whether his own
-  memory is. *(Nostalgia. Egypt with the whips edited out.)*
-
-- **The Wagonmaster.** The Caravan's authority. Not a villain — a decent man
-  whose word stopped carrying about a decade ago and who has not yet been told.
-  *(Where now is the authority?)*
-
-- **The boy with the plumb line.** Appears for one page in the Slow Country,
-  measuring something small on a site nobody is visiting. *(The day of small
-  things.)*
-
-- **The Surgeon.** Appears once, in the dark, does something the pilgrim does not
-  consent to and does not understand. Is not explained for two hundred pages.
-  *(Severe mercy — and the book must be very careful that the Surgeon never
-  appears in any scene involving harm done by another person's malice. That line
-  is load-bearing and it is the same line the non-fiction had to fence.)*
+1. **She is still there and still will not come.** They talk. It is warm and it is
+   final and nobody is rescued. He walks out and she stands in the door. *Truest to
+   the caveat we just added to the non-fiction — some people do not reach the
+   fourth phase in this life, and they are not being punished.* Hardest ending;
+   best book.
+2. **She left, two years after him, by a road he never knew about.** He never sees
+   her again and cannot find out where she went. *Hope without resolution — she was
+   not wrong, only slower, and he does not get to witness it.* My recommendation
+   if option 1 is too bleak.
+3. **She is dead.** Powerful and dangerous. Reads as judgement on her choice
+   unless handled with enormous care, and the book has spent its whole length
+   refusing to do that to people. **I would not.**
 
 ---
 
-## Voice — the decision everything depends on
+## Everything else that survives from v1
 
-**No archaism. None.**
+**The premise.** He has walked the King's Road nineteen years and is good at it.
+One morning the road is gone — not blocked, gone, old grass growing where it was.
+In Bunyan the pilgrim strays from the road; here the road is what gets shaken, and
+the man standing on it did nothing wrong.
 
-Bunyan wrote in the plain vernacular of tinkers and housewives. He was not being
-quaint; he was being *clear to people who did not read books*. Every modern
-imitation that reaches for thee and doth is being unfaithful to him while
-appearing to honour him.
+**The name arc.** He begins as **Steadfast**, a name he earned and is quietly
+proud of, which becomes unbearable in the Waste — a man called Steadfast who
+cannot stand, asked his name by strangers. He starts giving it as **Mara**. He is
+renamed at the end; he does not choose it, and it is not Steadfast.
 
-So: the voice of *The Upheaval* — present tense, concrete, short sentences that
-land — applied to narrative. Plain words, no explanations, no authorial nudging.
-The allegory is never decoded on the page. If a reader misses a layer, they still
-have a story; the meaning is a floor under the book, not a caption on it.
+**The Unshaken.** Not a destination. Bedrock — the thing you keep hitting whenever
+anything else gives way.
+
+**The remaining cast**, all of them people first and meanings second:
+
+- **The Cartographer** — sells maps of the Waste at a fair price. Warm, generous,
+  genuinely helpful, and every map is confidently wrong. He believes them.
+- **The man walking the other way** — cheerful, going back, describing the old
+  country in loving detail, every detail slightly off. Steadfast cannot work out
+  whether the man is lying or whether his own memory is.
+- **The boy with the plumb line** — one page in the Slow Country, measuring
+  something small on a site nobody is visiting.
+- **The Surgeon** — appears once, in the dark, does something Steadfast does not
+  consent to and does not understand, and is not explained for two hundred pages.
+  *Hard rule: the Surgeon never appears in any scene involving harm done by
+  another person's malice.* That is the same line the non-fiction had to fence,
+  and in fiction it is easier to cross by accident and far more damaging.
+
+**The voice.** No archaism. None. Bunyan wrote in the plain vernacular of tinkers
+and housewives — he was being clear to people who did not read books, not quaint.
+Every thee-and-doth imitation is unfaithful to him while appearing to honour him.
+Present tense where it earns it, concrete nouns, short sentences that land, and
+the allegory never decoded on the page.
+
+**No dream frame.** Bunyan needed *as I walked through the wilderness of this
+world, I lighted on a certain place* because his readers needed permission for
+fiction. Ours don't. Start cold, in the doorway, with the grass.
 
 ---
 
@@ -179,43 +198,74 @@ have a story; the meaning is a floor under the book, not a caption on it.
 >
 > Steadfast waited.
 >
-> — It is the country, the keeper said. The road is exactly where you left it.
-> The country has turned underneath it. You are standing in the right place and
-> it is not the right place any more, and there is no walking back to a thing
-> that is still there.
+> — It is the country, the keeper said. The road is exactly where you left it. The
+> country has turned underneath it. You are standing in the right place and it is
+> not the right place any more, and there is no walking back to a thing that is
+> still there.
 >
 > Steadfast heard all of it and understood none of it, and he would carry the
 > sentence for eleven years before it opened, and when it opened he would be
 > sitting at a table in a country he had not heard of, with a name that was not
 > his, next to a woman who had refused to come.
 
-*(~380 words. No archaism. No explanation. Every phase of the map is already
-loaded and nothing has been announced.)*
+---
+
+## Proof of voice — Grieve
+
+*She now has to carry the middle third of the book. This is the test of whether
+she can.*
+
+> He smelled the smoke a long time before he found it, which frightened him,
+> because there was nothing in the Waste to burn.
+>
+> It was a garden. That was the thing he could not get past, standing at the edge
+> of it with his hand still on the strap of his pack. Beans up canes. Something
+> low and green in rows. A wall of stacked flat stones about waist high, running
+> all the way round, which someone had carried there one at a time from somewhere
+> he could not see. And at the back of it a house, a real one, with a roof and a
+> chimney and a door.
+>
+> A door. In the Waste. A thing that could be shut.
+>
+> — You can come in, she said, without turning round. — You have been standing
+> there a while.
+>
+> She fed him. She did not ask him anything until he had eaten, which he
+> understood later was a kindness with eleven years of practice behind it, and
+> then she sat back and looked at him with her hands round a cup and said: — How
+> long have you been out?
+>
+> — Four months.
+>
+> — Four months, she said.
+>
+> — Yes.
+>
+> — You still say it in months.
+>
+> She said it without any cruelty at all, the way you would tell a man he had cut
+> himself and not noticed, and Steadfast sat in her warm house with her food in
+> him and felt the floor go.
+
+*(No archaism. No exposition. Grieve is likeable, capable, and unnerving inside
+four hundred words — and the reader already suspects, correctly, that leaving her
+is going to be the hardest thing in the book.)*
 
 ---
 
-## Honest costs
+## Shape and scope
 
-- **This is a new book, not an adaptation.** 60–75,000 words is right for the
-  form. Six months of real work, not a conversion pass over the manuscript.
-- **It does not solve *The Upheaval*'s open items.** The personal-story gap and
-  the compression pass are still there, and this doesn't touch them.
-- **The genre is a graveyard.** Modern Pilgrim's Progress attempts are mostly
-  dreadful, which cuts both ways: the bar is low and the label is tarnished. The
-  book should probably not present itself as a Pilgrim's Progress sequel at all.
-  It should be an allegory that people *notice* is in that lineage.
-- **Bunyan is public domain** (1678), so the form, the structure, and any direct
-  homage are free and clear.
+- **55–65,000 words.** Single POV, four parts. Shorter than the braided version;
+  tighter without it.
+- **~40 short chapters.** Scene-length. Read-aloud-able.
+- Still six months of real work. Still a new book, not an adaptation.
 
-## Why it is commercially the stronger book
+## Where it leaves the other two
 
-*The Upheaval* is a serious non-fiction book about church decline and personal
-crisis, which is a hard sell and a harder gift.
+*The Upheaval* stays as it is — the map, the non-fiction, still needing your
+personal stories and a compression pass.
 
-This one is a **story**, which is giftable, readable aloud, discussable in
-groups, illustrable, and does not require the reader to already agree that they
-are in a crisis. It reaches the person who would never pick up the other one —
-and it makes *The Upheaval* the natural second purchase, because after the story
-you want the map.
-
-Sell them as a pair. The story first.
+The Body book becomes a real possibility rather than a promise: the halted caravan
+on the plain is already in this book, watched from a rise by a man who does not go
+down. If this one works, that's your open door, and readers will already have seen
+it.
