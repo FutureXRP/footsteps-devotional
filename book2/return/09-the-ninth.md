@@ -2,7 +2,7 @@
 
 ---
 
-## Fifty-Five
+## Fifty-Eight
 
 It took him a hundred and four days and he was fifty-nine years old, and there
 were four occasions on it when he thought he had made a mistake that would kill
@@ -30,7 +30,7 @@ face for a minute, and got up, and went on.
 
 ---
 
-## Fifty-Six
+## Fifty-Nine
 
 He smelled the smoke on the afternoon of the fourth day after that, and it
 frightened him, though by then there was nothing frightening about it.
@@ -102,7 +102,7 @@ leave him long.
 
 ---
 
-## Fifty-Seven
+## Sixty
 
 His name was Aldo and he was very old and he was not entirely there.
 
@@ -149,7 +149,7 @@ Steadfast opened his mouth and shut it.
 
 ---
 
-## Fifty-Eight
+## Sixty-One
 
 He told her on the second evening, out on the step, because he could not do it in
 the house.
@@ -230,7 +230,7 @@ them I would have thrown you off the fold.
 
 ---
 
-## Fifty-Nine
+## Sixty-Two
 
 He saw the wall on the third morning.
 
@@ -259,7 +259,7 @@ He did not ask her about it. She did not mention it. Neither of them ever did.
 
 ---
 
-## Sixty
+## Sixty-Three
 
 The stranger asked on the fifth day and it was almost funny that it was him.
 
@@ -307,7 +307,7 @@ not sound strange in her mouth at all.
 
 ---
 
-## Sixty-One
+## Sixty-Four
 
 He stayed eleven weeks.
 
@@ -335,7 +335,7 @@ never knew, and that was correct, and he knew it was correct at the time.
 
 ---
 
-## Sixty-Two
+## Sixty-Five
 
 He said the other thing on the last evening, on the step, which was where she had
 refused to let him say it nine years earlier.
@@ -394,7 +394,7 @@ them.
 
 ---
 
-## Sixty-Three
+## Sixty-Six
 
 He went on a clear morning.
 
