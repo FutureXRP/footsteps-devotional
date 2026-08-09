@@ -83,8 +83,8 @@ properly and said:
 
 She stopped. She had said it in the ordinary way, the way she had said it four
 hundred times over two years, pass me that, the light is going, and it had come out
-of twenty-one years of habit before she had thought about it, and she heard it, and
-he watched her hear it.
+of plain habit before she had thought about it, and she heard it, and he watched
+her hear it.
 
 — No, she said. — Sorry.
 
@@ -122,7 +122,7 @@ because the girl had not asked her to stop.
 
 He got it, then, and it went through him like cold water.
 
-There had never been a method. He had spent seven years turning a distance and a
+There had never been a method. He had spent nine years turning a distance and a
 silence into a doctrine, and building a whole practice out of it, and getting it
 wrong with a young man over a map. She had stood off from the man in the autumn
 because that man needed her to stand off. She had let Ash go because Ash was
@@ -252,8 +252,8 @@ either side of it, ugly as sin, load-bearing.
 She had taken the wall down and put it back up and left it in.
 
 He stood in front of it for a long time. Then he put his hand flat on it, the way
-he had put his hand flat on the grass twenty-two years earlier in a doorway a
-thousand miles east of there, and left it there a moment, and took it away.
+he had put his hand flat on the grass in a doorway a thousand miles east of
+there, and left it there a moment, and took it away.
 
 He did not ask her about it. She did not mention it. Neither of them ever did.
 
@@ -338,7 +338,7 @@ never knew, and that was correct, and he knew it was correct at the time.
 ## Sixty-Two
 
 He said the other thing on the last evening, on the step, which was where she had
-refused to let him say it twenty-one years earlier.
+refused to let him say it nine years earlier.
 
 — You would not let me say it, he said. — On the step. The morning I went.
 
@@ -348,7 +348,7 @@ refused to let him say it twenty-one years earlier.
 
 — I know you have, said Grieve. — That is why I would not let you. It would have
 come out wrong and you would have carried the wrong version, and I would rather you
-carried the true one for twenty years than the wrong one for one.
+carried the true one for nine years than the wrong one for one.
 
 — That is a very long game.
 
@@ -370,12 +370,12 @@ He looked at his hands.
 — Not sorry that I went. I was right to go, and you were right that I had to have
 my own reason, and I found one eventually and it took about four years. Sorry that
 it was going to cost you and that I was going to do it anyway. Both of those at
-once. I did not have anywhere to put both of those at once and I have spent
-twenty-one years finding out that you can just — hold them.
+once. I did not have anywhere to put both of those at once and I have spent nine
+years finding out that you can just — hold them.
 
 Grieve was quiet.
 
-— Yes, she said. — All right. That is worth twenty-one years.
+— Yes, she said. — All right. That is worth nine years.
 
 And then, after a while:
 

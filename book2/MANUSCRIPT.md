@@ -1,4 +1,4 @@
-### PART ONE — THE SUNDERING
+### PART ONE
 
 ## One
 
@@ -40,9 +40,11 @@ Steadfast waited.
 — It is the country, the keeper said. The country has turned underneath it. There
 is no walking back to a thing that is still there.
 
+---
+
 ## Two
 
-He had been Steadfast for eight of the nineteen years and had been given it, which
+He had been Steadfast for seven of the nineteen years and had been given it, which
 is the only way anybody gets one.
 
 Before that he had been called something ordinary that he had got from his mother
@@ -73,6 +75,8 @@ to last, and he was right about it more often than anybody he ever met.
 Nineteen years. He could have said what he was for in a sentence, and did, out
 loud, to people, without any embarrassment at all.
 
+---
+
 ## Three
 
 He spent nine days looking for it.
@@ -101,6 +105,8 @@ That was the first time he understood that the trouble was not that something ha
 been taken away. Everything was still there. The stone was there and the ford was
 there and the high crossing was there and the distances between them had not
 changed by a yard. What had gone was the thing that had joined them.
+
+---
 
 ## Four
 
@@ -131,6 +137,8 @@ who knew, and there is no way to stand in a room full of people who need you to
 know and say *I have no idea* that does not cost you the only thing you have ever
 been.
 
+---
+
 ## Five
 
 They went anyway, over the winter, in the way that a thing empties rather than
@@ -155,6 +163,8 @@ some time to work out that this was not rudeness.
 
 He was not the man who knew. He had not been for months. They had all understood
 it before he had, and had gone on being kind to him while he caught up.
+
+---
 
 ## Six
 
@@ -193,6 +203,8 @@ voice being certain.
 
 That is the whole of the reason. He would like it to have been a better one.
 
+---
+
 ## Seven
 
 Three people asked him to come with them and he said no to all three.
@@ -221,6 +233,8 @@ time — longer than was comfortable, long enough that Steadfast understood
 afterwards that it had been on purpose — and then said:
 
 — All right. Then take some food.
+
+---
 
 ## Eight
 
@@ -256,6 +270,8 @@ He stood at the edge of it for most of an hour.
 
 Then he stepped into it, and that was the whole of the ceremony.
 
+---
+
 ## Nine
 
 Four months.
@@ -287,6 +303,8 @@ stranger in a grey country asked a man what he was called, and a man who had not
 been steadfast about one single thing since a morning in a doorway heard himself
 say the word out loud, in the ordinary way, like a fact, and got away with it.
 
+---
+
 ## Ten
 
 On the last day of it he smelled smoke.
@@ -308,7 +326,7 @@ It took him the rest of the afternoon.
 And at the end of it there was a fold in the ground he had to come up over, and he
 came up over it, and stopped.
 
-### PART TWO — THE WASTE
+### PART TWO
 
 ## Eleven
 
@@ -410,6 +428,8 @@ She put the cup down and stood and started clearing, and he understood that the
 conversation was not being refused, exactly. It was being deferred to a time when
 it would be less interesting to both of them.
 
+---
+
 ## Twelve
 
 He meant to stay two nights.
@@ -493,6 +513,8 @@ repair a different wood.
 
 — Is for when I have got the first one wrong.
 
+---
+
 ## Thirteen
 
 He asked about the road on the ninth day. He had been building up to it and made a
@@ -546,6 +568,8 @@ you want to spend it differently.
 — No, he said. — That was a good one.
 
 — It was, she said, and went back to the row.
+
+---
 
 ## Fourteen
 
@@ -607,6 +631,8 @@ She went back to the pot.
 — That is the honest answer. There is a nicer one and I could give it to you but
 you would use it later on someone who deserves the honest one.
 
+---
+
 ## Fifteen
 
 The rain came at the end of the fifth week.
@@ -648,6 +674,8 @@ water, standing.
 — Huh, she said.
 
 That was all. She went in to get dry.
+
+---
 
 ## Sixteen
 
@@ -767,6 +795,8 @@ She noticed before he did.
 
 He was absurdly pleased for the rest of the day and told himself he was not.
 
+---
+
 ## Eighteen
 
 The fourth side was two stones from finished on a grey afternoon when he
@@ -814,6 +844,8 @@ He did not put the stone in. He left the gap.
 She did not mention it. It stayed open through the cold, one forearm's width, and
 they both walked past it every day and neither of them said anything about it at
 all, and that was the first thing they had that was not spoken about.
+
+---
 
 ## Nineteen
 
@@ -918,6 +950,8 @@ Ash listened, and repeated the parts back, and went.
 
 They watched her out to the top of the fold and over. She did not turn round.
 
+---
+
 ## Twenty
 
 He waited for it all day and it did not come.
@@ -995,6 +1029,8 @@ principle and you had worked it out.
 — Because you had been here three weeks, she said, — and you wanted there to be
 one.
 
+---
+
 ## Twenty-One
 
 They did not talk much for a while after that.
@@ -1028,6 +1064,8 @@ He came in and sat down. Neither of them said anything about the number or about
 what it meant or about whether there was a number that meant anything at all.
 
 After a while she got up and put the pot on.
+
+---
 
 ## Twenty-Two
 
@@ -1113,6 +1151,8 @@ exactly what he had known it would do.
 
 He did not say much for the rest of that week, and she did not ask.
 
+---
+
 ## Twenty-Four
 
 He found himself keeping a list.
@@ -1148,6 +1188,8 @@ some time in the previous year without his permission.
 
 That was the thing that frightened him. Not that the road had gone. That he had
 stopped looking at the place where it had been.
+
+---
 
 ## Twenty-Five
 
@@ -1260,6 +1302,8 @@ because I said the smoke needs two.
 Then she took the basket in, and left him on his knees in the second row with the
 whole afternoon in front of him.
 
+---
+
 ## Twenty-Six
 
 It could not be unasked.
@@ -1281,6 +1325,8 @@ of them, the cold coming, the second year's yield down on the first because of t
 late rains. He stopped himself and was ashamed, and then a day later did it again.
 
 He knew then that he was going. He did not admit it for a month.
+
+---
 
 ## Twenty-Seven
 
@@ -1336,6 +1382,8 @@ of eighty feet of honest wall — he stopped with his hands on it.
 — Leave it.
 
 He left it.
+
+---
 
 ## Twenty-Eight
 
@@ -1451,6 +1499,8 @@ differently and looking behind you will put you wrong.*
 He crossed it. He did not stop looking behind him, because she had not said he
 would be able to, only that it would put him wrong, and it did.
 
+---
+
 ## Thirty
 
 He talked to her for about a fortnight. Not aloud at first. He would come to a
@@ -1495,6 +1545,8 @@ He got out the other side and walked on and it took him until evening to work ou
 what was wrong with him, which was that he had been walking since noon at the pace
 of a man who expects to arrive somewhere.
 
+---
+
 ## Thirty-One
 
 The country went on being not quite the Waste for a long time before it was
@@ -1533,6 +1585,8 @@ that had learned in a garden not to walk into somebody else's arrangement and
 start improving it.
 
 He went on north-west along the rim and lost sight of the bowl by evening.
+
+---
 
 ## Thirty-Two
 
@@ -1655,6 +1709,8 @@ At one point Steadfast said nothing for long enough that it became a thing in th
 air, and Constant looked at him and said: — Are you all right? You keep doing
 that.
 
+---
+
 ## Thirty-Four
 
 In the morning Constant showed him the map.
@@ -1718,6 +1774,8 @@ the road was there. He had asked about a bend.
 
 — It bends, Steadfast said.
 
+---
+
 ## Thirty-Five
 
 It was true. It had bent north of the ford. It had bent that way for as long as
@@ -1780,6 +1838,8 @@ hollow with a fire wondering.
 He put his hand out. Steadfast shook it.
 
 — Thank you for the food, Constant said. — And for the bend.
+
+---
 
 ## Thirty-Six
 
@@ -1921,6 +1981,8 @@ Steadfast let out a breath he had not known he was holding, and understood he ha
 almost said something about it, and was glad he had not, and did not know which of
 those three was the useful one.
 
+---
+
 ## Thirty-Eight
 
 They went on together without either of them proposing it.
@@ -2015,6 +2077,8 @@ It did not come down. It was still standing when they left two days later, and
 Constant looked back at it from the top of the bank with an expression Steadfast
 knew from the inside.
 
+---
+
 ## Thirty-Nine
 
 Constant asked his name in the second month.
@@ -2073,6 +2137,8 @@ notice. It had been her holding the thing steady until he could pick it up.
 
 He lay in the dark with that and it was the first time since he had walked out of
 her gap in the wall that he had missed her without wanting anything from her.
+
+---
 
 ## Forty
 
@@ -2192,6 +2258,8 @@ And the smoke went. He had not built a column since the day Constant came over t
 rise at a trot. He told himself it was because he had company now, and knew that
 was not the whole of it, and did not go further with it than that.
 
+---
+
 ## Forty-Two
 
 They came over the top in the seventh week and there was a valley, and there was
@@ -2253,6 +2321,8 @@ half of it under crops and half of it still to break.
 Twelve miles, perhaps. Well to field. That was the whole of it.
 
 He stood in the middle of it for a long time.
+
+---
 
 ## Forty-Three
 
@@ -2370,6 +2440,8 @@ Constant wiped his face with the heel of his hand.
 — I have never once been that, said Steadfast, and it came out with more in it
 than he had intended, and Constant looked at him properly for the first time that
 evening.
+
+---
 
 ## Forty-Four
 
@@ -2491,30 +2563,32 @@ and took out most of the previous day.
 Rell did not mention it. She had been laying road for nine years and had run out of
 interest in men who could not be told things.
 
+---
+
 ## Forty-Six
 
 There were forty-one of them, and by the end of the first winter he could have
 told you most of what mattered about a dozen.
 
-**Rell** ran the road, in the sense that nobody else did. She was perhaps fifty
+Rell ran the road, in the sense that nobody else did. She was perhaps fifty
 and had come into the valley from the north as a girl with her mother, and had
 been on the second forty yards, and had never in her life been on the King's Road
 or wanted to be. She was not warm. She was exact and she was fair, and when she
 told you a thing was wrong she told you once, and she never once told anybody the
 same thing twice, which meant everybody listened the first time.
 
-**Ivo** was older and mended. Hinges, wheels, the windlass at the well, a boy's
+Ivo was older and mended. Hinges, wheels, the windlass at the well, a boy's
 arm once when it was set badly. He talked while he worked in a low continuous way
 that did not require answering, and Steadfast, who had spent two years with a
 woman who did not talk and a year with a man who did not stop, found that he could
 sit in Ivo's workshop for a whole afternoon and be perfectly comfortable and
 afterwards not be able to say what had been discussed.
 
-**Sal** was eight and belonged to everybody in the loose way children in small
+Sal was eight and belonged to everybody in the loose way children in small
 places do. She had two questions she asked adults, in rotation, and the first was
 whether they had ever seen the sea.
 
-And there was **Petch**, who was nineteen and had been born in the valley and had
+And there was Petch, who was nineteen and had been born in the valley and had
 never been anywhere, and who was going to matter later.
 
 ---
@@ -2541,6 +2615,8 @@ in for his dinner.
 Three days later Rell said, on her way past: — Your elbow is holding.
 
 That was all, and he thought about it for a week.
+
+---
 
 ## Forty-Seven
 
@@ -2583,6 +2659,8 @@ woman came up every day of the nine and no one suggested she should not.
 Steadfast worked the last three days of it and thought about a bulge in a wall
 eight hundred miles away and did not know what to do with the thought, so he
 carried stone.
+
+---
 
 ## Forty-Eight
 
@@ -2644,6 +2722,8 @@ while they said *the elbow*, and it turned out that a man could be a place.
 
 He noticed that Ivo never used it and never asked. Ivo said *you*, always, in a
 way that had no gap in it.
+
+---
 
 ## Forty-Nine
 
@@ -2716,6 +2796,8 @@ He apologised to Petch in the morning, badly, and Petch was mortified and said i
 was fine about eleven times, and after that the two of them worked well together
 for years.
 
+---
+
 ## Fifty
 
 The valley ate together on the first evening of every month, and it took him
@@ -2739,6 +2821,8 @@ own food was cold and he did not care at all.
 He thought, that night, that he had spent two years in a garden with a woman who
 fed every stranger who came over the fold and had never once been to a table with
 more than three people at it.
+
+---
 
 ## Fifty-One
 
@@ -2781,6 +2865,8 @@ Nobody said anything for a while. Then Petch, who was twenty-three by then and h
 still never been anywhere, said:
 
 — How much would a fire cost.
+
+---
 
 ## Fifty-Two
 
@@ -2838,6 +2924,8 @@ and Sal, who was thirteen by then, stood next to him and said: — Are you sad?
 — Because I would have done it worse, he said, and she looked at him as though he
 had made a joke, and he had not, and he did not explain.
 
+---
+
 ## Fifty-Three
 
 The carts came back in the spring with the hut built and the first household in
@@ -2866,6 +2954,8 @@ Ash, and made himself stop thinking about Ash, which he had got better at and ha
 never got good at.
 
 And then he thought: she does not know.
+
+---
 
 ## Fifty-Four
 
@@ -2989,6 +3079,8 @@ the left.
 Then he sat down on his pack in the middle of nowhere and put his hands over his
 face for a minute, and got up, and went on.
 
+---
+
 ## Fifty-Six
 
 He smelled the smoke on the afternoon of the fourth day after that, and it
@@ -3042,8 +3134,8 @@ properly and said:
 
 She stopped. She had said it in the ordinary way, the way she had said it four
 hundred times over two years, pass me that, the light is going, and it had come out
-of twenty-one years of habit before she had thought about it, and she heard it, and
-he watched her hear it.
+of plain habit before she had thought about it, and she heard it, and he watched
+her hear it.
 
 — No, she said. — Sorry.
 
@@ -3058,6 +3150,8 @@ Grieve looked at him for a moment.
 
 — Well, she said. — Come in. There is somebody in the house and I do not want to
 leave him long.
+
+---
 
 ## Fifty-Seven
 
@@ -3079,7 +3173,7 @@ because the girl had not asked her to stop.
 
 He got it, then, and it went through him like cold water.
 
-There had never been a method. He had spent seven years turning a distance and a
+There had never been a method. He had spent nine years turning a distance and a
 silence into a doctrine, and building a whole practice out of it, and getting it
 wrong with a young man over a map. She had stood off from the man in the autumn
 because that man needed her to stand off. She had let Ash go because Ash was
@@ -3103,6 +3197,8 @@ Steadfast opened his mouth and shut it.
 — You do not know who Ivo is, he said.
 
 — No, said Grieve. — But you said it like I would.
+
+---
 
 ## Fifty-Eight
 
@@ -3183,6 +3279,8 @@ She picked the cup back up.
 — Good, she said. — That is the right answer. If you had told me it was all of
 them I would have thrown you off the fold.
 
+---
+
 ## Fifty-Nine
 
 He saw the wall on the third morning.
@@ -3205,10 +3303,12 @@ either side of it, ugly as sin, load-bearing.
 She had taken the wall down and put it back up and left it in.
 
 He stood in front of it for a long time. Then he put his hand flat on it, the way
-he had put his hand flat on the grass twenty-two years earlier in a doorway a
-thousand miles east of there, and left it there a moment, and took it away.
+he had put his hand flat on the grass in a doorway a thousand miles east of
+there, and left it there a moment, and took it away.
 
 He did not ask her about it. She did not mention it. Neither of them ever did.
+
+---
 
 ## Sixty
 
@@ -3256,6 +3356,8 @@ And that was the whole of it, and it was not a ceremony, and nobody said anythin
 else about it, and by the end of that week it was what she called him and it did
 not sound strange in her mouth at all.
 
+---
+
 ## Sixty-One
 
 He stayed eleven weeks.
@@ -3282,10 +3384,12 @@ quarter of an hour, and did not open it, and put it back.
 He did not ask. She did not offer. He thought about it for the rest of his life and
 never knew, and that was correct, and he knew it was correct at the time.
 
+---
+
 ## Sixty-Two
 
 He said the other thing on the last evening, on the step, which was where she had
-refused to let him say it twenty-one years earlier.
+refused to let him say it nine years earlier.
 
 — You would not let me say it, he said. — On the step. The morning I went.
 
@@ -3295,7 +3399,7 @@ refused to let him say it twenty-one years earlier.
 
 — I know you have, said Grieve. — That is why I would not let you. It would have
 come out wrong and you would have carried the wrong version, and I would rather you
-carried the true one for twenty years than the wrong one for one.
+carried the true one for nine years than the wrong one for one.
 
 — That is a very long game.
 
@@ -3317,12 +3421,12 @@ He looked at his hands.
 — Not sorry that I went. I was right to go, and you were right that I had to have
 my own reason, and I found one eventually and it took about four years. Sorry that
 it was going to cost you and that I was going to do it anyway. Both of those at
-once. I did not have anywhere to put both of those at once and I have spent
-twenty-one years finding out that you can just — hold them.
+once. I did not have anywhere to put both of those at once and I have spent nine
+years finding out that you can just — hold them.
 
 Grieve was quiet.
 
-— Yes, she said. — All right. That is worth twenty-one years.
+— Yes, she said. — All right. That is worth nine years.
 
 And then, after a while:
 
@@ -3338,6 +3442,8 @@ was just a thing that had happened.
 
 — And I would not have had you stay, she said. — Both of those. You can hold
 them.
+
+---
 
 ## Sixty-Three
 

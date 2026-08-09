@@ -48,7 +48,7 @@ is no walking back to a thing that is still there.
 
 ## Two
 
-He had been Steadfast for eight of the nineteen years and had been given it, which
+He had been Steadfast for seven of the nineteen years and had been given it, which
 is the only way anybody gets one.
 
 Before that he had been called something ordinary that he had got from his mother

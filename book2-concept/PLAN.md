@@ -140,3 +140,52 @@ nine while they took it out.
 - **The name**: *the ninth*. Given by Grieve to a stranger who asked, as a fact
   about the arrangement of the world. She has had thirty-one; he is still the
   ninth.
+
+---
+
+## Second-draft checklist (from the full-manuscript reads)
+
+**Done now** — arithmetic, part names, cast formatting. Everything below is for the
+edit, not the draft.
+
+### Trim, at sentence level only. Target 5–10%, no scenes cut.
+- Retrospective constructions: *he understood later / which he recognised because /
+  he thought about it afterwards*. Cut 20–30% of them; keep the best.
+- *That was the thing / That was all / That was the whole of it / That was the
+  arrangement*. Their force is scarcity. Keep the killers.
+- Explanatory sentences that follow a strong image. The imagery carries more than
+  it is currently trusted to.
+
+### The three heaviest cuts, named by two readers each
+1. **Fifty-Seven's "There had never been a method."** The scene already proves it —
+   six feet, Ash, the feeding, Aldo. Cut 50–70% of the explanation.
+2. **Sixty-Two's "both things" conversation.** Content is right, resolution is
+   ~10% too clean. Rough it up: an interruption, an incomplete thought, something
+   practical happening, Grieve refusing one formulation, Steadfast getting part of
+   it wrong.
+3. **Part Two, 5–8% compression** in the middle of the garden material. No episode
+   removed.
+
+### Characters
+- **Rell** needs one human irregularity outside competence — a fear, a feud, an
+  irrational preference.
+- **Ivo** slightly underused early, which would enrich Grieve's *I am not Ivo*.
+- **Petch** needs a little more presence before Forty-Nine so the confrontation is
+  not his entrance.
+
+### Do not
+Add a villain. Explain the Sundering. Name the King. Resolve Ash. Resolve
+Constant. Restore the road. Make the valley a utopia. Add an epilogue. Say what
+the three fires mean. Inflate toward 55k — the compression is why it works.
+
+### Protected, per both reads
+The opening; Grieve's first appearance; the rain and the gutter; Ash leaving; the
+unfinished gap; the flask exchange; the map and the running after; the crossing of
+six feet; the short road; Constant going back to the woman; the shovel; the road
+failure and the old woman present at its rebuilding; the failed culverts; the
+elbow; Sal's question and *it was a good one, it was just not true*; Petch's
+challenge; the monthly table; *how much would a fire cost*; his not leading the
+expedition; the fire that already existed; his reason for returning; Grieve
+crossing the distance; the number; her crying; his refusal to say all of them were
+saved; the bulge; his hand on it; their never discussing it; the name; her *it did
+cost*; the second departure; her in the gate; the last line.

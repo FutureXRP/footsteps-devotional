@@ -50,25 +50,25 @@ interest in men who could not be told things.
 There were forty-one of them, and by the end of the first winter he could have
 told you most of what mattered about a dozen.
 
-**Rell** ran the road, in the sense that nobody else did. She was perhaps fifty
+Rell ran the road, in the sense that nobody else did. She was perhaps fifty
 and had come into the valley from the north as a girl with her mother, and had
 been on the second forty yards, and had never in her life been on the King's Road
 or wanted to be. She was not warm. She was exact and she was fair, and when she
 told you a thing was wrong she told you once, and she never once told anybody the
 same thing twice, which meant everybody listened the first time.
 
-**Ivo** was older and mended. Hinges, wheels, the windlass at the well, a boy's
+Ivo was older and mended. Hinges, wheels, the windlass at the well, a boy's
 arm once when it was set badly. He talked while he worked in a low continuous way
 that did not require answering, and Steadfast, who had spent two years with a
 woman who did not talk and a year with a man who did not stop, found that he could
 sit in Ivo's workshop for a whole afternoon and be perfectly comfortable and
 afterwards not be able to say what had been discussed.
 
-**Sal** was eight and belonged to everybody in the loose way children in small
+Sal was eight and belonged to everybody in the loose way children in small
 places do. She had two questions she asked adults, in rotation, and the first was
 whether they had ever seen the sea.
 
-And there was **Petch**, who was nineteen and had been born in the valley and had
+And there was Petch, who was nineteen and had been born in the valley and had
 never been anywhere, and who was going to matter later.
 
 ---
