@@ -97,7 +97,7 @@ body = [b for i, b in enumerate(body)
                 and (body[i + 1].startswith('<h3 class="sec"')
                      or body[i + 1].startswith('<div class="partpage"')))]
 
-HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8"><title>The Ninth — proof</title><style>
+HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8"><title>The Country Between — proof</title><style>
 @page{size:Letter;margin:22mm 24mm 20mm}
 body{font-family:Georgia,'Times New Roman',serif;font-size:11.5pt;line-height:1.75;color:#1a1a1a;margin:0}
 p{margin:0 0 .8em;orphans:2;widows:2}
@@ -113,7 +113,7 @@ p.d{margin:0 0 .5em}
 h3.sec{text-align:center;font-size:9.5pt;letter-spacing:.22em;color:#777;font-weight:normal;margin:2.6em 0 1.3em;page-break-after:avoid}
 .orn{text-align:center;color:#bbb;margin:1.5em 0;letter-spacing:.45em;font-size:9pt}
 </style></head><body>
-<div class="titlepage"><div class="t">THE NINTH</div><div class="s">an allegory</div>
+<div class="titlepage"><div class="t">THE COUNTRY BETWEEN</div><div class="s">an allegory</div>
 <div class="a">Matt Blair</div><div class="proof">PROOF COPY — NOT FOR DISTRIBUTION</div>
 <div class="meta">Complete first draft · %d sections · approx. %s words</div></div>
 """ % (TOTAL_SECTIONS, '{:,}'.format(round(words, -2)))
@@ -121,7 +121,7 @@ h3.sec{text-align:center;font-size:9.5pt;letter-spacing:.22em;color:#777;font-we
 htmlpath = '/tmp/claude-0/-home-user-footsteps-devotional/549600c6-8c94-5175-8a20-9b8adb9da429/scratchpad/novel.html'
 open(htmlpath, 'w').write(HEAD + '\n'.join(body) + '\n</body></html>')
 
-pdf = '/tmp/claude-0/-home-user-footsteps-devotional/549600c6-8c94-5175-8a20-9b8adb9da429/scratchpad/The-Ninth-draft.pdf'
+pdf = '/tmp/claude-0/-home-user-footsteps-devotional/549600c6-8c94-5175-8a20-9b8adb9da429/scratchpad/The-Country-Between-draft.pdf'
 if os.path.exists(pdf): os.remove(pdf)
 subprocess.run([
     '/opt/pw-browsers/chromium-1194/chrome-linux/chrome', '--headless', '--disable-gpu',

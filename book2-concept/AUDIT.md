@@ -1,6 +1,6 @@
 # Full audit before outside review
 
-Read end to end, 38,167 words, 78 sections, 117 pages.
+Read end to end, 38,197 words, 78 sections, 117 pages.
 
 ## Verdict
 
@@ -9,9 +9,9 @@ Read end to end, 38,167 words, 78 sections, 117 pages.
 Those are different thresholds and the gap between them is real. The book is
 finished in the sense that every scene it needs exists, the voice holds from the
 first page to the last, and nothing in it is placeholder. It is not finished in
-the sense that no human being has read it, it has no title decision, and it has
-never had a line edit. Sending it out now is exactly the right move. Putting it
-on Amazon now would not be.
+the sense that no human being has read it and it has never had a line edit.
+Sending it out now is exactly the right move. Putting it on Amazon now would not
+be.
 
 What I actually think of it, since that was the question: the second half of Part
 Two is the best writing in either book, fiction or non-fiction. Grieve works.
@@ -78,10 +78,8 @@ reader and would have cost the book credibility.
 
 ## What is genuinely not ready
 
-- **No title decision.** The proof says *THE NINTH*; the concept doc's standing
-  lean is *The Country Between*. This has been deferred twice and should be
-  settled with the reviewers' help, because it is now the one structural choice
-  still open. *The Ninth* has become much stronger since the naming scene landed.
+- ~~No title decision.~~ **Settled: *The Country Between*.** See DECISIONS.md.
+  The proof and the build now carry it.
 - **No line edit.** *which was* runs to about fifty instances and is the
   narrator's characteristic hinge — load-bearing, and also a tic. *That was the
   thing / that was all / that was the whole of it* is the same story. This wants

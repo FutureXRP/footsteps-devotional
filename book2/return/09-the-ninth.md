@@ -819,6 +819,9 @@ must have been going on elsewhere while it was being built — and Steadfast had
 nine years of it in him and could have taken the man apart and put him down
 gently, and knew the order he would have done it in.
 
+He said *when the road moved* twice. Steadfast, who had come out of a doorway one
+morning and put his hand flat on old grass, let it go both times.
+
 Grieve came in and out. She put wood on. She did the old man's food and cut it
 small and sat with him. Twice she answered something the traveller said, both
 times a plain factual answer to a factual part of it, and both times he talked

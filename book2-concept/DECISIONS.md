@@ -242,7 +242,37 @@ One reviewer read that as the four rummage sales buried in a throwaway line. It
 was not deliberate; I wrote *four* without the intent. Keeping it, and never
 pointing at it.
 
-## Title — deferred on purpose
+## Title — decided: *The Country Between*
+
+Settled after the full-manuscript audit. Reasons, recorded so it is not reopened:
+
+- **Page one confirms it.** The keeper's *it is not the road that moved — it is
+  the country* is the title said out loud in the third exchange of the novel. That
+  is the exact inverse of the objection that killed *The Road That Moved*, which
+  the same speech refutes.
+- **It describes the book.** Every country in it is a between: the Waste, the
+  country with no name, the ground that goes on being not quite the Waste for a
+  long time before it is anything else. Steadfast is between for all five parts
+  and is still between on the last page.
+- ***The Ninth* mis-sells it.** It became a strong phrase once the naming scene
+  landed, and it is still the right title for that scene — but on a cover it reads
+  thriller. A browser expects the ninth victim, the ninth gate, the ninth circle,
+  and gets a woman growing beans. Titles have to describe the book on the shelf,
+  not reward the reader on page three hundred.
+- The phrase never appears in the text, which is correct. It is the reader's name
+  for the country, not anybody's in it.
+
+*The Ninth* stays as what Grieve calls him, and as the name of the last section
+file. It is his name, not the book's.
+
+The dissenting reviewer's late beat is now in — the furious traveller in Part Five
+says *when the road moved*, twice, and Steadfast, who came out of that doorway and
+put his hand flat on old grass, lets it go both times. Delivered as restraint
+rather than as a correction, which is what that scene is about.
+
+---
+
+## Title — the original deferral, kept for the record
 
 Split 2–1 for **The Country Between**, with the dissent arguing that *The Road
 That Moved* is the thesis hidden in the title: he thinks the road moved, the book
