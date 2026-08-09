@@ -2,7 +2,7 @@
 
 ---
 
-## Forty-Five
+## Fifty-One
 
 Nobody asked him to stay and nobody asked him to go, and that was how he came to
 be there seven years later.
@@ -45,7 +45,7 @@ interest in men who could not be told things.
 
 ---
 
-## Forty-Six
+## Fifty-Two
 
 The first winter he had nowhere to be.
 
@@ -108,7 +108,7 @@ something wrong.
 
 ---
 
-## Forty-Seven
+## Fifty-Three
 
 There were forty-one of them, and by the end of that winter he could have told you
 most of what mattered about a dozen.
@@ -166,7 +166,7 @@ That was all, and he thought about it for a week.
 
 ---
 
-## Forty-Eight
+## Fifty-Four
 
 He found out about Rell in the second summer and it took him three weeks to
 understand what he had found out.
@@ -233,7 +233,7 @@ Then she said: — Your kerb run is nine short, and went on down the line.
 
 ---
 
-## Forty-Nine
+## Fifty-Five
 
 The winter after that, the road failed.
 
@@ -292,7 +292,7 @@ carried stone.
 
 ---
 
-## Fifty
+## Fifty-Six
 
 Sal asked him his name in the second summer, on the road, while he was eating his
 bread.
@@ -355,7 +355,7 @@ that had no gap in it.
 
 ---
 
-## Fifty-One
+## Fifty-Seven
 
 The valley ate together on the first evening of every month, and it took him until
 the third year to understand what that was.
@@ -399,7 +399,7 @@ was better than the alternative, which was one of them not coming.
 
 ---
 
-## Fifty-Two
+## Fifty-Eight
 
 Petch was the one who made him angry, which nobody had done in three years.
 
@@ -471,7 +471,7 @@ for years.
 
 ---
 
-## Fifty-Three
+## Fifty-Nine
 
 Bel died in the fourth winter.
 
@@ -504,7 +504,7 @@ That was the only thing anybody did.
 
 ---
 
-## Fifty-Four
+## Sixty
 
 He started talking about the Waste in the fourth year, and it took him about six
 months to get it out properly.
@@ -553,7 +553,7 @@ still never been anywhere, said:
 
 ---
 
-## Fifty-Five
+## Sixty-One
 
 It took two years and it was nothing like what Steadfast had imagined.
 
@@ -689,7 +689,7 @@ had made a joke, and he had not, and he did not explain.
 
 ---
 
-## Fifty-Six
+## Sixty-Two
 
 The carts came back in the spring with the hut built and the first household in it,
 and with a piece of news that Steadfast had not thought to want.
@@ -720,7 +720,7 @@ And then he thought: she does not know.
 
 ---
 
-## Fifty-Seven
+## Sixty-Three
 
 He told Rell first, in the workshop, which is where things got decided in that
 valley whatever anybody said about the table.
@@ -767,7 +767,13 @@ Ivo, at the other end of the bench, had not looked up either.
 
 ---
 
-He was six weeks getting ready and most of it was other people's doing.
+He did not go that year. He would not take the Waste with the cold in front of him
+and there was nobody in the valley who thought he should, and so he had a winter of
+being a man who has said out loud that he is leaving and is still there, which is
+its own particular thing and which nobody enjoyed.
+
+He went in the spring. He was six weeks getting ready and most of it was other
+people's doing.
 
 Ivo made him the flask, of a design he had been improving for four years, and was
 rude about the old one twice more before he handed it over.

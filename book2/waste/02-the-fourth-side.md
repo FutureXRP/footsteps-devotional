@@ -46,8 +46,7 @@ They worked the fourth side through the cold.
 It went slowly, because the stone had to come from further out each week and
 because the ground was hard and the days were short. He got better. He stopped
 lifting everything. Somewhere in there he found that he could stand over a stone
-with his hands at his sides and know, and the knowing arrived without ceremony,
-the way you notice you have learned a road.
+with his hands at his sides and know, the way you notice you have learned a road.
 
 She noticed before he did.
 
@@ -62,6 +61,162 @@ He was absurdly pleased for the rest of the day and told himself he was not.
 ---
 
 ## Eighteen
+
+The woman came in the middle of the cold and was the easiest guest either of them
+ever had.
+
+That was the first thing about her and it went on being the thing. She came over
+the fold at an ordinary walk in the middle of the morning, and stopped at the line
+of laid stones where the fourth side was going to be, and looked at the garden, and
+said: — May I come in through the wall or do I go round.
+
+Grieve said: — There is no round.
+
+Her name was Maud. She was perhaps forty-five. She ate what was put in front of
+her and no more, and made no performance of any of it, and asked after the beans
+like a woman asking after somebody's children.
+
+She stayed two days.
+
+She noticed the gutter on the first afternoon and stood under it with her head
+back, working out the pitch of it, and asked who had done the repairs, and said
+the third one was clever. She was out in the rows before Steadfast on the second
+morning, working, and she worked fast and low and did not need telling anything.
+She had done it before, she said. At home. A long time ago. She did not say where
+home was and neither of them asked, because that was the house they kept.
+
+On the second evening she took the bucket apart and mended the strap, which had
+been going for a month and which Steadfast had been meaning to do. It was a proper
+job. She sewed it back with a curved needle out of her own pack, and made the seam
+sit flat, and put a patch under it where the wear was going to come next.
+
+She told a story about a dog. Grieve laughed out loud, which Steadfast had heard
+twice in eight months and had both times had to look at the fire.
+
+---
+
+She asked one thing, late, when the pot was off and the three of them were sitting.
+
+— How far is it to anywhere from here.
+
+Grieve answered her the way she answered everything, which was fully and without
+decorating it. Nine days to a line of pale stone if you were sensible and routed by
+water. Past the pale stone she did not know, because she had never been. East was
+nothing and stayed nothing for as long as anybody had ever gone into it. South was
+where most people came from and there was no reason to think it had improved.
+
+Maud listened to all of it with her chin on her hand.
+
+— Right, she said.
+
+And that was the whole of it, and they went to bed, and Steadfast went over that
+conversation many times afterwards and could not find anything in it.
+
+---
+
+In the morning she was packed and standing in the gap.
+
+Grieve gave her the bundle. Bread, the hard cheese, a stoppered flask, and the
+thing about not drinking the flask on the first day, and Maud said — I know, and
+Grieve said — I know you know, and they both did the small laugh people do.
+
+— Go well.
+
+— Thank you for the two days.
+
+She went out the way she had come, north-west, up over the fold, and she did not
+turn round, and Steadfast went back to the wall.
+
+---
+
+He found the knife at the middle of the morning, clearing the table.
+
+It was under the edge of the cloth. It was a good knife, better than anything in
+the house — a working blade with a horn handle worn down to the shape of a hand
+that was not his and not Grieve's — and he picked it up and turned it over and had
+got as far as the door with it before the second thought arrived, which was the
+needle-case, which was also there, on the shelf, where she had put it down after
+the bucket.
+
+He came back in with the knife in his hand.
+
+— She has left her knife.
+
+Grieve was at the stove.
+
+She turned round, and she looked at the knife, and she did not say anything at
+all, and the not saying anything went on a beat too long — one beat, no more — and
+then she was sitting on the floor by the door pulling her boots on.
+
+— She will be two hours off, said Steadfast. — I will go. I am quicker —
+
+— Stay here and keep the fire up.
+
+— Grieve —
+
+— Keep the fire up, she said. — Put the green stuff on it. I want it seen.
+
+Then she was out through the gap in the fourth side and going up the fold at a
+pace he had not known she had.
+
+---
+
+He kept the fire up.
+
+He built it stupidly big and put green stuff on it in armfuls, wet scrub and the
+tops off the bean canes, and stood back and watched the column go up straight
+because there was no wind, and then went and got more, and burned in one afternoon
+what they would ordinarily have burned in nine days. He knew what he was doing to
+the store of wood. He did it anyway. Twice he went up onto the fold and looked
+north-west at nothing, and came back down, and put more on.
+
+Grieve came in at dark.
+
+She came in alone, and shut the door, and stood with her back against it for a
+moment before she got her boots off.
+
+— Well?
+
+— She had two hours on me, Grieve said, — and she is faster than she looks.
+
+She ate standing at the stove and did not sit down. She did not say anything else
+about it that night, or in the week after it, or ever.
+
+---
+
+He asked her one question, at the table, a day later, and she answered it.
+
+— How did you know.
+
+— I did not know.
+
+— You knew when I picked the knife up.
+
+— I knew when you picked the knife up, she said. — That is not knowing. That is
+being told.
+
+He turned his cup round.
+
+— Two days, he said. — She was here two days and she mended the bucket.
+
+— Yes.
+
+— And you did not —
+
+— No, said Grieve.
+
+That was the end of it. She got up and went out to look at the fourth side and
+what he had done to the wood pile, and did not say anything about that either.
+
+The knife stayed. She used it, every day, for everything, in the ordinary way,
+because it was the best knife in the house and she was not a woman who would have
+a good knife in a drawer. Steadfast could not look at it for about a month. Then
+he stopped noticing it, which was worse, and he noticed that he had stopped
+noticing it, which was worse again.
+
+---
+
+## Nineteen
 
 The fourth side was two stones from finished on a grey afternoon when he
 understood what finishing it meant.
@@ -111,7 +266,7 @@ all, and that was the first thing they had that was not spoken about.
 
 ---
 
-## Nineteen
+## Twenty
 
 The girl came in the thaw.
 
@@ -216,7 +371,7 @@ They watched her out to the top of the fold and over. She did not turn round.
 
 ---
 
-## Twenty
+## Twenty-One
 
 He waited for it all day and it did not come.
 
@@ -295,7 +450,7 @@ one.
 
 ---
 
-## Twenty-One
+## Twenty-Two
 
 They did not talk much for a while after that.
 
@@ -331,7 +486,7 @@ After a while she got up and put the pot on.
 
 ---
 
-## Twenty-Two
+## Twenty-Three
 
 He put the stone in on a still day at the end of the thaw.
 

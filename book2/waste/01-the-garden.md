@@ -391,8 +391,8 @@ while he was looking at the beans.
 
 — No, she said. — It is not.
 
-And then, because he had learned by then that she gave you the real thing if you
-let the silence run rather than filling it, he let the silence run.
+And then, because he had learned that she gave you the real thing if you let a
+silence run rather than filling it, he let it run.
 
 — It happens, she said eventually. — To everyone who stays past the first winter.
 

@@ -2,7 +2,7 @@
 
 ---
 
-## Fifty-Eight
+## Sixty-Four
 
 It took him a hundred and four days and he was fifty-nine years old, and there
 were four occasions on it when he thought he had made a mistake that would kill
@@ -13,6 +13,258 @@ for the first three weeks and then he was past where he had told Petch anything.
 He had Ivo's flask, which was better than the old one, and he took it out at a seam
 under a lip nine days west of the garden and held it up to the light at the angle,
 and did not laugh this time.
+
+There are two things on it worth putting down and neither of them is scenery.
+
+---
+
+## Sixty-Five
+
+He came to the hut on the eighty-fourth day and did not say who he was for about
+an hour.
+
+He had not decided to do that. He came over the last of the hard ground in the
+afternoon and there it was, on the flat where the cart track died, exactly where
+they had said and nothing like the thing he had drawn — squarer, lower, with a
+walled yard on the lee side that was not in any plan and a stack of cut brush
+against the north face taller than the building — and there was a woman in the yard
+doing something to a barrel, and she straightened up and saw him and said:
+
+— Come in and sit down.
+
+Then she went and got food.
+
+She fed him first. She asked him nothing until he had eaten and she did not watch
+him eat, and she put more in front of him without being asked, twice, and did not
+make anything of the fact that he took it. Nobody had taught her that. There was
+no possible way anybody had taught her that.
+
+Steadfast sat in the yard of a building he had argued about for two years at a
+table in a valley eight hundred miles away, and was fed by it, and did not trust
+himself to say anything for a long time.
+
+Her name was Hesta. Her husband was Fen and he came in at dusk with a boy of about
+fifteen, and it was the boy who worked it out, from the flask, because Ivo's flasks
+were known in that valley and the boy had grown up with one.
+
+— That is one of Ivo's.
+
+— It is.
+
+There was a silence of a particular kind in the yard after that.
+
+---
+
+They were good about it and they were also careful about it, and he understood
+inside about ten minutes that they had received him as an inspection.
+
+So he asked them what was wrong with it.
+
+It took Fen a while to believe he meant it and then it took him until midnight to
+finish. The pit sweated; whoever had lined it had lined it for a valley and not for
+this ground, and they had lost a winter's grain in the first autumn and had said
+nothing about it in the letter that went back with the carts. The door opened
+outward and the wind here came from the side it opened into, so that in a blow you
+could not shut it one-handed, and Hesta had done it one-handed with a lamp in the
+other hand more times than she wanted to say. The brazier on the roof was the worst
+of it. It was beautiful and it was visible for a day's walk and it was on a roof, in
+ice, and Fen had come off the ladder in the second winter and had been lucky, and
+they now lit it from a scaffold of poles they had built themselves and did not
+enjoy.
+
+Steadfast listened to all of it and wrote none of it down and did not once explain
+why any of it had been decided.
+
+At the end Fen said: — You are not arguing.
+
+— No.
+
+— The man who drew it would argue.
+
+— The man who drew it has not stood on that roof, said Steadfast.
+
+---
+
+The tally was cut into the doorpost, on the inside, where you would put your hand
+going out.
+
+Nineteen.
+
+He asked and Hesta told him, and she told him the rest of it in the same voice,
+because it was all the same list to her: that two of the nineteen had died here,
+one within a day of coming in and one after nine days of being nursed, and that
+they were buried out past the brush stack under stones because the ground was hard,
+and that a woman who came through in the first summer had come back through going
+the other way in the spring and had stopped for a night and been well.
+
+— Nineteen, said Steadfast.
+
+— Nineteen, said Hesta. — Some of them are the same person twice. I count them
+twice. I do not know if that is right.
+
+— It is right.
+
+— Yes, she said. — That is what I thought.
+
+---
+
+He asked, on the second morning, whether they had been west.
+
+Fen said no.
+
+— It is four days.
+
+— It is four days there, said Fen, — and four days back, and a day at the far end
+if she is what you say she is, and that is nine days with nobody at the fire.
+
+Steadfast opened his mouth.
+
+— I have thought about it, said Fen. — I have thought about it since the carts
+told us she was there. I have got as far as working out that if I go and somebody
+comes and there is nobody here, then I have swapped a woman who has managed for
+twenty years without me for whoever that is.
+
+He picked up the barrel lid.
+
+— If you tell her about us, tell her we know. That is all I have got.
+
+Steadfast said that he would.
+
+The boy walked him out to the edge of the hard ground in the morning and asked him
+four questions about the valley, all of them about the road, and the last one was
+whether it was true that it did not go anywhere.
+
+— It goes from a well to a field.
+
+— That is what my father said, said the boy. — I did not believe him.
+
+---
+
+## Sixty-Six
+
+He went north because of nothing except that he had four days of food and it was
+forty miles.
+
+He found them on the third day, which was luck. There was a seam under a long low
+scarp and there was a wall at the foot of it — a proper wall, chest high, dry-laid,
+running about eighty feet — and a roof of brush on poles over a stone trough, and
+the trough was full.
+
+There was nobody at it.
+
+He drank. The water was cold and clean and there was a wooden cup on a peg with a
+hole bored through the handle, and he put it back on the peg, and stood there
+looking at the arrangement and understanding roughly none of it.
+
+They came out to him after about a quarter of an hour, which meant they had been
+watching him for a quarter of an hour. Two women and a man, none of them young. The
+man carried nothing and stopped a good way off.
+
+— The water is free, he said. — There is no charge and there is no ask. Drink what
+you want and fill what you carry.
+
+— Thank you.
+
+— And you do not come inside the wall.
+
+---
+
+He was there most of a day and he never went inside the wall.
+
+That was the whole of the arrangement and it was not negotiable and they were not
+unkind about it. The man was Orrin. The older woman was Beck and she did most of
+the talking, which was not much. The younger one was Til and she said almost
+nothing at all.
+
+They filled the trough by hand every morning from the seam, which took the three of
+them two hours, and they had done it every morning for three years, and anybody who
+came got water and got it without being looked at twice. They gave nothing else.
+No food. No fire. Nobody slept under the brush roof and nobody slept inside the
+wall.
+
+Steadfast asked why, once, because he could not help it.
+
+— We did that, said Orrin.
+
+And that was the whole of the answer, and Steadfast, who had spent nine years
+learning what a closed door sounds like, did not put his hand on it.
+
+---
+
+He told them about the hut anyway. He had come forty miles to do it and he did it
+badly.
+
+He told them there was a fire four days south-west of them, and a woman four days
+west of that, and eight hundred miles east a valley that had built the first one
+and would build another if there was a reason, and that none of them had known
+about any of the others until this year, and that he was the only person alive who
+had been in more than one of the three places.
+
+Beck heard him out. She was patient about it in the way you are patient with a man
+selling something.
+
+— How far is the hut.
+
+— Three days if you are quick. Four.
+
+— And what do you want us to do about it.
+
+Steadfast found that he had not got past the telling. He had spent two years and
+eight hundred miles on the telling and had never once got to the next sentence, and
+he stood there at somebody else's trough and heard himself go through it — that
+they could send somebody, that they could trade, that the valley had grain and this
+place had water and a cart could be got within two days of the hut, that if a man
+came through here going south-west somebody could say the words *four days,
+south-west* —
+
+— We could, said Beck.
+
+— Yes.
+
+— And we might, she said. — Or we might not, and either way you are not going to
+know, because you are going west in the morning.
+
+She said it without any edge on it at all. It was the plainest sentence anybody had
+said to him in nine years.
+
+— We know now, she said. — That is what you came for. You have got it.
+
+---
+
+He got the water and he went in the morning and nobody walked him out.
+
+Except that Til came after him about half a mile on and caught him up on the flat
+and stood there with her hands in her sleeves.
+
+— The valley, she said. — The one that built the hut.
+
+— Yes.
+
+— Is the road real.
+
+He told her. He told her the whole of it, twelve miles, well to field, nine years
+of it, the sections where the hands changed, the woman who had laid four hundred
+bad yards and had gone back and done them again in her sixties, the fact that you
+could walk the entire length of it and back before your dinner and be exactly where
+you started. He heard himself telling it to a stranger in the middle of nowhere and
+did not stop.
+
+Til listened all the way through.
+
+Then she asked two more questions. One was how many people, and one was how they
+had decided who did which forty yards, and he answered both, and she nodded at the
+answers as though she were checking them off against something.
+
+— Right, she said.
+
+And she went back.
+
+He watched her go for a while, and then turned round and went west, and he never
+found out, and he thought about it for the rest of his life.
+
+---
+
+## Sixty-Seven
 
 He came at the country from the wrong side, which is to say from the side he had
 left by, and everything he had been told to look for he had been told to look for
@@ -30,7 +282,7 @@ face for a minute, and got up, and went on.
 
 ---
 
-## Fifty-Nine
+## Sixty-Eight
 
 He smelled the smoke on the afternoon of the fourth day after that, and it
 frightened him, though by then there was nothing frightening about it.
@@ -102,7 +354,7 @@ leave him long.
 
 ---
 
-## Sixty
+## Sixty-Nine
 
 His name was Aldo and he was very old and he was not entirely there.
 
@@ -123,11 +375,7 @@ because the girl had not asked her to stop.
 He got it, then, and it went through him like cold water.
 
 There had never been a method. He had spent nine years turning a distance and a
-silence into a doctrine, and building a whole practice out of it, and getting it
-wrong with a young man over a map. She had stood off from the man in the autumn
-because that man needed her to stand off. She had let Ash go because Ash was
-twenty-two and packed and going. She had fed Steadfast first and asked nothing
-because he had been four months out and could not have answered anything.
+silence into a doctrine, and had got it wrong with a young man over a map.
 
 And she was cutting an old man's food up small because that was what was in front
 of her now.
@@ -149,7 +397,7 @@ Steadfast opened his mouth and shut it.
 
 ---
 
-## Sixty-One
+## Seventy
 
 He told her on the second evening, out on the step, because he could not do it in
 the house.
@@ -164,14 +412,15 @@ Grieve did not say anything.
 — On the hard ground where a cart can come within two days. There is a stone hut
 with water in it and dry wood and food in a sealed pit, and a brazier on the roof
 that whoever is living there keeps lit. Four households out of a valley eight
-hundred miles from here take it a year each. The first one has been in it a year
-and a half.
+hundred miles from here take it a year each. The first one has been in it fifteen
+months.
 
 Still nothing.
 
-— And there was already one, he said. — Forty miles north of where we built. A man
-and two women at a seam. Three years before we got there and they had never heard
-of anybody and neither had we.
+— And there was already one, he said. — Forty miles north of that. A man and two
+women at a seam with a wall round it. Three years before we built, and they had
+never heard of anybody and neither had we. I stood at their trough twelve days ago
+and drank out of a cup on a peg.
 
 He made himself stop.
 
@@ -185,8 +434,8 @@ silence run three beats past comfortable, let this one run as long as it wanted.
 
 — The number they have had. At the hut. Say it.
 
-— Nineteen, he said. — In eighteen months. The first household counted because I
-asked them to.
+— Nineteen, he said. — In fifteen months. They counted before I got there. I did
+not have to ask.
 
 Grieve put the cup down on the step.
 
@@ -230,7 +479,36 @@ them I would have thrown you off the fold.
 
 ---
 
-## Sixty-Two
+He gave her the message two days later, over the beans, because there had been no
+way to give it on the step.
+
+— The man at the hut. Fen. He asked me to tell you that they know you are there.
+
+Grieve went on working down the row.
+
+— Is that all of it.
+
+— He said it was all he had got.
+
+— Yes, she said.
+
+She moved along on her knees and did the next plant and the one after it, and
+Steadfast had got as far as deciding that was the end of it when she said, without
+turning round:
+
+— Four days.
+
+— Four days.
+
+— I have been four days from a fire for fifteen months, she said, — and I have
+been sitting here doing my arithmetic every night of it.
+
+She sat back on her heels and looked out east at nothing in particular, and he did
+not say anything, and after a while she went back to the row.
+
+---
+
+## Seventy-One
 
 He saw the wall on the third morning.
 
@@ -259,7 +537,7 @@ He did not ask her about it. She did not mention it. Neither of them ever did.
 
 ---
 
-## Sixty-Three
+## Seventy-Two
 
 The stranger asked on the fifth day and it was almost funny that it was him.
 
@@ -307,7 +585,96 @@ not sound strange in her mouth at all.
 
 ---
 
-## Sixty-Four
+## Seventy-Three
+
+He noticed Aldo's hands in the first week.
+
+The old man sat in his bad chair with the blanket over his knees and his hands
+went, all day, in his lap, and Steadfast had taken it for the ordinary restlessness
+of a man with nothing left to do until he sat opposite him one afternoon with
+nothing of his own to do and actually watched.
+
+They were not restless. They were doing something. The left one held and turned
+and the right one went over and under and came back, over and under, at a rhythm,
+and stopped at the same place each time and started again.
+
+He watched for most of an hour and then went out and split four bean canes down
+their length with a knife, and soaked them in the barrel for a day, and on the
+third morning he put them in the old man's lap.
+
+Aldo looked at them. He did not look pleased or interested and he did not say
+anything about them. His hands went into the pile and started, and by the middle
+of the afternoon there was a basket.
+
+It was a good basket. It was better than anything in the house. The rim was worked
+back on itself in a way Steadfast had never seen and there was not a loose end
+anywhere on it, and when it was done Aldo's hands went on in his lap over the top
+of it, over and under, at the same rhythm, and he looked at the door.
+
+Steadfast could not thank him. That was the part. There was nobody there to
+thank — the man who had done it was not available to be told he had done it, and
+saying so would only have produced something pleasant and beside the point.
+
+He took it in and put it on the table.
+
+Grieve came in at dark and saw it and picked it up and turned it over once. Then
+she put it by the door with the other one, and in the morning she took it out to
+the rows and filled it, and used it every day after that, in the ordinary way,
+because it was the best basket in the house.
+
+---
+
+There was a bad night in the fourth week.
+
+Aldo woke in the dark and did not know where he was and was frightened, properly
+frightened, the fear of a man in a strange room, and he called out. He called out a
+name. It was not Grieve.
+
+— Nan, he said. — Nan.
+
+And Grieve, from the other side of the room, in the dark, with her voice exactly as
+it always was: — I am here.
+
+He said it perhaps forty times over the next two hours and every single time she
+answered it, and after the first hour she got up and sat by him and let him hold on
+to her forearm, and answered it lying with her head back against the wall with her
+eyes shut, and did not once say her own name or his or the words *it is all right*.
+
+In the morning she was up before either of them and had the pot on.
+
+Steadfast said, at the table: — Who is Nan.
+
+— I do not know.
+
+— And you did not —
+
+— He gets about four hours back if somebody answers, said Grieve. — I do not need
+to know who she is.
+
+She put a bowl in front of him.
+
+— Do not tell him about it, she said. — He will not know what you mean and he will
+be embarrassed, and he cannot do anything with embarrassed. He has nowhere to put
+it down.
+
+---
+
+Steadfast washed him for the first time in the sixth week and made a bad job of
+it, and Aldo was patient with him, which was the wrong way round and could not be
+helped.
+
+He got better at it. He got better at the food too, which was cutting things small
+and putting the fork where the hand would find it and talking the whole time in a
+low continuous way about nothing, and he found after a while that he did not have
+to think about what to say, because it did not matter what he said, and that this
+made it the easiest talking he had done in nine years.
+
+It was the hardest work he did in the whole of the visit and there was nothing in
+it that anybody would ever be able to call anything.
+
+---
+
+## Seventy-Four
 
 He stayed eleven weeks.
 
@@ -324,6 +691,132 @@ He built forty yards of a new wall on the west side of the second enclosure and
 did it properly, and Grieve watched him lay six stones without lifting any of them
 and said nothing at all, and went inside, and he heard the pot go on.
 
+---
+
+## Seventy-Five
+
+Somebody came over the fold in the eighth week and Steadfast watched the whole of
+it from inside the house, which he had never done.
+
+The man was five months out and he was furious.
+
+That was clear from the top of the fold. He came down it fast and badly, at the
+stumble a man does when he will not slow down, and he came in through the gate
+without stopping at anything and stood in the middle of the yard and looked round
+at the rows and the canes and the second enclosure and the two chimneys, and said,
+loudly, to nobody:
+
+— Well, that is nice.
+
+Grieve came out of the far rows with the basket on her hip.
+
+— There is food, she said. — In the house. Help yourself, it is on the shelf by
+the stove.
+
+— You have got *canes*.
+
+— I have.
+
+— I have been five months, he said. — Five months. I have eaten grass. Do you
+know that there are people two weeks south of here on their knees, and you have
+got a gate —
+
+— The bread is the round one, said Grieve. — Not the flat one, that is for the old
+man, he cannot manage the crust.
+
+And she went back to the rows.
+
+---
+
+He ate. He ate a great deal and he was ashamed of eating it and got worse
+afterwards, not better, which Steadfast had seen before and had a name for and
+half a dozen things he would ordinarily have done about.
+
+He sat at the table in the house and did not do any of them.
+
+He could have. That was the thing he sat with for the whole of that evening, with
+his hands round a cup and the man across the table from him going at it — about the
+south, about the road, about people who sit in holes with walls round them while
+the country dies, about how long it must have taken to build all this and what
+must have been going on elsewhere while it was being built — and Steadfast had
+nine years of it in him and could have taken the man apart and put him down
+gently, and knew the order he would have done it in.
+
+Grieve came in and out. She put wood on. She did the old man's food and cut it
+small and sat with him. Twice she answered something the traveller said, both
+times a plain factual answer to a factual part of it, and both times he talked
+over the end of it.
+
+She never once tried to bring him down.
+
+Steadfast did, in the end. He could not sit in it any longer and he said something
+about how the wall had taken nine years and had been two people, and it came out
+placating, and the man turned on him and asked him what exactly he was, then,
+sitting there, and Steadfast found that he did not have an answer that would fit
+in the room.
+
+Grieve did not look up.
+
+The man went out to the lean-to about an hour later and shut the door hard enough
+to be heard.
+
+---
+
+— You did not say anything to him, Steadfast said, when the house was quiet.
+
+— No.
+
+— I would have.
+
+— I know, said Grieve. — You did.
+
+He turned his cup round.
+
+— Was I wrong.
+
+Grieve thought about it, which he had not expected, and took long enough that he
+knew she was actually doing it.
+
+— I do not know, she said. — He is nine days from anywhere and neither of us is
+ever going to find out.
+
+She got up and banked the stove.
+
+---
+
+In the morning the man was different, the way they are. He was quiet and would not
+look at either of them and stood by the gate with his pack on, and said, to the
+ground:
+
+— I am sorry about last night.
+
+— You ate and you slept, said Grieve. — That is what it is for.
+
+Steadfast had packed the bundle.
+
+He had done it while she was out at the barrel, without asking her and without
+being told, taking the cloth down from the shelf where it lived and doing the three
+things and tying it — bread, the hard cheese, a stoppered flask — and he came out
+and put it in the man's hands.
+
+— Two days of it, he said. — Do not drink the flask on the first day, no matter
+what you tell yourself about the second.
+
+The man nodded and went out through the gate and up the fold and did not turn
+round.
+
+Grieve had come back with the barrel lid in her hand and had stopped and watched
+the last part of it from the corner of the house.
+
+She looked at the knot for a moment.
+
+Then she went and put the lid on the barrel and got on with the morning, and did
+not say anything about it that day, or the next, or ever.
+
+---
+
+## Seventy-Six
+
 And one evening she took a box out from under the shelf by the stove.
 
 It was wooden and about the size of two hands and it had a lid that fitted. She
@@ -335,7 +828,7 @@ never knew, and that was correct, and he knew it was correct at the time.
 
 ---
 
-## Sixty-Five
+## Seventy-Seven
 
 He said the other thing on the last evening, on the step, which was where she had
 refused to let him say it nine years earlier.
@@ -367,36 +860,64 @@ ready and it was not that.
 
 He looked at his hands.
 
-— Not sorry that I went. I was right to go, and you were right that I had to have
-my own reason, and I found one eventually and it took about four years. Sorry that
-it was going to cost you and that I was going to do it anyway. Both of those at
-once. I did not have anywhere to put both of those at once and I have spent nine
-years finding out that you can just — hold them.
+— Not sorry that I went. Sorry that it was going to cost you and that I was going
+to do it anyway, both at once, and I did not have anywhere to put both of those at
+once for a very long time.
 
-Grieve was quiet.
+— And now you have.
 
-— Yes, she said. — All right. That is worth nine years.
+— Now I have got somewhere to put them. I could not tell you where it is.
 
-And then, after a while:
+Aldo said something from inside, twice, and Grieve got up and went in and was gone
+four or five minutes, and came back out and sat down further along the step than
+she had been, and neither of them picked it up in the same shape.
+
+— You said I was right, he said, after a while. — On that morning. That I had to
+have my own reason for staying and could not have yours.
+
+— I did.
+
+— You were right.
+
+— I was not, said Grieve. — I said it because I had said yes to a man once and had
+to watch what it did to him for four years, and I was not going to be able to do
+that twice. It has come out well. That is not the same as my having been right, and
+I am not going to be handed it now as though it were.
+
+She pulled her sleeve down over her hand.
 
 — It did cost.
 
 — I know.
 
-— I am telling you because you have got old enough to hear it without turning it
-into a reason to stay. It cost. It cost for about two years, badly, and then it
-was just a thing that had happened.
+— I am telling you because you are old enough to hear it without turning it into a
+reason to stay. It cost for about two years, badly, and then it was a thing that
+had happened.
 
 — Yes.
 
-— And I would not have had you stay, she said. — Both of those. You can hold
-them.
+— And I would not have had you stay.
+
+He waited for her to put the two of them together, because she had put two things
+together in front of him a hundred times and it was the thing she did.
+
+She did not. She sat there and let both of them lie where they were, and after a
+while he understood that she was not going to, and that it was not delicacy.
+
+— Right, he said.
+
+— The gate wants a new strap, said Grieve. — There is hide in the crate under the
+bench. Do it in the morning while the light is on that side.
 
 ---
 
-## Sixty-Six
+## Seventy-Eight
 
 He went on a clear morning.
+
+He did the gate strap first, in the flat light, with the hide off the crate under
+the bench, and it took him about twenty minutes, and it was a better strap than the
+one that had been on it and neither of them said so.
 
 She packed him two days of food, the same cloth, the same three things, and
 neither of them said anything about that either, and this time he laughed while

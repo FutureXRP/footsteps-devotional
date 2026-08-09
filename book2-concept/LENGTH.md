@@ -1,6 +1,11 @@
 # Getting to 50,000 — what it would cost and what it would buy
 
-Current: **25,900**. The question is whether +24,000 helps or hurts.
+> **Status: the enrichment pass below is complete.** 25,900 → **37,500** words, 78
+> sections, 116 pages. Everything in *What I would actually add* was written, plus
+> *the other fire*, plus the two heaviest named cuts from the second-draft
+> checklist. Log at the bottom of this file.
+
+Current at time of writing: **25,900**. The question is whether +24,000 helps or hurts.
 
 The answer depends entirely on which of two things you mean by "longer."
 
@@ -148,3 +153,108 @@ written for a number rather than for the story, and it would show.
 
 If 50,000 is a hard requirement, write the other fire — and write it as a failure
 to connect.
+
+---
+
+# What was actually written
+
+25,900 → **37,510** words · 66 → **78** sections · 116 pages.
+
+### The valley: 4,147 → 6,388 (+2,241)
+Ivo's workshop in the first winter. **Rell cannot read** — the slate scene, and her
+flat refusal to be taught. Petch noticed for his hands two scenes before his
+confrontation. **Bel** named, given a kerb, and killed in the fourth winter, with
+the only marking being Rell walking the relaid section alone before light. A
+monthly table where a man stands up and leaves on a date nobody explains. The fire
+project as a lived two years: the chalk, the stall over a pregnancy, Ivo's *you are
+a persuasive man in a bad way*, the fourth household arriving from the two men who
+do not speak. Rell's parting gift is a blank slate.
+
+### Constant on the road: +3,008
+**The day they did not walk** — Constant simply refuses to move, and Steadfast
+repacks two packs, mends a strap that is not going, and cannot answer *what happens
+if you stop*. **The cache** — the disagreement about something other than the road,
+two readers asked for it twice. Constant's country takes a third and marks the lid;
+Steadfast's country says you do not go into the store. Nobody is a villain; both
+rules are good; Steadfast eats the grain and has two helpings. Six weeks later,
+hungry, he says *we should have taken the salt*, and Constant does not enjoy being
+right. **His mother**, told badly, and *who is going to be glad you are alive* —
+answer, one, and he shouted at her and left.
+
+### Grieve's other travellers: +2,900
+**Maud** — the one she gets wrong. Two easy days, a mended bucket strap, one
+ordinary question about distance answered fully and well, and a good knife left
+under the cloth in the morning. Grieve goes after her, alone, and comes back alone
+at dark and never mentions it again. The knife stays in daily use. This is the only
+way the reader learns before Steadfast that there was never a method — and it is a
+*different* failure from Ash: with Ash she withheld and was right; with Maud she
+answered and was wrong.
+**Corr** — the worst of them, rude and comfortable and sixty, who asks with his
+mouth full the question Steadfast has not asked in two years, and gets Grieve's
+whole arrival in three sentences. *Nobody has asked me.* Also gives the one true
+useful thing on his way out: the north gutter joint is going.
+The count is now stated properly: thirteen in eleven years, nine of them before
+him. Steadfast stays the ninth for the rest of the book.
+
+### The Slow Country crossing: +1,300
+**The overhang** — somebody's hearth, somebody's spoon, and a tally the size of a
+door that stops. He sleeps there, sets the hearth again, leaves wood on the ledge,
+and stands with his knife in front of the four deep ones and puts it away.
+**The man who would not come** — a figure on a skyline who watches his signal fire
+all night and then walks off it at an ordinary pace. Pays Grieve's *he saw the
+smoke and chose not to come* from the other side, and is never interpreted.
+
+### The Return: +2,000 and then some
+**Aldo's hands** — split bean canes put into his lap, and a basket better than
+anything in the house, made by a man who cannot be thanked. Grieve uses it next
+morning without comment, exactly as she uses Maud's knife. **The bad night** — he
+calls her Nan and she answers to it for two hours. **A traveller arriving while he
+is there** — a furious man five months out, watched from inside the house, where
+Steadfast has nine years of technique and uses none of it, once badly. *He is nine
+days from anywhere and neither of us is ever going to find out.* In the morning
+Steadfast packs the bundle without being asked and Grieve looks at the knot and
+says nothing.
+
+### The other fire: +3,100
+Written, and written as a failure to connect.
+**The hut** on the eighty-fourth day, which feeds him first before anybody knows
+who he is — nobody taught them that. He asks what is wrong with the thing he
+designed and gets two hours of it: the pit sweats, the door opens into the wind,
+the brazier is on a roof in ice. Nineteen on the doorpost, two of them buried past
+the brush stack. Fen has thought about walking the four days west for fifteen
+months and has worked out that it costs nine days with nobody at the fire.
+**Forty miles north**: Orrin, Beck and Til, who give water to anyone and nothing
+else and will not have you inside the wall, because *we did that*. Beck hears the
+whole speech out and says *and what do you want us to do about it* — and then *we
+know now; that is what you came for.* He connects nobody. Til follows him half a
+mile onto the flat to ask whether the road is real, listens to the whole answer,
+asks two more questions, says *right*, and goes back, and he never finds out.
+
+### Cuts made, from the second-draft checklist
+1. **There had never been a method** — the three-clause explanation cut by ~60%.
+   Maud now does that work on the page, hundreds of pages earlier.
+2. **The both-things conversation** — roughed up as asked: Aldo interrupts and they
+   restart in a different shape, Grieve refuses to be handed *you were right*, and
+   she declines to put the two halves together at the end. It closes on a gate
+   strap.
+3. Part Two compression: four explanatory sentences cut where they trailed a strong
+   image. The rest of the 5–8% is a line-edit against the printed proof, not a
+   drafting job — the *which was* hinge is 51 instances and is load-bearing in this
+   voice, so it wants a pen and a page, not a regex.
+
+### Held throughout
+No double-quote characters. No prophetic retrospection. Nobody realises they are
+speaking in aphorism. *Eleven* still only descends from Grieve. Ash unresolved. The
+bulge unexplained. The Caravan seen once and not understood. Six feet planted as
+craft, practised three times, crossed twice — by Steadfast toward Constant and by
+Grieve toward him.
+
+### Arithmetic corrected in passing
+The hut could not be fifteen months old if Steadfast left six weeks after the carts
+came home. He now waits out the winter — *he would not take the Waste with the cold
+in front of him* — and everything downstream (fifteen months, nineteen, twelve days
+ago) reconciles.
+
+### Rebuild
+`python3 book2/build-novel.py` renumbers every section sequentially, reassembles
+`book2/MANUSCRIPT.md`, and prints the proof PDF via headless Chromium.

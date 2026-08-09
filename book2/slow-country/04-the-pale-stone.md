@@ -2,7 +2,7 @@
 
 ---
 
-## Twenty-Nine
+## Thirty-One
 
 He read the ground for nine days.
 
@@ -38,7 +38,7 @@ would be able to, only that it would put him wrong, and it did.
 
 ---
 
-## Thirty
+## Thirty-Two
 
 He talked to her for about a fortnight. Not aloud at first. He would come to a
 slope and think *she would go round that* and go round it, and be pleased, and
@@ -84,7 +84,7 @@ of a man who expects to arrive somewhere.
 
 ---
 
-## Thirty-One
+## Thirty-Three
 
 The country went on being not quite the Waste for a long time before it was
 anything else.
@@ -93,6 +93,50 @@ Nobody had told him about that, and there was no day on which anything had
 improved enough to name. Water more often. Not water. Ground that took a print,
 so that he could see where he had walked, which he had not been able to do for
 two years and which he found he did not enjoy as much as he had expected.
+
+---
+
+He came on the overhang in the third week and it was the best shelter he had had
+since the lean-to.
+
+It faced south out of a low scarp, dry back to the rock, deep enough that a man
+could stand up under it at the mouth and lie down at the back with his feet under
+cover. There was a hearth. Not a burnt patch — a hearth, three stones set to make a
+draught, and the ash under it packed down grey and hard from being used and used.
+
+There was a sack, folded, on a ledge at head height. There was a wooden spoon in
+the sack, and nothing else in it.
+
+And there were the marks.
+
+They were on the back wall where the rock went smooth, and they were made with
+something harder than the rock, scratched deep, in fives, in rows, the way a man
+counts when he is not going to be checked. The rows were regular for a long way.
+Steadfast counted the first three rows carefully and then stopped counting and
+looked at the size of the block of them instead, which was about the size of a
+door, and did his arithmetic on that, and got a number he did not want.
+
+Toward the bottom right the rows stopped being regular. There was a gap. Then
+there were four more, unevenly spaced and set deeper than the rest, and then
+nothing, and then a great deal of clean rock.
+
+He put his hand flat on the clean rock and it was cold.
+
+He slept there. He had known within a minute that he was going to and had spent an
+hour finding reasons not to. It was the best night's sleep he had had since the
+garden, and he woke before light with the fire down to nothing and lay looking at
+the wall in the dark where he knew the marks were.
+
+In the morning he swept the hearth out and set it again, three stones, and laid
+what dry stuff he had not burned on the ledge beside the sack, which was a thing
+he had done four hundred times at a lodging house without ever once thinking about
+it.
+
+He stood with his knife in his hand for a while in front of the four deep ones.
+
+He put the knife away and went on.
+
+---
 
 He passed a thing on the tenth day out from the watercourse that he did not
 understand.
@@ -125,7 +169,7 @@ He went on north-west along the rim and lost sight of the bowl by evening.
 
 ---
 
-## Thirty-Two
+## Thirty-Four
 
 He was ill in the spring.
 
@@ -172,5 +216,43 @@ in a way he could not get rid of all morning.
 
 He did the same thing eleven days later, in a different place, and again nobody
 came, and he was less foolish about it the second time.
+
+---
+
+Except that somebody had come, and he found that out in the morning.
+
+He went up onto the shoulder above the burnt patch at first light out of habit, to
+look at the country and pick his line, and there was a man standing on the far
+side of a shallow valley about a mile off, with the light behind him, not walking.
+
+He was standing the way you stand when you have been standing a while.
+
+Steadfast put his arm up.
+
+Nothing happened. He put both arms up and swung them, which is not a thing that
+can be mistaken for anything else, and the figure did not move, and he was near
+enough to be sure it was a man and far enough that he could not have said his age
+or what he carried.
+
+He shouted. The distance ate most of it.
+
+Then he went down off the shoulder into the valley, and he went fast, because the
+ground was good, and he was halfway across and could see the man properly — a pack,
+a stick, a hat of some kind — and the man turned and walked away over the rise
+behind him at an ordinary pace.
+
+Not running. That was the part Steadfast could not get by. A man running from
+something is a man in a state you can imagine. This one walked off the skyline the
+way you leave a field.
+
+He went up the other side anyway, because he had come that far, and at the top
+there was a long open slope going down with nothing on it at all, and no cover for
+half a mile in any direction, and no man.
+
+He stood there for a good while.
+
+Then he went back down and across and got his pack from beside the burnt patch,
+which took him most of the morning, and scattered the ash properly and trod it
+out, and did not build another fire for nine days.
 
 The third time somebody came.

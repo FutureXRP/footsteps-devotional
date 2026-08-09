@@ -4,7 +4,7 @@
 
 ---
 
-## Twenty-Three
+## Twenty-Four
 
 The second year was easier, and that was the problem.
 
@@ -49,7 +49,7 @@ He did not say much for the rest of that week, and she did not ask.
 
 ---
 
-## Twenty-Four
+## Twenty-Five
 
 He found himself keeping a list.
 
@@ -67,8 +67,8 @@ well, and every time he went through it now he thought: that is done as well.
 
 By the end of the second year the list was: she is here.
 
-He turned that over on the step one evening while she was inside doing something
-with the pot, and he found that it did not frighten him the way he expected. What
+He turned that over on the step one evening and found that it did not frighten him
+the way he had expected. What
 frightened him was the sentence underneath it, which he got to about a week later
 and which was: *and I have stopped asking whether that is a reason.*
 
@@ -87,7 +87,145 @@ stopped looking at the place where it had been.
 
 ---
 
-## Twenty-Five
+## Twenty-Six
+
+Corr came in the second summer and was the worst of them.
+
+He came over the fold in the afternoon at a good pace for a man of sixty, and
+stood in the gap that was no longer a gap, and looked at the beans and the rows and
+the house and the smoke going up out of the chimney, and said:
+
+— Well. Somebody has done all right for themselves.
+
+He was not half dead. He was not anything. He had food in his pack and a fat on
+him that nobody four months out of the south has, and he came in and sat down at
+the table without being asked twice and ate a great deal and said the cheese was
+strong.
+
+He asked how much was in the barrel. He did not like the answer.
+
+— And you have not dug.
+
+— There is no water under this ground, said Steadfast.
+
+— Men say that about most ground.
+
+He asked what they did about the cold. He asked whether the beans were worth the
+work, given the water. He looked along the north run of the wall from where he was
+sitting, and found the bulge inside a minute, which nobody else ever had, and said
+— Who did that one, and Grieve said — He did, and Corr laughed for a while.
+
+Steadfast washed the pot with his back to the room and found that he was in a
+state he had not been in for two years and did not have anything to do with it.
+
+---
+
+Then Corr said, with his mouth full: — How did you end up out here, then.
+
+And Grieve told him.
+
+— I came out of the south with my sister. She died on the sixth day. I sat down
+where I was and did not get up for a while, and while I was sitting there it
+rained, and I was still there when it rained again.
+
+Corr chewed.
+
+— And you never went on.
+
+— No.
+
+— Seems a waste, he said. — Is there more of that bread.
+
+There was more of the bread.
+
+---
+
+He stayed four days, which was two more than anybody had, and he was work the
+whole time. He did not lift anything. He watched Steadfast lift things and told
+him about a better way that he had seen once. He wanted his water at the times he
+wanted it. On the third evening he explained the road to them both — where it had
+gone and why and whose fault it had been — for the better part of an hour, and it
+was all nonsense, and Grieve listened to the whole of it and asked him two
+questions that let him go on longer.
+
+On the fifth morning he went.
+
+He got to the wall and turned round with his pack on and looked back at the roof,
+and said: — Your north gutter joint is going. Not this year. Next.
+
+Then he went over the wall and away south, and he was right about the joint; they
+had it off within the week and the wood behind it was soft as bread.
+
+---
+
+Steadfast said it that night and could not stop himself.
+
+— You should not have answered him.
+
+— Which part.
+
+— About your sister. He was rude to you at your own table and he was rude about
+the wall and he ate nine days of the store and he called your life a waste with his
+mouth full, and you sat there and told him.
+
+— He asked, said Grieve.
+
+She said it the way she said the beans wanted the shallow end.
+
+Steadfast put his hands flat on the table.
+
+— I have been here two years.
+
+— Yes.
+
+— Two years. And I did not know you had a sister.
+
+Grieve put the cup down and looked at him, and he saw her decide not to make it
+easier for him, and he watched her do it.
+
+— No, she said. — Nobody has asked me.
+
+— I would have asked.
+
+— Yes, she said. — Probably.
+
+She took the cups to the basin.
+
+He sat at the table for a long time after she had gone through to the other side of
+the room, and what he did with the time was go back over the two years looking for
+the place where he could have asked, and what he came out with instead was that he
+had asked her a great many questions in two years and that every single one of
+them had been about him.
+
+He did not ask her about the sister. Not that week, and not in the month after it,
+and not on the last morning, and he was never afterwards able to give himself a
+reason for that which sounded like anything except the true one.
+
+---
+
+He did ask her about the number, a few days later, out at the rows, because it was
+easier.
+
+— That is four since I came.
+
+— Yes.
+
+— Is that a lot.
+
+— It is a wave, she said. — There was one about six years ago and then almost
+nothing for four years and then this.
+
+— Why.
+
+— I do not know. I only know it is not steady.
+
+She went on down the row on her knees.
+
+— Do not make anything of it, she said. — I did, the first time.
+
+---
+
+## Twenty-Seven
 
 He asked her at the end of the summer, badly, in the middle of doing something
 else.
@@ -120,7 +258,7 @@ too quickly, she had answered in eleven years.
 — One night. Think about it for one night and then say no and I will never —
 
 — I have thought about it every time somebody has come over that fold, she said.
-— Nine times. And the answer has been the same nine times and it was not a
+— Thirteen times. And the answer has been the same thirteen times and it was not a
 different question when it was you.
 
 That landed harder than she had meant it to. He saw her see it land.
@@ -148,9 +286,9 @@ he walked past anything.
 — Someone else would —
 
 — No, she said. — In eleven years, nobody else has. I have been the only fire in
-this country for eleven years and I have counted nine people, and if you take the
-nine off the number and think about how many did not come close enough to see it,
-that is what I do instead of sleeping.
+this country for eleven years and I have counted thirteen people, nine of them
+before you, and if you take the thirteen off the number and think about how many
+did not come close enough to see it, that is what I do instead of sleeping.
 
 She said it flatly, without any grandeur at all, the way a woman tells you what
 her job is.
@@ -200,7 +338,7 @@ whole afternoon in front of him.
 
 ---
 
-## Twenty-Six
+## Twenty-Eight
 
 It could not be unasked.
 
@@ -210,9 +348,8 @@ did not avoid the subject; twice she raised things adjacent to it herself, easil
 to show that it could be raised. They worked. They ate. The orange hour still
 happened.
 
-But he now knew the answer to a question he had spent two years not asking, and
-knowing it changed what every ordinary day was. Before, the days had simply been
-the days. Now each one was a day on which he had chosen to stay, and the choosing
+But he now knew the answer to a question he had spent two years not asking. Before,
+the days had simply been the days. Now each one was a day on which he had chosen to stay, and the choosing
 was in the room, and it was in the room for her too, and neither of them could put
 it back.
 
@@ -224,7 +361,7 @@ He knew then that he was going. He did not admit it for a month.
 
 ---
 
-## Twenty-Seven
+## Twenty-Nine
 
 He told her on a morning that had nothing to recommend it.
 
@@ -281,14 +418,15 @@ He left it.
 
 ---
 
-## Twenty-Eight
+## Thirty
 
 She packed him two days of food.
 
 He watched her do it, standing in the door of the house with his pack already on,
-and she did it exactly the way she had done it for the girl in the thaw, the same
-cloth, the same three things, and neither of them said that and both of them knew
-it, and he had to look at the doorframe for a while.
+and she did it exactly the way she had done it for the woman in the cold and for
+the girl in the thaw, the same cloth, the same three things, and neither of them
+said that and both of them knew it, and he had to look at the doorframe for a
+while.
 
 Bread. The hard cheese. A stoppered flask.
 
@@ -307,9 +445,10 @@ She wiped her hands down her front.
 fourth rise will give you a cup if you are patient with it. After that you are past
 where I know and I have nothing for you.
 
-He knew the words. He had heard them said once already, in this yard, in the thaw,
-to a girl standing where he was standing with her pack still packed, and he held
-the bundle and waited for Grieve to say something about that.
+He knew the words. He had heard them said twice already in this yard, to a woman
+who had left a knife on the table and to a girl standing where he was standing with
+her pack still packed, and he held the bundle and waited for Grieve to say
+something about that.
 
 She did not.
 
