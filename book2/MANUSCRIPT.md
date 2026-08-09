@@ -44,7 +44,7 @@ is no walking back to a thing that is still there.
 
 ## Two
 
-He had been Steadfast for seven of the nineteen years and had been given it, which
+He had been Steadfast for six of the nineteen years and had been given it, which
 is the only way anybody gets one.
 
 Before that he had been called something ordinary that he had got from his mother
@@ -52,7 +52,7 @@ and had never thought about. What happened was that there was a winter with a lo
 of weather in it and a stretch of the road above the ford went bad, and he had
 walked it anyway, four times, in both directions, carrying for people who could
 not, and at the end of it a woman at the staging house had said it in front of
-about nine people and it had stuck within a season.
+about a dozen people and it had stuck within a season.
 
 He had been forty-one. He remembered being pleased in a way he was slightly
 ashamed of and going out afterwards and standing in the cold with his ears hot.
@@ -251,7 +251,7 @@ name in the way weather has a name, and nobody crossed it because there was noth
 on the other side worth crossing to, and the people who had gone into it were
 people who were not coming back.
 
-He walked for nine days through country where there were still farms.
+He walked for eight days through country where there were still farms.
 
 He was fed twice and turned away once and slept in a barn with the owner's
 knowledge and in two more without it. On the ninth day he passed a boy on a gate
@@ -826,8 +826,9 @@ been going for a month and which Steadfast had been meaning to do. It was a prop
 job. She sewed it back with a curved needle out of her own pack, and made the seam
 sit flat, and put a patch under it where the wear was going to come next.
 
-She told a story about a dog. Grieve laughed out loud, which Steadfast had heard
-twice in eight months and had both times had to look at the fire.
+She told a story about a dog. Grieve laughed out loud, which was the second time
+Steadfast had heard it in eight months, and both times he had had to look at the
+fire.
 
 ---
 
@@ -902,7 +903,7 @@ He kept the fire up.
 He built it stupidly big and put green stuff on it in armfuls, wet scrub and the
 tops off the bean canes, and stood back and watched the column go up straight
 because there was no wind, and then went and got more, and burned in one afternoon
-what they would ordinarily have burned in nine days. He knew what he was doing to
+what they would ordinarily have burned in a month. He knew what he was doing to
 the store of wood. He did it anyway. Twice he went up onto the fold and looked
 north-west at nothing, and came back down, and put more on.
 
@@ -1357,7 +1358,9 @@ the house and the smoke going up out of the chimney, and said:
 — Well. Somebody has done all right for themselves.
 
 He was not half dead. He was not anything. He had food in his pack and a fat on
-him that nobody four months out of the south has, and he came in and sat down at
+him that nobody four months out of the south has, and it came out over the meal
+that he had been three weeks on the edge of the country and not in it, working
+south along the fringe where there were still people, and had come up for a look, and he came in and sat down at
 the table without being asked twice and ate a great deal and said the cheese was
 strong.
 
@@ -1424,7 +1427,7 @@ Steadfast said it that night and could not stop himself.
 — Which part.
 
 — About your sister. He was rude to you at your own table and he was rude about
-the wall and he ate nine days of the store and he called your life a waste with his
+the wall and he ate a fortnight of the store and he called your life a waste with his
 mouth full, and you sat there and told him.
 
 — He asked, said Grieve.
@@ -1652,7 +1655,7 @@ you, and the fourth rise will hold a cup for a week after and not longer.
 
 She turned back to the stove.
 
-That was the whole conversation. He had built about nine versions of it over the
+That was the whole conversation. He had built about a dozen versions of it over the
 month and none of them had been that one, and he stood in the middle of the room
 for a while afterwards with his hands at his sides.
 
@@ -2010,7 +2013,7 @@ He stood there for a good while.
 
 Then he went back down and across and got his pack from beside the burnt patch,
 which took him most of the morning, and scattered the ash properly and trod it
-out, and did not build another fire for nine days.
+out, and did not build another fire for a fortnight.
 
 The third time somebody came.
 
@@ -2060,7 +2063,7 @@ he had been offered anything, and Steadfast said no thank you and then wanted it
 for the rest of the evening.
 
 He had food. He had a good pack, well made, and a coat that had been mended by
-somebody who could mend, and he had come nine days from a place he named as though
+somebody who could mend, and he had come twelve days from a place he named as though
 Steadfast would know it, and when Steadfast did not know it he described it
 cheerfully and at length.
 
@@ -3008,7 +3011,7 @@ it. It sounds different underfoot. Duller.
 
 — No, said Constant. — You were going quickly.
 
-It was the first time in two and a half years Steadfast had been in real danger
+It was the first time in three years Steadfast had been in real danger
 and it had come from ground, which he had thought he understood, and it had been
 read correctly by a man twenty-five years younger who had never crossed a waste in
 his life.
@@ -3197,7 +3200,7 @@ What he said in the end was:
 
 — Then what is it.
 
-And Steadfast, who had spent two and a half years learning not to hand people
+And Steadfast, who had spent two years in a garden learning not to hand people
 finished things, found that he wanted very badly to hand this one over, and could
 not make it into anything.
 
@@ -3357,7 +3360,7 @@ looked in, and that was Ivo's workshop, and after that he did not walk to the we
 so often.
 
 The workshop was not tidy. He had expected it to be, from the way the man mended,
-and it was the opposite — it was a place where about nine things were in progress
+and it was the opposite — it was a place where about a dozen things were in progress
 at once and each of them had its own corner and its own logic and Ivo could find
 anything in it in the dark. There was a wheel with two spokes out. There was a
 box of hinges sorted by nothing Steadfast could identify. There was, that winter, a
@@ -3417,7 +3420,7 @@ be. She was not warm. She was exact and she was fair, and when she told you a th
 was wrong she told you once, and she never once told anybody the same thing twice,
 which meant everybody listened the first time.
 
-Sal was eight and belonged to everybody in the loose way children in small places
+Sal was seven and belonged to everybody in the loose way children in small places
 do. She had two questions she asked adults, in rotation, and the first was whether
 they had ever seen the sea.
 
@@ -3492,7 +3495,7 @@ Three weeks later he was in the workshop at dusk and Ivo had a carter's docket o
 the bench and was reading it out — not remarking on it, reading it, in the same low
 voice he did everything in — and Rell was standing at the other end of the bench
 with her arms folded looking at the wall while he did it. She said *yes* twice and
-*that is wrong, it was nine* once. Then she went out.
+*that is wrong, it was seven* once. Then she went out.
 
 Neither of them had looked at Steadfast at all.
 
@@ -3526,7 +3529,7 @@ Steadfast said nothing, which was the correct thing and which he only just manag
 and who laid what and in which year. That is not a boast. That is what I have
 instead.
 
-Then she said: — Your kerb run is nine short, and went on down the line.
+Then she said: — Your kerb run is six short, and went on down the line.
 
 ---
 
@@ -3548,7 +3551,7 @@ some kind and probably a meeting.
 What happened was that about thirty people went up there the next morning with
 tools.
 
-They took the whole four hundred yards out. They did it over nine days in the
+They took the whole four hundred yards out. They did it over eight days in the
 cold, in shifts, and the old woman who had laid the original section — Bel, she was
 seventy-something and did not work any more — came up to watch, and stood at the
 edge of it the whole first day, and at one point Steadfast heard Rell say to her,
@@ -3565,7 +3568,7 @@ without any edge at all:
 And Rell said: — Well. Now we know why.
 
 And that was the entire reckoning, and they relaid it properly, and Bel came up
-every day of the nine and no one suggested she should not.
+every day of the eight and no one suggested she should not.
 
 On the sixth day she sat down on the kerb next to Steadfast while he was eating and
 said, without introduction:
@@ -3675,8 +3678,8 @@ stood up and walked the length of the room and out of the door, and the room
 carried on, and a woman near the top reached over and moved his plate so it was not
 in anybody's way.
 
-Steadfast, who had spent two and a half years learning not to ask, asked Ivo about
-it afterwards.
+Steadfast, who had by then spent six years learning not to ask, asked Ivo about it
+afterwards.
 
 — That will be the date, said Ivo.
 
@@ -3776,8 +3779,8 @@ She was eighty or near it and she died the way you hope to, in her own bed with
 two of her daughters there, over about three days, and there was nothing bad about
 it except that it happened.
 
-Steadfast had not known her well. He had eaten at the same table as her ninety
-times and had sat on a kerb with her once and had carried a load of broken stone
+Steadfast had not known her well. He had eaten in the same room as her most
+evenings for four years and had sat on a kerb with her once and had carried a load of broken stone
 past her house every day for a season, and she had once told him his gloves were
 no good, which was true.
 
@@ -3840,8 +3843,8 @@ half dead walks past a mile east of it and never knows he walked past anything.
 
 He was looking at the table.
 
-— She counts the ones who found her. She has nine. And what she does instead of
-sleeping is think about the number she does not have.
+— She counts the ones who found her. She had thirteen when I left. And what she
+does instead of sleeping is think about the number she does not have.
 
 Nobody said anything for a while. Then Petch, who was twenty-four by then and had
 still never been anywhere, said:
@@ -3965,7 +3968,7 @@ nobody at that table so much as looked up.
 
 ---
 
-It went out east in the sixth year. Two carts, nine people, forty days.
+It went out east in the sixth year. Two carts, ten people, forty days.
 
 He did not go with them.
 
@@ -3975,7 +3978,7 @@ entire forty days steering it, and that it had stopped being his about eighteen
 months earlier and everybody knew it except him.
 
 He stood on the road and watched the carts up the north end and out past the well,
-and Sal, who was thirteen by then, stood next to him and said: — Are you sad?
+and Sal, who was twelve by then, stood next to him and said: — Are you sad?
 
 — A bit.
 
@@ -4084,7 +4087,7 @@ without being told to.
 
 Steadfast looked at that for a while and did not explain it to anybody either.
 
-Sal, who was fourteen and had a face like her mother's, asked him whether he was
+Sal, who was thirteen and had a face like her mother's, asked him whether he was
 going to go and get his name.
 
 — I do not know, he said. — I think it might be waiting there.
@@ -4102,8 +4105,8 @@ written on it.
 
 — I know it is Ivo, said Rell. — There will be one of him there too. There is
 always one. Get somebody to put down what she knows about that country before she
-dies, because it is all in her head, and I have had nine years of knowing exactly
-what that is worth and exactly what it costs.
+dies, because it is all in her head, and I have had a lifetime of knowing exactly what
+that is worth and exactly what it costs.
 
 Steadfast stood in the yard with the slate in his hand.
 
@@ -4236,7 +4239,7 @@ Nineteen.
 
 He asked and Hesta told him, and she told him the rest of it in the same voice,
 because it was all the same list to her: that two of the nineteen had died here,
-one within a day of coming in and one after nine days of being nursed, and that
+one within a day of coming in and one after six days of being nursed, and that
 they were buried out past the brush stack under stones because the ground was hard,
 and that a woman who came through in the first summer had come back through going
 the other way in the spring and had stopped for a night and been well.
@@ -4456,7 +4459,7 @@ wall onto the open ground, and stopped.
 
 Six feet.
 
-Twenty-one years of it, the distance she had put between herself and everyone who
+Twenty-two years of it, the distance she had put between herself and everyone who
 had ever come over that fold, and he knew the exact number of paces and he stopped
 at it out of pure habit, at the place, on his side of it, because that was what he
 had been taught by watching.
@@ -4531,13 +4534,22 @@ then. He is somebody's father and I do not know whose and neither does he now.
 
 — And you —
 
-— I built him a chair, Grieve said. — It is a bad chair. I am not Ivo.
+— I built him a chair, Grieve said. — It is a bad chair.
 
-Steadfast opened his mouth and shut it.
+Steadfast looked at it. The joints were wrong and one leg had been packed out with
+a wedge.
 
-— You do not know who Ivo is, he said.
+— Ivo would have had that right in an afternoon.
 
-— No, said Grieve. — But you said it like I would.
+It was out before he knew it was coming, and he heard it land in a room where it
+meant nothing at all.
+
+— I do not know who that is, said Grieve.
+
+— No.
+
+— But you said it the way you say a name to somebody who knows it, she said, and
+went on cutting.
 
 ---
 
@@ -4596,7 +4608,7 @@ nineteen.
 
 She said it herself, later, when she could.
 
-— I have thought about that number every night for twenty-one years, she said. —
+— I have thought about that number every night for twenty-two years, she said. —
 The one I do not have. The ones who came over that ground and did not come close
 enough, and I have made them up, I have made up faces, I have made up a boy of
 about fourteen and I have thought about him for eleven years and he does not exist,
@@ -4837,6 +4849,74 @@ and said nothing at all, and went inside, and he heard the pot go on.
 
 ---
 
+He got Rell's slate out in the fifth week and it went badly for a month.
+
+He told her what it was for straight, because there was no other way to put the
+word *dies* in front of a woman of sixty who was going to go on living in a hole
+after he had gone. A woman eight hundred miles east had sent it. It was all in her
+head, and somebody should put it down.
+
+— All right, said Grieve.
+
+Then she was impossible.
+
+He asked where the water was on the north side and she said it depends. He asked
+what on, and she said on the year, and on how far you were carrying, and on whether
+you had a cup or a flask, and on whether it had been a wet spring, and by the end
+of the answer he had written nothing and she had told him something true that would
+not go on a slate.
+
+He tried her rules and got nowhere, because she did not have any. He tried the
+weather and got the hip and the beans going quiet, and wrote it down and looked at
+it and could not think what a stranger would do with it.
+
+What he had at the end of a month was the eleven days, and how to set a gutter, and
+the second barrel. It filled one side and did not fill it well.
+
+---
+
+— You can write, he said.
+
+— I can.
+
+— Then in twenty-two years why has none of this —
+
+— Who is it for, she said.
+
+That took him about a week. He turned it over on the step and in the rows and once
+in the middle of the night, and what he came back with was not clever and he said
+it in the yard while she was doing something to a cane.
+
+— Whoever is in this house when you are not in it.
+
+Grieve did not answer that. She finished the cane and moved down the row, and he
+did not know at the time and never afterwards found out whether she had been
+waiting nine years for somebody to say it or whether it simply had not been a good
+enough answer.
+
+That evening she took the slate off him and turned it over.
+
+— Give me the other side, she said.
+
+And she dictated the route.
+
+Third fold. The burnt scrub on your left. Not the flat, because the flat is
+longer. The seam under the lip of the fourth rise, and you get down on your
+stomach and you are patient with it, twenty minutes, and it will give you a cup.
+Nine days to a line of pale stone. Past that I have never been, and nobody should
+write down a thing they have not walked.
+
+It took about a minute, the way it always had. He wrote it slowly and she waited,
+and when it was done she read it back over his shoulder, once, and made him change
+one word, and did not say anything else about it.
+
+He put it on the shelf by the stove, on the end, next to the cloth the bundles were
+made up in.
+
+He did not know when he left whether she would ever put anything more on it.
+
+---
+
 ## Seventy-Five
 
 Somebody came over the fold in the eighth week and Steadfast watched the whole of
@@ -4894,8 +4974,8 @@ over the end of it.
 She never once tried to bring him down.
 
 Steadfast did, in the end. He could not sit in it any longer and he said something
-about how the wall had taken nine years and had been two people, and it came out
-placating, and the man turned on him and asked him what exactly he was, then,
+about how long the wall had taken and how few hands there had ever been to build
+it, and it came out placating, and the man turned on him and asked him what exactly he was, then,
 sitting there, and Steadfast found that he did not have an answer that would fit
 in the room.
 

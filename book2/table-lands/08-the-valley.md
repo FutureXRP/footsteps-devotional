@@ -60,7 +60,7 @@ looked in, and that was Ivo's workshop, and after that he did not walk to the we
 so often.
 
 The workshop was not tidy. He had expected it to be, from the way the man mended,
-and it was the opposite — it was a place where about nine things were in progress
+and it was the opposite — it was a place where about a dozen things were in progress
 at once and each of them had its own corner and its own logic and Ivo could find
 anything in it in the dark. There was a wheel with two spokes out. There was a
 box of hinges sorted by nothing Steadfast could identify. There was, that winter, a
@@ -120,7 +120,7 @@ be. She was not warm. She was exact and she was fair, and when she told you a th
 was wrong she told you once, and she never once told anybody the same thing twice,
 which meant everybody listened the first time.
 
-Sal was eight and belonged to everybody in the loose way children in small places
+Sal was seven and belonged to everybody in the loose way children in small places
 do. She had two questions she asked adults, in rotation, and the first was whether
 they had ever seen the sea.
 
@@ -195,7 +195,7 @@ Three weeks later he was in the workshop at dusk and Ivo had a carter's docket o
 the bench and was reading it out — not remarking on it, reading it, in the same low
 voice he did everything in — and Rell was standing at the other end of the bench
 with her arms folded looking at the wall while he did it. She said *yes* twice and
-*that is wrong, it was nine* once. Then she went out.
+*that is wrong, it was seven* once. Then she went out.
 
 Neither of them had looked at Steadfast at all.
 
@@ -229,7 +229,7 @@ Steadfast said nothing, which was the correct thing and which he only just manag
 and who laid what and in which year. That is not a boast. That is what I have
 instead.
 
-Then she said: — Your kerb run is nine short, and went on down the line.
+Then she said: — Your kerb run is six short, and went on down the line.
 
 ---
 
@@ -251,7 +251,7 @@ some kind and probably a meeting.
 What happened was that about thirty people went up there the next morning with
 tools.
 
-They took the whole four hundred yards out. They did it over nine days in the
+They took the whole four hundred yards out. They did it over eight days in the
 cold, in shifts, and the old woman who had laid the original section — Bel, she was
 seventy-something and did not work any more — came up to watch, and stood at the
 edge of it the whole first day, and at one point Steadfast heard Rell say to her,
@@ -268,7 +268,7 @@ without any edge at all:
 And Rell said: — Well. Now we know why.
 
 And that was the entire reckoning, and they relaid it properly, and Bel came up
-every day of the nine and no one suggested she should not.
+every day of the eight and no one suggested she should not.
 
 On the sixth day she sat down on the kerb next to Steadfast while he was eating and
 said, without introduction:
@@ -378,8 +378,8 @@ stood up and walked the length of the room and out of the door, and the room
 carried on, and a woman near the top reached over and moved his plate so it was not
 in anybody's way.
 
-Steadfast, who had spent two and a half years learning not to ask, asked Ivo about
-it afterwards.
+Steadfast, who had by then spent six years learning not to ask, asked Ivo about it
+afterwards.
 
 — That will be the date, said Ivo.
 
@@ -479,8 +479,8 @@ She was eighty or near it and she died the way you hope to, in her own bed with
 two of her daughters there, over about three days, and there was nothing bad about
 it except that it happened.
 
-Steadfast had not known her well. He had eaten at the same table as her ninety
-times and had sat on a kerb with her once and had carried a load of broken stone
+Steadfast had not known her well. He had eaten in the same room as her most
+evenings for four years and had sat on a kerb with her once and had carried a load of broken stone
 past her house every day for a season, and she had once told him his gloves were
 no good, which was true.
 
@@ -543,8 +543,8 @@ half dead walks past a mile east of it and never knows he walked past anything.
 
 He was looking at the table.
 
-— She counts the ones who found her. She has nine. And what she does instead of
-sleeping is think about the number she does not have.
+— She counts the ones who found her. She had thirteen when I left. And what she
+does instead of sleeping is think about the number she does not have.
 
 Nobody said anything for a while. Then Petch, who was twenty-four by then and had
 still never been anywhere, said:
@@ -668,7 +668,7 @@ nobody at that table so much as looked up.
 
 ---
 
-It went out east in the sixth year. Two carts, nine people, forty days.
+It went out east in the sixth year. Two carts, ten people, forty days.
 
 He did not go with them.
 
@@ -678,7 +678,7 @@ entire forty days steering it, and that it had stopped being his about eighteen
 months earlier and everybody knew it except him.
 
 He stood on the road and watched the carts up the north end and out past the well,
-and Sal, who was thirteen by then, stood next to him and said: — Are you sad?
+and Sal, who was twelve by then, stood next to him and said: — Are you sad?
 
 — A bit.
 
@@ -787,7 +787,7 @@ without being told to.
 
 Steadfast looked at that for a while and did not explain it to anybody either.
 
-Sal, who was fourteen and had a face like her mother's, asked him whether he was
+Sal, who was thirteen and had a face like her mother's, asked him whether he was
 going to go and get his name.
 
 — I do not know, he said. — I think it might be waiting there.
@@ -805,8 +805,8 @@ written on it.
 
 — I know it is Ivo, said Rell. — There will be one of him there too. There is
 always one. Get somebody to put down what she knows about that country before she
-dies, because it is all in her head, and I have had nine years of knowing exactly
-what that is worth and exactly what it costs.
+dies, because it is all in her head, and I have had a lifetime of knowing exactly what
+that is worth and exactly what it costs.
 
 Steadfast stood in the yard with the slate in his hand.
 

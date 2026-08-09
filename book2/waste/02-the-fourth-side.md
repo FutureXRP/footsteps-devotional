@@ -90,8 +90,9 @@ been going for a month and which Steadfast had been meaning to do. It was a prop
 job. She sewed it back with a curved needle out of her own pack, and made the seam
 sit flat, and put a patch under it where the wear was going to come next.
 
-She told a story about a dog. Grieve laughed out loud, which Steadfast had heard
-twice in eight months and had both times had to look at the fire.
+She told a story about a dog. Grieve laughed out loud, which was the second time
+Steadfast had heard it in eight months, and both times he had had to look at the
+fire.
 
 ---
 
@@ -166,7 +167,7 @@ He kept the fire up.
 He built it stupidly big and put green stuff on it in armfuls, wet scrub and the
 tops off the bean canes, and stood back and watched the column go up straight
 because there was no wind, and then went and got more, and burned in one afternoon
-what they would ordinarily have burned in nine days. He knew what he was doing to
+what they would ordinarily have burned in a month. He knew what he was doing to
 the store of wood. He did it anyway. Twice he went up onto the fold and looked
 north-west at nothing, and came back down, and put more on.
 

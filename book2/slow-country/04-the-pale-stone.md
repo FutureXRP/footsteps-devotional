@@ -253,6 +253,6 @@ He stood there for a good while.
 
 Then he went back down and across and got his pack from beside the burnt patch,
 which took him most of the morning, and scattered the ash properly and trod it
-out, and did not build another fire for nine days.
+out, and did not build another fire for a fortnight.
 
 The third time somebody came.

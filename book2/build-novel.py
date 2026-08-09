@@ -90,6 +90,13 @@ for raw in ms.split('\n'):
     buf.append(line.strip())
 flush()
 
+# an ornament immediately before a section heading or part page is noise
+body = [b for i, b in enumerate(body)
+        if not (b.startswith('<div class="orn"')
+                and i + 1 < len(body)
+                and (body[i + 1].startswith('<h3 class="sec"')
+                     or body[i + 1].startswith('<div class="partpage"')))]
+
 HEAD = """<!doctype html><html lang="en"><head><meta charset="utf-8"><title>The Ninth — proof</title><style>
 @page{size:Letter;margin:22mm 24mm 20mm}
 body{font-family:Georgia,'Times New Roman',serif;font-size:11.5pt;line-height:1.75;color:#1a1a1a;margin:0}

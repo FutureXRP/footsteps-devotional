@@ -24,7 +24,7 @@ it. It sounds different underfoot. Duller.
 
 — No, said Constant. — You were going quickly.
 
-It was the first time in two and a half years Steadfast had been in real danger
+It was the first time in three years Steadfast had been in real danger
 and it had come from ground, which he had thought he understood, and it had been
 read correctly by a man twenty-five years younger who had never crossed a waste in
 his life.
@@ -213,7 +213,7 @@ What he said in the end was:
 
 — Then what is it.
 
-And Steadfast, who had spent two and a half years learning not to hand people
+And Steadfast, who had spent two years in a garden learning not to hand people
 finished things, found that he wanted very badly to hand this one over, and could
 not make it into anything.
 

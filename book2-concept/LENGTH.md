@@ -1,6 +1,6 @@
 # Getting to 50,000 — what it would cost and what it would buy
 
-> **Status: the enrichment pass below is complete.** 25,900 → **37,500** words, 78
+> **Status: the enrichment pass below is complete.** 25,900 → **38,200** words, 78
 > sections, 116 pages. Everything in *What I would actually add* was written, plus
 > *the other fire*, plus the two heaviest named cuts from the second-draft
 > checklist. Log at the bottom of this file.
@@ -158,7 +158,7 @@ to connect.
 
 # What was actually written
 
-25,900 → **37,510** words · 66 → **78** sections · 116 pages.
+25,900 → **38,167** words · 66 → **78** sections · 117 pages. See AUDIT.md for the pre-review pass.
 
 ### The valley: 4,147 → 6,388 (+2,241)
 Ivo's workshop in the first winter. **Rell cannot read** — the slate scene, and her

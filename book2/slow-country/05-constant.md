@@ -48,7 +48,7 @@ he had been offered anything, and Steadfast said no thank you and then wanted it
 for the rest of the evening.
 
 He had food. He had a good pack, well made, and a coat that had been mended by
-somebody who could mend, and he had come nine days from a place he named as though
+somebody who could mend, and he had come twelve days from a place he named as though
 Steadfast would know it, and when Steadfast did not know it he described it
 cheerfully and at length.
 

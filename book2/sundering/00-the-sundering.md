@@ -48,7 +48,7 @@ is no walking back to a thing that is still there.
 
 ## Two
 
-He had been Steadfast for seven of the nineteen years and had been given it, which
+He had been Steadfast for six of the nineteen years and had been given it, which
 is the only way anybody gets one.
 
 Before that he had been called something ordinary that he had got from his mother
@@ -56,7 +56,7 @@ and had never thought about. What happened was that there was a winter with a lo
 of weather in it and a stretch of the road above the ford went bad, and he had
 walked it anyway, four times, in both directions, carrying for people who could
 not, and at the end of it a woman at the staging house had said it in front of
-about nine people and it had stuck within a season.
+about a dozen people and it had stuck within a season.
 
 He had been forty-one. He remembered being pleased in a way he was slightly
 ashamed of and going out afterwards and standing in the cold with his ears hot.
@@ -255,7 +255,7 @@ name in the way weather has a name, and nobody crossed it because there was noth
 on the other side worth crossing to, and the people who had gone into it were
 people who were not coming back.
 
-He walked for nine days through country where there were still farms.
+He walked for eight days through country where there were still farms.
 
 He was fed twice and turned away once and slept in a barn with the owner's
 knowledge and in two more without it. On the ninth day he passed a boy on a gate

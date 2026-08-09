@@ -92,7 +92,7 @@ Nineteen.
 
 He asked and Hesta told him, and she told him the rest of it in the same voice,
 because it was all the same list to her: that two of the nineteen had died here,
-one within a day of coming in and one after nine days of being nursed, and that
+one within a day of coming in and one after six days of being nursed, and that
 they were buried out past the brush stack under stones because the ground was hard,
 and that a woman who came through in the first summer had come back through going
 the other way in the spring and had stopped for a night and been well.
@@ -312,7 +312,7 @@ wall onto the open ground, and stopped.
 
 Six feet.
 
-Twenty-one years of it, the distance she had put between herself and everyone who
+Twenty-two years of it, the distance she had put between herself and everyone who
 had ever come over that fold, and he knew the exact number of paces and he stopped
 at it out of pure habit, at the place, on his side of it, because that was what he
 had been taught by watching.
@@ -387,13 +387,22 @@ then. He is somebody's father and I do not know whose and neither does he now.
 
 — And you —
 
-— I built him a chair, Grieve said. — It is a bad chair. I am not Ivo.
+— I built him a chair, Grieve said. — It is a bad chair.
 
-Steadfast opened his mouth and shut it.
+Steadfast looked at it. The joints were wrong and one leg had been packed out with
+a wedge.
 
-— You do not know who Ivo is, he said.
+— Ivo would have had that right in an afternoon.
 
-— No, said Grieve. — But you said it like I would.
+It was out before he knew it was coming, and he heard it land in a room where it
+meant nothing at all.
+
+— I do not know who that is, said Grieve.
+
+— No.
+
+— But you said it the way you say a name to somebody who knows it, she said, and
+went on cutting.
 
 ---
 
@@ -452,7 +461,7 @@ nineteen.
 
 She said it herself, later, when she could.
 
-— I have thought about that number every night for twenty-one years, she said. —
+— I have thought about that number every night for twenty-two years, she said. —
 The one I do not have. The ones who came over that ground and did not come close
 enough, and I have made them up, I have made up faces, I have made up a boy of
 about fourteen and I have thought about him for eleven years and he does not exist,
@@ -693,6 +702,74 @@ and said nothing at all, and went inside, and he heard the pot go on.
 
 ---
 
+He got Rell's slate out in the fifth week and it went badly for a month.
+
+He told her what it was for straight, because there was no other way to put the
+word *dies* in front of a woman of sixty who was going to go on living in a hole
+after he had gone. A woman eight hundred miles east had sent it. It was all in her
+head, and somebody should put it down.
+
+— All right, said Grieve.
+
+Then she was impossible.
+
+He asked where the water was on the north side and she said it depends. He asked
+what on, and she said on the year, and on how far you were carrying, and on whether
+you had a cup or a flask, and on whether it had been a wet spring, and by the end
+of the answer he had written nothing and she had told him something true that would
+not go on a slate.
+
+He tried her rules and got nowhere, because she did not have any. He tried the
+weather and got the hip and the beans going quiet, and wrote it down and looked at
+it and could not think what a stranger would do with it.
+
+What he had at the end of a month was the eleven days, and how to set a gutter, and
+the second barrel. It filled one side and did not fill it well.
+
+---
+
+— You can write, he said.
+
+— I can.
+
+— Then in twenty-two years why has none of this —
+
+— Who is it for, she said.
+
+That took him about a week. He turned it over on the step and in the rows and once
+in the middle of the night, and what he came back with was not clever and he said
+it in the yard while she was doing something to a cane.
+
+— Whoever is in this house when you are not in it.
+
+Grieve did not answer that. She finished the cane and moved down the row, and he
+did not know at the time and never afterwards found out whether she had been
+waiting nine years for somebody to say it or whether it simply had not been a good
+enough answer.
+
+That evening she took the slate off him and turned it over.
+
+— Give me the other side, she said.
+
+And she dictated the route.
+
+Third fold. The burnt scrub on your left. Not the flat, because the flat is
+longer. The seam under the lip of the fourth rise, and you get down on your
+stomach and you are patient with it, twenty minutes, and it will give you a cup.
+Nine days to a line of pale stone. Past that I have never been, and nobody should
+write down a thing they have not walked.
+
+It took about a minute, the way it always had. He wrote it slowly and she waited,
+and when it was done she read it back over his shoulder, once, and made him change
+one word, and did not say anything else about it.
+
+He put it on the shelf by the stove, on the end, next to the cloth the bundles were
+made up in.
+
+He did not know when he left whether she would ever put anything more on it.
+
+---
+
 ## Seventy-Five
 
 Somebody came over the fold in the eighth week and Steadfast watched the whole of
@@ -750,8 +827,8 @@ over the end of it.
 She never once tried to bring him down.
 
 Steadfast did, in the end. He could not sit in it any longer and he said something
-about how the wall had taken nine years and had been two people, and it came out
-placating, and the man turned on him and asked him what exactly he was, then,
+about how long the wall had taken and how few hands there had ever been to build
+it, and it came out placating, and the man turned on him and asked him what exactly he was, then,
 sitting there, and Steadfast found that he did not have an answer that would fit
 in the room.
 

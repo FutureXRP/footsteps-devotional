@@ -98,7 +98,9 @@ the house and the smoke going up out of the chimney, and said:
 — Well. Somebody has done all right for themselves.
 
 He was not half dead. He was not anything. He had food in his pack and a fat on
-him that nobody four months out of the south has, and he came in and sat down at
+him that nobody four months out of the south has, and it came out over the meal
+that he had been three weeks on the edge of the country and not in it, working
+south along the fringe where there were still people, and had come up for a look, and he came in and sat down at
 the table without being asked twice and ate a great deal and said the cheese was
 strong.
 
@@ -165,7 +167,7 @@ Steadfast said it that night and could not stop himself.
 — Which part.
 
 — About your sister. He was rude to you at your own table and he was rude about
-the wall and he ate nine days of the store and he called your life a waste with his
+the wall and he ate a fortnight of the store and he called your life a waste with his
 mouth full, and you sat there and told him.
 
 — He asked, said Grieve.
@@ -393,7 +395,7 @@ you, and the fourth rise will hold a cup for a week after and not longer.
 
 She turned back to the stove.
 
-That was the whole conversation. He had built about nine versions of it over the
+That was the whole conversation. He had built about a dozen versions of it over the
 month and none of them had been that one, and he stood in the middle of the room
 for a while afterwards with his hands at his sides.
 
