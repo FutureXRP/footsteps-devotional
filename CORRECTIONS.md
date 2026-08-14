@@ -110,11 +110,51 @@ text was rewritten.
 
 ---
 
+## August 2026 — Vol 1 duplication (the other half of the two-arc problem)
+
+Measured against the data rather than the audit's list. The bodies were **not**
+duplicated — the highest `moment` overlap between any two Vol 1 entries was
+0.37 and every `weight` pair was below 0.21. The duplication was in the
+surrounding fields, where the two arcs had reached for the same famous
+quotation, and it only became obvious once the merge made those entries
+adjacent. Fixed in place; no entry merged, so the day count and the new
+chronological order are untouched.
+
+- **Day 12** used Ananias's Acts 9:17 line verbatim (0.94 against Day 13, which
+  *is* the Ananias entry) → Paul's own retrospect on his calling, Galatians
+  1:15–16. Acts 9:11 is this entry's Scripture, so it could not double as Voice.
+- **Day 30** used the "sing a hymn to Christ as to a god" passage (0.83 against
+  Day 31, whose *title* is that line) → Pliny's opening admission to Trajan that
+  he has never handled a Christian case, which is what "the governor's
+  questionnaire" is about.
+- **Day 40** quoted the rule of faith from *Against Heresies* I.10.1 while Day 41
+  quoted I.10.2 — the same passage, split → Irenaeus's own line, "The glory of
+  God is a living man" (IV.20.7), which suits the massacre survivor.
+- **Day 64** answered Day 63's "In this sign, conquer" with "By this sign,
+  conquer" → Eusebius on Maxentius drowning ("He sank as lead in the mighty
+  waters"), which belongs to the battle rather than the vision.
+- **Day 69** shared Day 68's `figure` label verbatim, restated the same Arius
+  slogan, and repeated John 1:1 → relabelled "Arius, priest of Baucalis in
+  Alexandria", given a line from the *Thalia* (this entry is about Arius the
+  songwriter), and moved to Colossians 1:15–17, the text Arius actually leaned
+  on. Source note now records that his words survive only through Athanasius.
+- **Day 73** title "One word that split the world" sat next to Day 72's "The
+  question that split the world" → "An iota of difference", the phrase its own
+  body already turns on.
+
+**Deliberately left:** the martyr-confession echo (Perpetua at 48, Maximilian at
+57, both "I am a Christian") is the formula martyrs actually used; Tertullian's
+"What has Athens to do with Jerusalem" (45) and "What has the emperor to do with
+the church" (67) are different speakers 22 entries apart. John 1:1 still carries
+both Day 68 and Day 72 — it is the verse the whole controversy turned on.
+
+---
+
 ## Pending Review
 
 ### Editorial / structural — decisions for Matt (NOT yet applied)
 These were identified in the audit but involve merging/reordering entries (which renumbers the 365-day plan) rather than fixing a field, so they are held for a deliberate editorial pass. **Caution:** several of the audit's "verbatim-identical Voice quote" claims did not hold against the data (the Voice quotes actually differ) and one was wrong (Days 48 & 72 do **not** share the title "The Arian controversy begins" — their titles differ entirely). Each merge must be judged by reading the full bodies, not the audit's cited evidence.
-- **Vol 1 two-arc redundancy:** ~~Days 52–73 re-walk 1–51~~ — **the ordering half is now resolved** (see *Vol 1 reordered chronologically* below). The two arcs are merged into one timeline, so the hard 325 AD → c. 108 AD reset at 51→52 is gone. The **near-duplicate pairs remain open**, and are now adjacent under their new numbers: 27/28/29 (Ignatius), 30/31 (Pliny), 40/41/42 (Irenaeus), 44/45 (Tertullian), 47/48 (Perpetua), 43/49/50 (Origen), 68/69 (Arius), 71/72/73 (Nicaea). Each still needs a read-and-merge decision.
+- ~~**Vol 1 two-arc redundancy**~~ — **resolved**; see *Vol 1 reordered chronologically* and *Vol 1 duplication* below. The volume is one timeline and the duplicated fields are differentiated. No entries were merged, so the 365-day plan is intact.
 - **Vol 2:** near-duplicate pairs 75/76, 84/85, 97/98 (confirmed: same scripture + identical closing line), 101/102, 126/127; cross-volume repeats 79–81 vs 41–42, 74 vs 50/51; **Day 135** dated 988 AD inside the 313–600 volume (relocate to Vol 3 or frame as a deliberate flash-forward); **Days 137/138** are both Boethius entries (possible merge).
 - **Vol 3:** Days 207≈202 (Hus swan) and 208≈203 (à Kempis) duplicate earlier entries; Day 209 (Council of Constance, 1417) is chronologically stranded after the Joan cluster; pairs 157/158, 181/182.
 - **Vol 4:** strong duplicate pairs 228/229, 234/235 (235's note literally reads "Same as Day 234"), 236/237, 241/242, 268/269, 275/276.
