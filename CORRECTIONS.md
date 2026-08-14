@@ -84,11 +84,37 @@ The narrative text in each of these was already accurate; only the `notes` sourc
 
 ---
 
+## August 2026 — Vol 1 reordered chronologically
+
+**Blood & Fire (days 1–73) now runs in one timeline.** The volume had been
+written in two passes: days 1–51 walked 30→325 AD, then day 52 reset to
+c. 108 AD and walked the same period again. The two arcs are merged and the
+volume renumbered; **51 of the 73 entries moved.** Volume boundaries are
+unchanged (Vol 1 is still days 1–73; Vol 2 still opens at 74), and no entry
+text was rewritten.
+
+- **Sort:** first year in `dateLabel`, ties broken by the previous day number so
+  deliberate sequences (arrest → martyrdom) keep their internal order.
+- **One manual placement:** "The Council of Nicaea opens" (May 325) was sorted
+  last among the 325 AD entries; it is placed ahead of the Nicaea debate and
+  creed entries it sets up.
+- **Cross-reference updated:** Blandina's source note ("Same as Day 35") now
+  points at Day 38.
+- **Reader data migrated:** saved progress, bookmarks and last-read are day
+  numbers, so `lib/storage.ts` remaps them once per browser (`V1_REMAP`).
+  Without it, every reader's history would have pointed at the wrong devotions.
+- **Not migrated:** the Upstash read counters behind `/admin` are keyed by day,
+  so all-time counts for days 1–73 recorded before this change now sit against
+  whichever devotion holds that number. Vol 1 history is not comparable across
+  this date.
+
+---
+
 ## Pending Review
 
 ### Editorial / structural — decisions for Matt (NOT yet applied)
 These were identified in the audit but involve merging/reordering entries (which renumbers the 365-day plan) rather than fixing a field, so they are held for a deliberate editorial pass. **Caution:** several of the audit's "verbatim-identical Voice quote" claims did not hold against the data (the Voice quotes actually differ) and one was wrong (Days 48 & 72 do **not** share the title "The Arian controversy begins" — their titles differ entirely). Each merge must be judged by reading the full bodies, not the audit's cited evidence.
-- **Vol 1 two-arc redundancy:** Days 52–73 re-walk 1–51; candidate near-duplicate pairs to merge/differentiate: 28/52, 29/53, 37/55, 38/57?, 39/58, 40/60, 50/51. Confirmed: 51→52 is a hard date reset (325 AD → c. 108 AD).
+- **Vol 1 two-arc redundancy:** ~~Days 52–73 re-walk 1–51~~ — **the ordering half is now resolved** (see *Vol 1 reordered chronologically* below). The two arcs are merged into one timeline, so the hard 325 AD → c. 108 AD reset at 51→52 is gone. The **near-duplicate pairs remain open**, and are now adjacent under their new numbers: 27/28/29 (Ignatius), 30/31 (Pliny), 40/41/42 (Irenaeus), 44/45 (Tertullian), 47/48 (Perpetua), 43/49/50 (Origen), 68/69 (Arius), 71/72/73 (Nicaea). Each still needs a read-and-merge decision.
 - **Vol 2:** near-duplicate pairs 75/76, 84/85, 97/98 (confirmed: same scripture + identical closing line), 101/102, 126/127; cross-volume repeats 79–81 vs 41–42, 74 vs 50/51; **Day 135** dated 988 AD inside the 313–600 volume (relocate to Vol 3 or frame as a deliberate flash-forward); **Days 137/138** are both Boethius entries (possible merge).
 - **Vol 3:** Days 207≈202 (Hus swan) and 208≈203 (à Kempis) duplicate earlier entries; Day 209 (Council of Constance, 1417) is chronologically stranded after the Joan cluster; pairs 157/158, 181/182.
 - **Vol 4:** strong duplicate pairs 228/229, 234/235 (235's note literally reads "Same as Day 234"), 236/237, 241/242, 268/269, 275/276.
