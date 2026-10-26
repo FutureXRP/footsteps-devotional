@@ -150,12 +150,59 @@ both Day 68 and Day 72 — it is the verse the whole controversy turned on.
 
 ---
 
+## October 2026 — Day 125 duplicate line; Augustine cluster reordered
+
+**Day 125 (Monte Cassino)** — The Weight repeated a whole paragraph: "Benedict
+buried his sister in his own tomb. He was not going anywhere." appeared as its
+own beat and then again at the head of the next paragraph, which added only a
+clause restating the opening line ("destroyed four times and rebuilt four times
+and is still there"). The duplicate paragraph was dropped; the standalone beat
+stands, and the entry keeps its deliberate doubled-line cadence without the
+copy-paste. 6 paragraphs → 5.
+
+**Augustine of Hippo (days 95–104) reordered chronologically.** The cluster ran
+out of sequence: the Confessions (c. 397) sat before the conversion it recounts
+(386), and Monica's entry (c. 354–387) sat after it. Four entries moved —
+old 99→95, 95→96, 100→99, 96→100. Sorted by the first year in `dateLabel`,
+consistent with the Vol 1 reorder.
+
+| Day | Date | Entry |
+|----:|------|-------|
+| 95 | c. 354–387 | Augustine's mother — Monica's thirty years of tears |
+| 96 | c. 371–386 | Augustine's restless youth |
+| 97 | 386 | Augustine's conversion — the voice in the garden |
+| 98 | 386 | Tolle lege |
+| 99 | 391 | Ordained by popular demand |
+| 100 | c. 397 | The Confessions — the opening |
+| 101 | 410–413 | The sack of Rome |
+| 102 | 413–426 | The City of God |
+| 103 | c. 410–418 | Pelagius versus Augustine |
+| 104 | c. 415 | Grace and free will |
+
+**One deliberate inversion:** Day 102 (413) precedes Day 103 (410). The sack of
+Rome and *The City of God written in response to it* must stay adjacent, and the
+Pelagian controversy is a separate thread that genuinely overlaps it through the
+410s–420s. Presenting them as two coherent threads reads better than
+interleaving two causal pairs by year.
+
+**Days 129–130 were not touched** — that is Augustine *of Canterbury*, a
+different man and the right place in the timeline (596–597 AD).
+
+- **Reader data migrated:** `lib/storage.ts` now carries a list of remaps, each
+  with its own marker, so a browser that already ran the Vol 1 migration still
+  picks this one up. Days outside a map are left alone.
+- **Not migrated:** the Upstash read counters behind `/admin` are keyed by day,
+  so counts recorded for days 95–104 before this change now sit against
+  whichever entry holds that number.
+
+---
+
 ## Pending Review
 
 ### Editorial / structural — decisions for Matt (NOT yet applied)
 These were identified in the audit but involve merging/reordering entries (which renumbers the 365-day plan) rather than fixing a field, so they are held for a deliberate editorial pass. **Caution:** several of the audit's "verbatim-identical Voice quote" claims did not hold against the data (the Voice quotes actually differ) and one was wrong (Days 48 & 72 do **not** share the title "The Arian controversy begins" — their titles differ entirely). Each merge must be judged by reading the full bodies, not the audit's cited evidence.
 - ~~**Vol 1 two-arc redundancy**~~ — **resolved**; see *Vol 1 reordered chronologically* and *Vol 1 duplication* below. The volume is one timeline and the duplicated fields are differentiated. No entries were merged, so the 365-day plan is intact.
-- **Vol 2:** near-duplicate pairs 75/76, 84/85, 97/98 (confirmed: same scripture + identical closing line), 101/102, 126/127; cross-volume repeats 79–81 vs 41–42, 74 vs 50/51; **Day 135** dated 988 AD inside the 313–600 volume (relocate to Vol 3 or frame as a deliberate flash-forward); **Days 137/138** are both Boethius entries (possible merge).
+- **Vol 2:** near-duplicate pairs 75/76, 84/85, 97/98 (confirmed: same scripture + near-identical closing line — the two garden-conversion entries, still open), 101/102, 126/127; cross-volume repeats 79–81 vs **55–56**, 74 vs **72/73** (those Vol 1 numbers restated after the Vol 1 reorder — they were 41–42 and 50/51); **Day 135** dated 988 AD inside the 313–600 volume (relocate to Vol 3 or frame as a deliberate flash-forward); **Days 137/138** are both Boethius entries (possible merge).
 - **Vol 3:** Days 207≈202 (Hus swan) and 208≈203 (à Kempis) duplicate earlier entries; Day 209 (Council of Constance, 1417) is chronologically stranded after the Joan cluster; pairs 157/158, 181/182.
 - **Vol 4:** strong duplicate pairs 228/229, 234/235 (235's note literally reads "Same as Day 234"), 236/237, 241/242, 268/269, 275/276.
 - **Vol 5:** "double ending" — day-count addresses at both Day 355 and Day 364 bracket the topical block 356–361 (relocate 356–361 earlier, or move the finale pieces to the very end); near-duplicate pairs 314/315, 327/329, 300/301, 310/311, 312/313, 331/332.

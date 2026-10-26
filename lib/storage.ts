@@ -7,12 +7,18 @@
 const key = (series: string, kind: 'bookmarks' | 'progress' | 'lastread') => `fd:${series}:${kind}`
 
 // ---------------------------------------------------------------------------
-// One-time migration: Church History Volume 1 (days 1-73) was written in two
-// passes and shipped out of order — days 1-51 walked 30-325 AD, then day 52
-// reset to c. 108 AD and walked it again. The volume is now a single timeline,
-// which renumbered 51 of its 73 entries. Saved progress and bookmarks are day
-// numbers, so without this remap a reader's history would point at the wrong
-// devotions. Runs once per browser, then leaves a marker.
+// One-time migrations for Church History reorderings. Saved progress and
+// bookmarks are day numbers, so whenever the plan is resequenced a reader's
+// history would otherwise point at the wrong devotions. Each reordering carries
+// its own remap and marker, so a browser that already ran an earlier one still
+// picks up the later ones. Days absent from a map are left alone.
+//
+// v1-chronological — Volume 1 (days 1-73) had been written in two passes: days
+//   1-51 walked 30-325 AD, then day 52 reset to c. 108 AD and walked it again.
+//   Merging the two arcs into one timeline renumbered 51 of its 73 entries.
+// augustine-chronological — the Augustine of Hippo cluster (days 95-104) ran out
+//   of sequence (the Confessions at 397 sat before the 386 conversion, and
+//   Monica's 354-387 entry sat after it). Four entries moved.
 // ---------------------------------------------------------------------------
 const V1_REMAP: Record<number, number> = {
   17: 20, 18: 17, 19: 18, 20: 19, 25: 26, 26: 25, 29: 30, 30: 32, 31: 34, 32: 35,
@@ -22,29 +28,36 @@ const V1_REMAP: Record<number, number> = {
   63: 53, 64: 54, 65: 57, 66: 60, 67: 61, 68: 62, 69: 64, 70: 66, 71: 67, 72: 69,
   73: 70,
 }
-const MIGRATION_MARKER = 'fd:footsteps:v1-chronological'
+const AUGUSTINE_REMAP: Record<number, number> = { 95: 96, 96: 100, 99: 95, 100: 99 }
+
+const REMAPS: ReadonlyArray<{ marker: string; map: Record<number, number> }> = [
+  { marker: 'fd:footsteps:v1-chronological', map: V1_REMAP },
+  { marker: 'fd:footsteps:augustine-chronological', map: AUGUSTINE_REMAP },
+]
 
 function migrate(series: string): void {
   if (series !== 'footsteps' || typeof window === 'undefined') return
-  try {
-    if (localStorage.getItem(MIGRATION_MARKER)) return
-    const remap = (d: number) => V1_REMAP[d] ?? d
-    for (const kind of ['progress', 'bookmarks'] as const) {
-      const raw = localStorage.getItem(key(series, kind))
-      if (raw) {
-        const days: number[] = JSON.parse(raw)
-        if (Array.isArray(days)) {
-          const moved = [...new Set(days.map(remap))].sort((a, b) => a - b)
-          localStorage.setItem(key(series, kind), JSON.stringify(moved))
+  for (const { marker, map } of REMAPS) {
+    try {
+      if (localStorage.getItem(marker)) continue
+      const remap = (d: number) => map[d] ?? d
+      for (const kind of ['progress', 'bookmarks'] as const) {
+        const raw = localStorage.getItem(key(series, kind))
+        if (raw) {
+          const days: number[] = JSON.parse(raw)
+          if (Array.isArray(days)) {
+            const moved = [...new Set(days.map(remap))].sort((a, b) => a - b)
+            localStorage.setItem(key(series, kind), JSON.stringify(moved))
+          }
         }
       }
+      const last = localStorage.getItem(key(series, 'lastread'))
+      if (last) localStorage.setItem(key(series, 'lastread'), String(remap(parseInt(last))))
+      localStorage.setItem(marker, '1')
+    } catch {
+      // A malformed value should never block reading; leave it and move on.
+      try { localStorage.setItem(marker, '1') } catch {}
     }
-    const last = localStorage.getItem(key(series, 'lastread'))
-    if (last) localStorage.setItem(key(series, 'lastread'), String(remap(parseInt(last))))
-    localStorage.setItem(MIGRATION_MARKER, '1')
-  } catch {
-    // A malformed value should never block reading; leave it and move on.
-    try { localStorage.setItem(MIGRATION_MARKER, '1') } catch {}
   }
 }
 
